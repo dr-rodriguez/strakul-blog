@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Ready Player One by Ernest Cline"
 date: 2024-05-10
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523547032i/12600138.jpg
+img: posts/20240510/12600138.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523547032i/12600138.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523547032i/12600138.jpg)
+[![](assets/img/posts/20240510/12600138.jpg)](assets/img/posts/20240510/12600138.jpg)
 
 I picked this up at a book store thinking I would finally read it. I had seen the movie version a long time ago and enjoyed that. Plus I'm a geek and fan of video games, science fiction, fantasy, books, anime, etc and was born in the 80s so I figured I would recognize a lot of the nostalgia hits this book is known for. Here's the Goodreads blurb:
 

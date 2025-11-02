@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Memories of Ice by Steven Erikson"
 date: 2012-03-18
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO6xxOW1uyt4bm2Q-MDxdwfd1peK4lFqhHn6HoF7Ubal6aQ6-hPUeVSm0cIWEriXZB9qobEqgVMHDELQHLIMCRMAU7hYPHLWO-QVbtdH3kTbfl9eEOk0xFRV25P_VG6iMwCU9K6vTvP4Y/s400/memoriesice.jpg
+img: posts/20120318/memoriesice_1.jpg
 tags: [Fantasy, Malazan, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO6xxOW1uyt4bm2Q-MDxdwfd1peK4lFqhHn6HoF7Ubal6aQ6-hPUeVSm0cIWEriXZB9qobEqgVMHDELQHLIMCRMAU7hYPHLWO-QVbtdH3kTbfl9eEOk0xFRV25P_VG6iMwCU9K6vTvP4Y/s400/memoriesice.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO6xxOW1uyt4bm2Q-MDxdwfd1peK4lFqhHn6HoF7Ubal6aQ6-hPUeVSm0cIWEriXZB9qobEqgVMHDELQHLIMCRMAU7hYPHLWO-QVbtdH3kTbfl9eEOk0xFRV25P_VG6iMwCU9K6vTvP4Y/s1600/memoriesice.jpg)
+[![](assets/img/posts/20120318/memoriesice_1.jpg)](assets/img/posts/20120318/memoriesice.jpg)
 
 **Memories of Ice** is Book 3 of the Malazan Book of the Fallen. Naturally, you should probably check out Book 1 (**Gardens of the Moon**) and [Book 2](http://strakul.blogspot.com/2012/01/book-review-deadhouse-gates-by-steven.html) (**Deadhouse Gates**) before this one. It feels like the series diverged in book 2/3 with the story following some characters in book 2 and simultaneously following the other characters in book 3. However, the stories are very well contained so it doesn't feel like the similarly split**Feast for Crows/A Dance with Dragons** by George R.R. Martin.  
   
@@ -41,7 +41,7 @@ As a fan of magic, I enjoy the Malazan series. However, the rules behind magic a
   
 One of the bigger additions that **Memories of Ice** provides is the introduction of the K'Chain Che'Malle. These, along with the Jaghut, Imass, and Forkrul Assail, are one of the four founding races. At the start of the series we believe that only the T'lan Imass, in undead form, are the sole remnants of those races. Since then we have seen the brief release of a Jaghut Tyrant, suspect Jaghut activity elsewhere, and now see the velociraptor-like K'Chain Che'Malle in undead form. This is all very satisfying and I would not be surprised to see the Forkrul Assail emerge at some point in the future.  
   
-[![](http://fc04.deviantart.net/fs70/i/2010/124/7/9/K__ell_hunter_by_dassemultor.jpg)](http://fc04.deviantart.net/fs70/i/2010/124/7/9/K__ell_hunter_by_dassemultor.jpg)  
+[![](assets/img/posts/20120318/K__ell_hunter_by_dassemultor.jpg)](assets/img/posts/20120318/K__ell_hunter_by_dassemultor.jpg)  
 ---  
 An impressive depiction of a K'Chain Che'Malle K'ell hunter by [dassemultor](http://dassemultor.deviantart.com/art/K-ell-hunter-162957866?q=gallery%3Amalazan-art-guild%2F24467605&qo=0).  
 If you ever find yourself facing an undead dinosaur with full armor and swords for hands: run, run fast.  
@@ -53,7 +53,7 @@ As one of the characters says: "_The tale's far from done, after all._ "
 The next book in the Malazan series (**House of Chains**) is among those few fantasy novels that I have seen here in Chile:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDaArLKTjRbSrdcBb5Z768_j2Go971Srto0t_jaJVYKOwN189qe8OopSiuvBBUhO48Ecv4he0Q1VS613OaGC2XosVVrwKiimaqNHfKQrajQghdE8XNYdMrdIlvLlOeaDl3PFZkF3KUAXo/s320/IMG_4353.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDaArLKTjRbSrdcBb5Z768_j2Go971Srto0t_jaJVYKOwN189qe8OopSiuvBBUhO48Ecv4he0Q1VS613OaGC2XosVVrwKiimaqNHfKQrajQghdE8XNYdMrdIlvLlOeaDl3PFZkF3KUAXo/s1600/IMG_4353.jpg)
+[![](assets/img/posts/20120318/IMG_4353_1.jpg)](assets/img/posts/20120318/IMG_4353.jpg)
 
 However, I'm going to stick to reading it in English. The $21.700 price is a bit high (~43USD) for a trade paperback, in my opinion.  
   

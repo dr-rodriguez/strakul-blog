@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: A Memory of Light by Robert Jordan and Brandon Sanderson"
 date: 2013-02-09
-img: http://d.gr-assets.com/books/1336055749l/7743175.jpg
+img: posts/20130209/7743175.jpg
 tags: [Fantasy, Books, Wheel of Time]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](http://d.gr-assets.com/books/1336055749l/7743175.jpg)](http://d.gr-assets.com/books/1336055749l/7743175.jpg)
+[![](assets/img/posts/20130209/7743175.jpg)](assets/img/posts/20130209/7743175.jpg)
 
 This is it. The 14th and final book of the **Wheel of Time**. I purchased this book a few days after it had been released while visiting the US. It's one of the two books I got in my visit (the other is **Tigana** by Guy Gavriel Kay). We have all been waiting for the concluding volume of this epic series. This is Tarmon Gaidon, the Final Battle.  
   

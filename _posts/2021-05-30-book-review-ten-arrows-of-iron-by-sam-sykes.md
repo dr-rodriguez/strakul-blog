@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Ten Arrows of Iron by Sam Sykes"
 date: 2021-05-30
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577163345l/49808669._SY475_.jpg
+img: posts/20210530/49808669._SY475_.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577163345l/49808669._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577163345l/49808669._SY475_.jpg)**
+**[![](assets/img/posts/20210530/49808669._SY475_.jpg)](assets/img/posts/20210530/49808669._SY475_.jpg)**
 
 **Ten Arrows of Iron** follows****[Seven Blades in Black](https://strakul.blogspot.com/2019/10/book-review-seven-blades-in-black-by.html) in the series **The Grave of Empires** by Sam Sykes and continues the story of Sal the Cacophony. Being a fan of the first one I had to check out the second. Here's the Goodreads blurb:
 

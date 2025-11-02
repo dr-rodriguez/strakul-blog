@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Firefight by Brandon Sanderson"
 date: 2015-01-16
-img: https://d.gr-assets.com/books/1398186852l/21911720.jpg
+img: posts/20150116/21911720.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1398186852l/21911720.jpg)](https://d.gr-assets.com/books/1398186852l/21911720.jpg)
+[![](assets/img/posts/20150116/21911720.jpg)](assets/img/posts/20150116/21911720.jpg)
 
 Sequels are sometimes weak novels as they usually lack the fresh characterization and unique story of the prior novel. **Firefight** by Brandon Sanderson is the exception! The second novel in the Reckoners series (not counting the novella **Mitosis** , which I haven't read) is just as strong, if not stronger, than the first: [Steelheart](http://strakul.blogspot.com/2013/10/book-review-steelheart-by-brandon.html). I'd still recommend reading them in order, as the events of Firefight happen some time after [Steelheart](http://strakul.blogspot.com/2013/10/book-review-steelheart-by-brandon.html). Interestingly enough, I was in Seattle when Sanderson stopped by on tour to promote this book. Alas, I was too busy to attend.  
   

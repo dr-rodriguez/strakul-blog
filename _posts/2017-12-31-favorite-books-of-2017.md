@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2017"
 date: 2017-12-31
-img: https://images.gr-assets.com/books/1494513048l/34017126.jpg
+img: posts/20171231/34017126.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
@@ -25,6 +25,6 @@ Readers of my blog will be familiar with my love for Sanderson's books. This yea
   
 
 
-[![](https://images.gr-assets.com/books/1494513048l/34017126.jpg)](https://images.gr-assets.com/books/1494513048l/34017126.jpg)
+[![](assets/img/posts/20170916/34017126.jpg)](assets/img/posts/20170916/34017126.jpg)
 
 N.K. Jemisin is a talented author that writes exciting, genre-defying stories that at the same time are blended with contemporary social issues. I got into **The Broken Earth** trilogy around the time the second book was released, and this book marks the end of the trilogy. It's a fascinating series with geological-based magic I haven't seen before as well as characters that are as real as they are broken. You cheer them for their successes and weep at their failures, all as the skies grow darker and world dies around them. It is a dark novel for dark times that keeps you thinking and wondering long after you've finished it. 

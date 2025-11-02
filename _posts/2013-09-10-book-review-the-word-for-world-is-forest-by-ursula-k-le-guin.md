@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Word for World is Forest by Ursula K. Le Guin"
 date: 2013-09-10
-img: http://d202m5krfqbpi5.cloudfront.net/books/1352441134l/8580931.jpg
+img: posts/20130910/8580931.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](http://d202m5krfqbpi5.cloudfront.net/books/1352441134l/8580931.jpg)](http://d202m5krfqbpi5.cloudfront.net/books/1352441134l/8580931.jpg)
+[![](assets/img/posts/20130910/8580931.jpg)](assets/img/posts/20130910/8580931.jpg)
 
 While chatting with the book club I attend, we were talking about books by Ursula K. Le Guin. It turns out that **The Left Hand of Darkness** is not available on the US Kindle store, which is surprising and disappointing. **The Word for World is Forest** was mentioned and this one is on the store. One of my friends claimed it sounded just like James Cameron's Avatar. I set off to prove her wrong...  
   

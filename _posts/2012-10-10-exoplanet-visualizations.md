@@ -21,7 +21,7 @@ Many people have come up with clever ways to display these planets in a way that
 First up, from [xkcd](http://xkcd.com/1071/):  
 
 
-[![](http://imgs.xkcd.com/comics/exoplanets.png)](http://imgs.xkcd.com/comics/exoplanets.png)
+[![](assets/img/posts/20121010/exoplanets.png)](assets/img/posts/20121010/exoplanets.png)
 
   
 This neat and simple illustration shows the planets known up to June 2012 (we keep finding more), but does not include the unconfirmed Kepler candidates. As you can read in the text, if you click on the image to see it larger, the sizes are to scale and you can see our solar system for comparison near the center. It's easy to see that most of the planets found thus far are quite large (like Jupiter or even larger). This is an observational bias since these are the easiest to detect.  

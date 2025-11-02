@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: The Fires of Heaven by Robert Jordan"
 date: 2022-07-21
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440954554l/140975._SY475_.jpg
+img: posts/20220721/140975._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440954554l/140975._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440954554l/140975._SY475_.jpg)**
+**[![](assets/img/posts/20220721/140975._SY475_.jpg)](assets/img/posts/20220721/140975._SY475_.jpg)**
 
 **The Fires of Heaven** is the 5th book in **The Wheel of Time** series by Robert Jordan. If you've been reading this series, you need to read this one to continue the story. Here's the Goodreads blurb:
 

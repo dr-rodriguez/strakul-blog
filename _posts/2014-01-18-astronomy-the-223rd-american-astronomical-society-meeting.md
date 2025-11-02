@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: The 223rd American Astronomical Society Meeting"
 date: 2014-01-18
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5gOvmDlRgC45Fp96PmIsx8qRV7kJJSpxOCk1x8AZSF0LC8tDEAlOsErRxAXhJUMKYyCMO9ZkRjYa0OE59Q8PvxCzSu-un15OLcZZ96DZOICT5nw8PlvBIQgN8gtcA2XRWUHS3iGvTwrw/s1600/aas223logo_0.png
+img: posts/20140118/aas223logo_0.png
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5gOvmDlRgC45Fp96PmIsx8qRV7kJJSpxOCk1x8AZSF0LC8tDEAlOsErRxAXhJUMKYyCMO9ZkRjYa0OE59Q8PvxCzSu-un15OLcZZ96DZOICT5nw8PlvBIQgN8gtcA2XRWUHS3iGvTwrw/s1600/aas223logo_0.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5gOvmDlRgC45Fp96PmIsx8qRV7kJJSpxOCk1x8AZSF0LC8tDEAlOsErRxAXhJUMKYyCMO9ZkRjYa0OE59Q8PvxCzSu-un15OLcZZ96DZOICT5nw8PlvBIQgN8gtcA2XRWUHS3iGvTwrw/s1600/aas223logo_0.png)
+[![](assets/img/posts/20140118/aas223logo_0.png)](assets/img/posts/20140118/aas223logo_0.png)
 
   
   
@@ -19,13 +19,13 @@ Last week, I was at the 223rd meeting of the American Astronomical Society (AAS)
   
 The Winter AAS meeting is generally held in one of 4 locations: Washington DC, Seattle, Austin, and Long Beach. I did not have the opportunity to go to the last DC meeting, so this was the first time being in DC in about 15 years. I was pretty excited. Unfortunately, since the last DC meeting, AAS has moved the location of the meeting within the DC area by signing up with Gaylord convention centers. In this occasion, the conference was at the Gaylord National Harbor, which is a bit far from most places in DC and not readily accessible with the metro, though there was a shuttle, which I used to get to the metro and tour DC on Friday. A good thing was that everything was pretty close and you could stay all day within the convention center if you wanted to. That really worked well for the day of the [polar vortex](http://www.usatoday.com/story/news/nation-now/2014/01/06/polar-vortex-cold-air/4342315/), where temperatures dropped precipitously.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhykXrv-Nh66TDb91OjD4Bi5YW-OjmgSf-xZ_SZo6qGYIiVPXIeHTqv_Ag0za1pKOiRR9S4dn0WU0crmt1Y-O0Mn4TfRcyH-AoFN_d6VkbbQAkscRk-FByAYwwamVWspw9Wy24-N7-9Cy8/s1600/IMG_3353.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhykXrv-Nh66TDb91OjD4Bi5YW-OjmgSf-xZ_SZo6qGYIiVPXIeHTqv_Ag0za1pKOiRR9S4dn0WU0crmt1Y-O0Mn4TfRcyH-AoFN_d6VkbbQAkscRk-FByAYwwamVWspw9Wy24-N7-9Cy8/s1600/IMG_3353.JPG)  
+[![](assets/img/posts/20140118/IMG_3353.JPG)](assets/img/posts/20140118/IMG_3353.JPG)  
 ---  
 Inside the Gaylord National Harbor convention center. The Christmas tree was removed after a few days, but it was a nice area to sit around. Interestingly enough, I visited the Gaylord Palms in Florida the week before. That one was similar, though it felt much bigger.  
   
 But enough about location, now for the conference itself! Technically the conference starts on Sunday, but there are always workshops and events over the weekend. I only arrived late on Sunday so didn't attend any of the workshops. Interestingly, a music and gaming festival, [MagFest](http://magfest.org/), was taking place over the weekend so you could see some people in cosplay as you headed to the workshops or the opening reception. The opening reception, by the way, was pretty cool, though the location wasn't as exciting as the Long Beach Aquarium. Still, the food was good (drinks were very expensive, though) and I got a chance to reconnect with a lot of old friends.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxURzJhdaPsbKH9Xtf5RXgAvAq9AV3zIHpBN7dk8dHzRPEXCVAGZn2Zw3nBjPRHgJ7RQHDFcNMxgVNbAoImfr8liRuHOxNkmcGnF7z65PAPQNdbBt_je7Fk83lux5JMHEguZ1huxISKc/s1600/IMG_3345.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxURzJhdaPsbKH9Xtf5RXgAvAq9AV3zIHpBN7dk8dHzRPEXCVAGZn2Zw3nBjPRHgJ7RQHDFcNMxgVNbAoImfr8liRuHOxNkmcGnF7z65PAPQNdbBt_je7Fk83lux5JMHEguZ1huxISKc/s1600/IMG_3345.JPG)  
+[![](assets/img/posts/20140118/IMG_3345.JPG)](assets/img/posts/20140118/IMG_3345.JPG)  
 ---  
 A Dalek, left over from the MagFest convention, welcomes us to AAS223. Don't worry, there were thousands of Doctors around!  
   
@@ -33,13 +33,13 @@ Monday was the official start of all the talks, posters, etc in the meeting. For
   
 Tuesday was a bigger science day for me as there were several tasks and posters I was interested in. We also had planned a dinner with our research group so we could touch base and plan out any future papers and such. It went well, though the restaurant we picked was a tad overpriced. That evening was also the inaugural Open Mic night, where plenty of people signed up to showcase their talents. I missed the first part of this, unfortunately, but what I saw was really good. There was one awkward performance, but everything else was brilliant so I hope Open Mic night keeps going on at AAS.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VofFDxGin8HxzTCD0J2geEaHZZuNUapXfAH9XBmEI8SL4sTSMtNrO7veA3YIUJtDx7bVf-7VKbmWcEbgoDsdVWS2MmQh6OCLOX1t1P9EZUJlaDMoU-rxIruK60eQCynV-Q5usA1XTNM/s1600/IMG_0051.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1VofFDxGin8HxzTCD0J2geEaHZZuNUapXfAH9XBmEI8SL4sTSMtNrO7veA3YIUJtDx7bVf-7VKbmWcEbgoDsdVWS2MmQh6OCLOX1t1P9EZUJlaDMoU-rxIruK60eQCynV-Q5usA1XTNM/s1600/IMG_0051.jpg)  
+[![](assets/img/posts/20140118/IMG_0051.jpg)](assets/img/posts/20140118/IMG_0051.jpg)  
 ---  
 One of the many excellent performances at Open Mic night. Lots of people attended!  
   
 Wednesday was the day I had my presentation so it was another big day for me. My presentation went well, though it was placed in an odd session where it didn't fit perfectly. The talks there are only for 5 minutes plus a few extra for questions, so you really have to just get right to the point. I was fine, but I've seen many talks where the speakers have to rush. During the session, I also got a chance to see the famous '[Lil BD](https://twitter.com/knitted_bd)', a knitted brown dwarf that appeared in a prior conference and traveled to this one. There's even [a video about it](http://www.youtube.com/watch?v=sUZmzH6L-Xo).  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU65g5FhQetuLsLkhWRyovtgdyznwLhtFlWKp7r2zl7hF2aQ8zdOVDJbQsuWYWuZMU2jsY91EglTVAb5AGciZfwRzbUhRohtK03mmZdgGDSkIWTQlxvgMPv-e2C8l8-5xKnyXGhr_mc58/s1600/IMG_0061.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU65g5FhQetuLsLkhWRyovtgdyznwLhtFlWKp7r2zl7hF2aQ8zdOVDJbQsuWYWuZMU2jsY91EglTVAb5AGciZfwRzbUhRohtK03mmZdgGDSkIWTQlxvgMPv-e2C8l8-5xKnyXGhr_mc58/s1600/IMG_0061.jpg)  
+[![](assets/img/posts/20140118/IMG_0061.jpg)](assets/img/posts/20140118/IMG_0061.jpg)  
 ---  
 Hanging out with Lil BD.  
   

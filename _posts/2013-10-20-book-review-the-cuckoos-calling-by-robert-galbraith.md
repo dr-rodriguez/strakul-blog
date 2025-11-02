@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Cuckoo's Calling by Robert Galbraith"
 date: 2013-10-20
-img: https://d202m5krfqbpi5.cloudfront.net/books/1365988974l/16160834.jpg
+img: posts/20131020/16160834.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1365988974l/16160834.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1365988974l/16160834.jpg)
+[![](assets/img/posts/20131020/16160834.jpg)](assets/img/posts/20131020/16160834.jpg)
 
 **The Cuckoo's Calling** is a novel by a "Robert Galbraith," who turns out to be none other than J. K. Rowling of Harry Potter fame. I don't know the reason why she choose a pseudonym, but it could be to distance herself from the hype and popularity of the Harry Potter franchise. Her name is now so firmly etched with that series that it can cause problems when writing anything other than that. Although I haven't read her other work, The Casual Vacancy, from what I understand a lot of people are surprised to read it and realize it wasn't another Harry Potter book. She certainly isn't the only author that has pseudonyms, though, so it's a common thing.  
   

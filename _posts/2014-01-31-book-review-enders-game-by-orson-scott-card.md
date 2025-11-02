@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Ender's Game by Orson Scott Card"
 date: 2014-01-31
-img: https://d202m5krfqbpi5.cloudfront.net/books/1388177928l/375802.jpg
+img: posts/20140131/375802.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1388177928l/375802.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1388177928l/375802.jpg)
+[![](assets/img/posts/20140131/375802.jpg)](assets/img/posts/20140131/375802.jpg)
 
 I read **Ender's Game** a long time ago, back when I was in high school. When I think back and remember the science fiction and fantasy books that shaped my childhood years, that is one of the few that I can remember. One of my friends would send me the latest news on the **Ender's Game** movie for the past decade or so. It seemed we waited forever for the movie to be made.  
   

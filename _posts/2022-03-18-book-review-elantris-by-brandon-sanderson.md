@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Elantris by Brandon Sanderson"
 date: 2022-03-18
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475740953l/68427._SY475_.jpg
+img: posts/20220318/68427._SY475_.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475740953l/68427._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475740953l/68427._SY475_.jpg)**
+**[![](assets/img/posts/20220318/68427._SY475_.jpg)](assets/img/posts/20220318/68427._SY475_.jpg)**
 
 **Elantris** is Brandon Sanderson's first published novel and one that I've read now maybe 3 times. It's a standalone fantasy which makes it easy to pick up. The particular version I first got was a paperback whose blurb was very character-centric with almost no premise to the story. It wasn't until I read the short prologue that I actually picked it up to read. Regardless, after reading it a few times I realized I hadn't written a blog for it. So here it is.
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: Principal Component Analysis of Twitter Data"
 date: 2016-07-22
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8ZkBvZoNJ2aased7GOtxo71XnGa95GXhdrIsz-LsWEpjJm45chUb0MQIPJLVpmiGH6T6cGYybnf71xm9E-JIc7fAbg0gBDqr6MCrNkYH99BB6Pw6cJ008TTjJPPhdf9OlVYUPTAtpkQ/s400/biplot_0_3.png
+img: posts/20160722/biplot_0_3_1.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8ZkBvZoNJ2aased7GOtxo71XnGa95GXhdrIsz-LsWEpjJm45chUb0MQIPJLVpmiGH6T6cGYybnf71xm9E-JIc7fAbg0gBDqr6MCrNkYH99BB6Pw6cJ008TTjJPPhdf9OlVYUPTAtpkQ/s400/biplot_0_3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8ZkBvZoNJ2aased7GOtxo71XnGa95GXhdrIsz-LsWEpjJm45chUb0MQIPJLVpmiGH6T6cGYybnf71xm9E-JIc7fAbg0gBDqr6MCrNkYH99BB6Pw6cJ008TTjJPPhdf9OlVYUPTAtpkQ/s1600/biplot_0_3.png)
+[![](assets/img/posts/20160722/biplot_0_3_1.png)](assets/img/posts/20160722/biplot_0_3.png)
 
   
 As described on my [last blog post](http://strakul.blogspot.com/2016/07/data-science-presidential-candidates-on.html) on this topic, I've been tracking tweets from the US presidential candidates, Hillary Clinton and Donald Trump. I've looked at the top words they used and the sentiments expressed in their tweets given their word choice. However, some words are used with others almost all the time, a notable example being a slogan like Make America Great Again. As such, it may be beneficial to look at groups of words rather than individual words. For that, I took an approach applying a Principal Component Analysis. Below I describe what this is, how I used it, and what it reveals. Do note, however, that I'm applying things I learned in astronomy to this problem rather than taking courses specific to text mining. It may be that there are better tools out there than what I've used.  
@@ -27,7 +27,7 @@ Passing the document-term-matrix to [scikit-learn’s PCA method](http://scikit-
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJXZR4MKWboxEoXtoYAydqkofafPPOgjiG5CYZUzens6ZoIlVQ-0SC3cu_GgCAyePO0Ms_nTGGwMkp18-hgp953pFZLwGP9ce_BZpiy6yNRYNEEiaEoQGod0CJ24EPNC3JyDNHrcZKAk/s400/biplot_3_4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJXZR4MKWboxEoXtoYAydqkofafPPOgjiG5CYZUzens6ZoIlVQ-0SC3cu_GgCAyePO0Ms_nTGGwMkp18-hgp953pFZLwGP9ce_BZpiy6yNRYNEEiaEoQGod0CJ24EPNC3JyDNHrcZKAk/s1600/biplot_3_4.png)
+[![](assets/img/posts/20160722/biplot_3_4.png)](assets/img/posts/20160722/biplot_3_4_1.png)
 
   
 In this plot, I examine two principal components against each other in a biplot. This is a scatter plot of the values of the components, but with arrows indicating some of the prominent terms as indicated by their loading factors. The values of the loading factors are used to determine the length and direction of these arrows and as such they serve as a way of expressing direction. That is, tweets which use these terms will be moved along the length of those arrows. There are, in practice, 50 arrows I could draw, but I only chose to draw the most important parameters.  
@@ -43,7 +43,7 @@ I like to interpret these results by saying that the PCA has grouped words toget
 If for some reason the grid plot above is not working, here is another version generated with [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/index.html). As with all figures on this blog, you can click it to see a larger version.  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ifK-Yhmv_Qx60DWZ-6bKpyKXcrIdTs_M8HNE40GlF5cDuzJQ4INSesi9Wktlm2JhrbzEmBOFcSJK6CLA4vH9mKAyTwmtfYvqCUKojGgeNg4zFP1jzIdXDLPbkaOeaCiNUzODb4eVuso/s640/loadings.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ifK-Yhmv_Qx60DWZ-6bKpyKXcrIdTs_M8HNE40GlF5cDuzJQ4INSesi9Wktlm2JhrbzEmBOFcSJK6CLA4vH9mKAyTwmtfYvqCUKojGgeNg4zFP1jzIdXDLPbkaOeaCiNUzODb4eVuso/s1600/loadings.png)
+[![](assets/img/posts/20160722/loadings.png)](assets/img/posts/20160722/loadings_1.png)
 
   
   

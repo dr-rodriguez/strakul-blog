@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Reaper's Gale by Steven Erikson"
 date: 2013-05-18
-img: http://d.gr-assets.com/books/1328342379l/8623112.jpg
+img: posts/20130518/8623112.jpg
 tags: [Fantasy, Malazan, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](http://d.gr-assets.com/books/1328342379l/8623112.jpg)](http://d.gr-assets.com/books/1328342379l/8623112.jpg)
+[![](assets/img/posts/20130518/8623112.jpg)](assets/img/posts/20130518/8623112.jpg)
 
 **Reaper's Gale** is the 7th in Steven Erikson's **Malazan Book of the Fallen** series.  
   
@@ -31,7 +31,7 @@ Plot-wise, this book is a continuation of the prior two books and artfully ties 
 At the same time, however, the Letherii empire is rotting from within. The greed we saw back in Book 5 is still strong and has poisoned the people. But how can one bring down an empire when its head, the Emperor, cannot be killed? Even the conquering Edur want no part in the empire. Some of them, in fact, are seeking the soul of their ancestor, Father Shadow -- Scabandari Bloodeye, to make use of his power and make things right again.  
   
 **Characters**  
-[![](http://fc03.deviantart.net/fs71/i/2010/062/3/f/Ruin_by_slaine69.jpg)](http://fc03.deviantart.net/fs71/i/2010/062/3/f/Ruin_by_slaine69.jpg)We see the return of many favorite characters, including Trull Sengar, Karsa Orlong, Quick Ben, Fiddler, Tehol, etc. The list goes on and on. A whole lot of characters have something to do with the book. At times it almost seems like too many characters are given the spotlight. However, in many cases two or more characters will be at the same location, so despite the switch in perspective we are still seeing the same overall scene play out.  
+[![](assets/img/posts/20130518/Ruin_by_slaine69.jpg)](assets/img/posts/20130518/Ruin_by_slaine69.jpg)We see the return of many favorite characters, including Trull Sengar, Karsa Orlong, Quick Ben, Fiddler, Tehol, etc. The list goes on and on. A whole lot of characters have something to do with the book. At times it almost seems like too many characters are given the spotlight. However, in many cases two or more characters will be at the same location, so despite the switch in perspective we are still seeing the same overall scene play out.  
   
 There's also some memorable new characters. One that stands out for me is Beak. Beak is a surprisingly powerful mage in the Malazan army, yet unlike Quick Ben, Bottle, and many of the other mages, he is simple minded and very innocent. It seems like some of the most powerful characters are often times some of the most wounded. His scenes, especially near the end, may bring tears to your eyes.  
   

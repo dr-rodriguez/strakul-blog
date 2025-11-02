@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Provenance by Ann Leckie"
 date: 2018-01-15
-img: https://images.gr-assets.com/books/1492328037l/25353286.jpg
+img: posts/20180115/25353286.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1492328037l/25353286.jpg)](https://images.gr-assets.com/books/1492328037l/25353286.jpg)
+[![](assets/img/posts/20180115/25353286.jpg)](assets/img/posts/20180115/25353286.jpg)
 
 I bought this book without knowing much about it while visiting the New York Comic Con. I remember hearing about some issues people had with the pronouns in the book (eg, thinking e and em were typos), and I was curious to see how I would react to it. While set in the same universe of her prior books, this novel is far more focused and personal. Furthermore, it can be read on its own without any problem. Here's the official blurb:  
 _  

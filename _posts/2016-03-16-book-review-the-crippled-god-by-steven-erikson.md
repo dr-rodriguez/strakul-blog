@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Crippled God by Steven Erikson"
 date: 2016-03-16
-img: https://d.gr-assets.com/books/1328318915l/10697676.jpg
+img: posts/20160316/10697676.jpg
 tags: [Fantasy, Malazan, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1328318915l/10697676.jpg)](https://d.gr-assets.com/books/1328318915l/10697676.jpg)
+[![](assets/img/posts/20160316/10697676.jpg)](assets/img/posts/20160316/10697676.jpg)
 
 The Crippled God is the 10th and final book of the Malazan Book of the Fallen series by Steven Erikson. There are additional books in that universe, by both Erikson and Esslemont; however, the main series are these 10 books that I've spent the last few years reading. This particular one took a while do to my recent job/city/country change, but I managed to find the time and it was rewarding to finish. Below, you will find my review of this book. In the future, I hope to write a post comparing this series to other long epic fantasies, notably The Wheel of Time.  
   

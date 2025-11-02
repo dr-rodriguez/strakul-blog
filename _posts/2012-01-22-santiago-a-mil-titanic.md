@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Santiago a Mil: Titanic"
 date: 2012-01-22
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXGnnMKbUJIqH3Oup3khFLMR6xIhL5cXRxkVuKUjyNyUybWSWeS0dEOi-fUwo6fDv6EFzuWXeppNSKJInWyp_v94C77lkm_GzHjbaVYa3GVV_ClE5JJBPcQDFJnx3sJrQpoITnXp1qf4/s400/IMG_4042.JPG
+img: posts/20120122/IMG_4042_1.JPG
 tags: [Life in Chile, Culture]
 category: Life in Chile
 author: Strakul
@@ -18,13 +18,13 @@ Titanic was produced by the German group Theater Titanick and tells the story of
 Here we go, the show hasn't started, but people are gathering at the Plaza for the Santiago a Mil festival.  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXGnnMKbUJIqH3Oup3khFLMR6xIhL5cXRxkVuKUjyNyUybWSWeS0dEOi-fUwo6fDv6EFzuWXeppNSKJInWyp_v94C77lkm_GzHjbaVYa3GVV_ClE5JJBPcQDFJnx3sJrQpoITnXp1qf4/s400/IMG_4042.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXGnnMKbUJIqH3Oup3khFLMR6xIhL5cXRxkVuKUjyNyUybWSWeS0dEOi-fUwo6fDv6EFzuWXeppNSKJInWyp_v94C77lkm_GzHjbaVYa3GVV_ClE5JJBPcQDFJnx3sJrQpoITnXp1qf4/s1600/IMG_4042.JPG)
+[![](assets/img/posts/20120122/IMG_4042_1.JPG)](assets/img/posts/20120122/IMG_4042.JPG)
 
   
 My view of the stage:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPcn0fCsAcDyXv3NPwAvEmh3EpvkAl_MuzXurmmV-q1mOlsQhgumzxhyphenhypheneRKYegqM0k0vyNzB-XL8ArZc2W1kJkfpzi5ELJCBqSZgIxjl7gmW6ZpJRDxm7rhlp79EVkcdVF6jHpjmivSOY/s400/IMG_4043.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPcn0fCsAcDyXv3NPwAvEmh3EpvkAl_MuzXurmmV-q1mOlsQhgumzxhyphenhypheneRKYegqM0k0vyNzB-XL8ArZc2W1kJkfpzi5ELJCBqSZgIxjl7gmW6ZpJRDxm7rhlp79EVkcdVF6jHpjmivSOY/s1600/IMG_4043.JPG)
+[![](assets/img/posts/20120122/IMG_4043_1.JPG)](assets/img/posts/20120122/IMG_4043.JPG)
 
 I latter stood up to see better (as everyone was doing), but you can tell I had a good spot. The stage is not built yet, as the first part of the show deals with the construction of the Titanic.
 
@@ -42,7 +42,7 @@ The Titanic is fully built and sailing across the Atlantic. Notice the streams o
 Here is a picture, moments after the hit the iceberg:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTi78v2Hu1Nl7TKID8qmRIPpTu4q0wQxSaYXR36JqVC3TgoQwIYVRt13VtpP8tWdk_5JIqfRNQUnH7zcNX1z3oNUHR1ZreoPmAVCbmXkLZDH7WTS9gkDCWKVemn6nMaA3-kMzTnjMgCk/s400/IMG_4078.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTi78v2Hu1Nl7TKID8qmRIPpTu4q0wQxSaYXR36JqVC3TgoQwIYVRt13VtpP8tWdk_5JIqfRNQUnH7zcNX1z3oNUHR1ZreoPmAVCbmXkLZDH7WTS9gkDCWKVemn6nMaA3-kMzTnjMgCk/s1600/IMG_4078.JPG)
+[![](assets/img/posts/20120122/IMG_4078_1.JPG)](assets/img/posts/20120122/IMG_4078.JPG)
 
 You can see the engineer at the bow of the ship working to stop the water coming in.  
   
@@ -64,7 +64,7 @@ This are looking really bad on the Titanic. The crew takes these signal fires to
 The fire-net they raise near the bow is over exposed in the video, here's what it actually looked like:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPMtrquCoqFqgceObP1r7Hq89rgpJ0Tpv8SinZETl365S71ZFr4QWU6iPs-1sxMYTi57rrnXNShN1njleXukNau-PgHqN-PmYJT2yfi45AP7LxY3cHxfpUlBlzxUgcN128bPIE8Mbk7zo/s400/IMG_4093.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPMtrquCoqFqgceObP1r7Hq89rgpJ0Tpv8SinZETl365S71ZFr4QWU6iPs-1sxMYTi57rrnXNShN1njleXukNau-PgHqN-PmYJT2yfi45AP7LxY3cHxfpUlBlzxUgcN128bPIE8Mbk7zo/s1600/IMG_4093.JPG)
+[![](assets/img/posts/20120122/IMG_4093.JPG)](assets/img/posts/20120122/IMG_4093_1.JPG)
 
 I assume this was just another way to signal the ships, though it could represented the fires going on below decks as things have gotten out of control.  
   
@@ -76,7 +76,7 @@ The stage is dismantled before our eyes (with lots of fire and water effects). T
 Here's the ruins of the set, at the end of the show:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8A0SJSif2Jg5RfCSs-3r-QSmCCh34XF1k3Y88v3MfZsEJlRwWAacYOf-Aq6NIh4Mk3eOoiosVGpjsjGrm3Ra17Xo4Egxgv3RA7Hyqz6WKs5sk9riWrmiAsc45PLOlmeYyJrUy2qQt3Q/s400/IMG_4107.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE8A0SJSif2Jg5RfCSs-3r-QSmCCh34XF1k3Y88v3MfZsEJlRwWAacYOf-Aq6NIh4Mk3eOoiosVGpjsjGrm3Ra17Xo4Egxgv3RA7Hyqz6WKs5sk9riWrmiAsc45PLOlmeYyJrUy2qQt3Q/s1600/IMG_4107.JPG)
+[![](assets/img/posts/20120122/IMG_4107.JPG)](assets/img/posts/20120122/IMG_4107_1.JPG)
 
   
   

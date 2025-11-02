@@ -41,7 +41,7 @@ While gods have played key roles in the books, they generally direct events from
 **Setting / World Building**  
 One of the neat, yet subtle world building events in the book is the reveal of the Forkrul Assail, one of the 4 founding races. We have now seen all four races: Jaghut, T'lan Imass, Forkrul Assail, and K'Chain Che'Malle. Despite the reveal, we don't receive a lot of details about this race yet. Instead, we get to learn a lot more about the Thelomen Toblakai. Below is an awesome depiction of the four races and the Thelomen Toblakai made by Deviant artist [genesischant](http://genesischant.deviantart.com/art/Founding-Races-156947484).  
 Note that Imass are up to 4' 6" tall so that can give you a sense of scale (ie, Toblakai are sometimes considered giants).  
-[![](http://fc05.deviantart.net/fs70/i/2010/070/1/a/Founding_Races_by_genesischant.jpg)](http://fc05.deviantart.net/fs70/i/2010/070/1/a/Founding_Races_by_genesischant.jpg)  
+[![](assets/img/posts/20120516/Founding_Races_by_genesischant.jpg)](assets/img/posts/20120516/Founding_Races_by_genesischant.jpg)  
 ---  
 Jaghut, Thelomen Toblakai, Imass, Forkrul Assail, and K'Chain Che'Malle. Credit: [genesischant](http://genesischant.deviantart.com/art/Founding-Races-156947484)  
   

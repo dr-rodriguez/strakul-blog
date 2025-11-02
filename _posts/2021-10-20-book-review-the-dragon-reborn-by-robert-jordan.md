@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Dragon Reborn by Robert Jordan"
 date: 2021-10-20
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193491l/359820.jpg
+img: posts/20211020/359820.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193491l/359820.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388193491l/359820.jpg)
+[![](assets/img/posts/20211020/359820.jpg)](assets/img/posts/20211020/359820.jpg)
 
 This is the third book in **The Wheel of Time** and, with a title of **The Dragon Reborn** , you know this book is one of the big turning points in the series. Following several months after the events of [The Great Hunt](https://strakul.blogspot.com/2021/10/book-review-great-hunt-by-robert-jordan.html), we find our characters facing new threats and learning new secrets as the mysteries of the Prophecies of the Dragon unfold.
 

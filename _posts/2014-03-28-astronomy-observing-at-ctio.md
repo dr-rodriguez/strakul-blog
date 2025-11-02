@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: Observing at CTIO"
 date: 2014-03-28
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPK7OOOjgSa2sNBkbF5gs3Uya3D8we7-ZzQGbYi9H5QaS-7xpRvNRCej0QYvo_0kV4pAbdCOwt6dkLHiC-NGGiJOkKeYkZ2xxkofvJRQkgXGoj8KhOMhQUanqE71LtNgJANGo1MyPhJ1M/s1600/IMG_3488.jpg
+img: posts/20140328/IMG_3488.jpg
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPK7OOOjgSa2sNBkbF5gs3Uya3D8we7-ZzQGbYi9H5QaS-7xpRvNRCej0QYvo_0kV4pAbdCOwt6dkLHiC-NGGiJOkKeYkZ2xxkofvJRQkgXGoj8KhOMhQUanqE71LtNgJANGo1MyPhJ1M/s1600/IMG_3488.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPK7OOOjgSa2sNBkbF5gs3Uya3D8we7-ZzQGbYi9H5QaS-7xpRvNRCej0QYvo_0kV4pAbdCOwt6dkLHiC-NGGiJOkKeYkZ2xxkofvJRQkgXGoj8KhOMhQUanqE71LtNgJANGo1MyPhJ1M/s1600/IMG_3488.jpg)
+[![](assets/img/posts/20140328/IMG_3488.jpg)](assets/img/posts/20140328/IMG_3488.jpg)
 
   
 This past week I went to two observatories for some observing runs: Cerro Tololo International Observatory (CTIO) and La Silla Observatory. I've talked about La Silla before (here and here). However, it's been several years since I've been to CTIO. I'll briefly go over my experience there observing the Dark Energy Camera (DECam).  
@@ -21,13 +21,13 @@ I had visited CTIO several times during my graduate career as part of my thesis 
   
 CTIO is almost exactly as I remember it, though the control room at the 4-meter telescope has been updated. I don't think I felt nostalgia, but I was proud to be back at my first observatory in Chile. I'm sure I'd feel the same way if I go back to Lick Observatory.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKVLLl3XpuH49wmU2oKdfwiiNK_PcTMoqCW9gcxFaXT_PbzLPNWlDT4Ommyr9ujmxJ-1r1oZqOFidsmf0Wj623qfmWX45f7jGiKk_7W3gk-DBzqvH7R_JFqW-z-T5bynm9w4Dx9S65bNU/s1600/IMG_3527.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKVLLl3XpuH49wmU2oKdfwiiNK_PcTMoqCW9gcxFaXT_PbzLPNWlDT4Ommyr9ujmxJ-1r1oZqOFidsmf0Wj623qfmWX45f7jGiKk_7W3gk-DBzqvH7R_JFqW-z-T5bynm9w4Dx9S65bNU/s1600/IMG_3527.JPG)  
+[![](assets/img/posts/20140328/IMG_3527.JPG)](assets/img/posts/20140328/IMG_3527.JPG)  
 ---  
 The control room at the 4-m telescope.  
   
 I was here for 3 nights to observe with [DECam](https://www.darkenergysurvey.org/DECam/camera.shtml). DECam is a huge 520-megapixel camera comprised of 62 CCDs that covers a field of view larger than the full moon. Most impressive, however, is the effort put into optimizing it so it runs almost perfectly without human help. Many times you encounter old instruments that run well, but require so much user interaction that the whole night is spent babysitting the instrument. This is not the case with DECam. I could load up a script and pretty much let it run all night without any problem. Guiding and focusing are automatic, so are slewing and filter changes. As long as you have a script pre-made (and there's a program to help you do that), you're good to go. A possible decision point would be what calibration fields to use for the photometry, but that again was a quick and obvious choice. I honestly wondered why I was at the observatory at all! ESO frequently runs like this, but at least at ESO you have finding charts you need to consult to make sure you're in the right field. Not so with DECam given it's huge field of view. That made it a pleasure to use and also gave me plenty of time to do other work throughout the night.  
   
-[![](https://pbs.twimg.com/media/Bi-ACRXIgAATZzP.png)](https://pbs.twimg.com/media/Bi-ACRXIgAATZzP.png)  
+[![](assets/img/posts/20140328/Bi-ACRXIgAATZzP.png)](assets/img/posts/20140328/Bi-ACRXIgAATZzP.png)  
 ---  
 The DECam field of view for one of my observations. The area covered by this single exposure is about 20 times that of the full moon as seen from Earth.  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Children of the Sky by Vernor Vinge"
 date: 2016-05-26
-img: https://d.gr-assets.com/books/1328344041l/11695750.jpg
+img: posts/20160526/11695750.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1328344041l/11695750.jpg)](https://d.gr-assets.com/books/1328344041l/11695750.jpg)
+[![](assets/img/posts/20160526/11695750.jpg)](assets/img/posts/20160526/11695750.jpg)
 
 Vernor Vinge has written a few main novels set in the Zones of Thought universe. The main one, [A Fire Upon the Deep](http://strakul.blogspot.com/2012/09/book-review-fire-upon-deep-by-vernor.html), is highly regarded in the science fiction community. There is a prequel, **A Deepness in the Sky** , which I haven't read. The other main one, **The Children of the Sky** , is the one I just finished reading.  
   

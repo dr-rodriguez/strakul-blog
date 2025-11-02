@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Iron Council by China Mieville"
 date: 2017-04-24
-img: https://images.gr-assets.com/books/1394636931l/19910690.jpg
+img: posts/20170424/19910690.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1394636931l/19910690.jpg)](https://images.gr-assets.com/books/1394636931l/19910690.jpg)
+[![](assets/img/posts/20170424/19910690.jpg)](assets/img/posts/20170424/19910690.jpg)
 
 **Iron Council** is the third novel set in China Mieville's Bas-Lag universe. It's a curious world with both magic and technology, and lots of odd peoples in it. In the first book, **Perdido Street Station** , we got to see the city of New Crobuzon as it falls to chaos. In the second book, [The Scar](http://strakul.blogspot.com/2015/04/book-review-scar-by-china-mieville.html), we follow a young woman fleeing New Crobuzon only to end up in the pirate city of Armada. Here, on the third novel, we switch back and forth between New Crobuzon at the edge of civil war and the ever-running train of Iron Council.  
   

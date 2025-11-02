@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Collapsing Empire by John Scalzi"
 date: 2017-05-21
-img: https://images.gr-assets.com/books/1464097667l/30282601.jpg
+img: posts/20170521/30282601.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1464097667l/30282601.jpg)](https://images.gr-assets.com/books/1464097667l/30282601.jpg)
+[![](assets/img/posts/20170521/30282601.jpg)](assets/img/posts/20170521/30282601.jpg)
 
 **The Collapsing Empire** by John Scalzi is his latest space opera in a brand new universe. Scalzi is probably best known for **Old Man's War** , and the accompanying books. I've read some of his work before and keep coming back whenever I want some light-hearted, funny books in a science fiction setting. I was very excited by the premise of this new book and gave it a shot.  
   

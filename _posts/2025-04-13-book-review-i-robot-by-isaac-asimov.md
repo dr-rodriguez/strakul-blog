@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: I, Robot by Isaac Asimov"
 date: 2025-04-13
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597704465i/55001095.jpg
+img: posts/20250413/55001095.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597704465i/55001095.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597704465i/55001095.jpg)
+[![](assets/img/posts/20250413/55001095.jpg)](assets/img/posts/20250413/55001095.jpg)
 
 Some time ago, a YouTuber I follow, [Elle Cordova](https://www.youtube.com/@ElleCordova), started an online book club with **I, Robot** by Isaac Asimov. While I didn't explicitly join it at the time as I was reading something else, I realized that I hadn't actually read **I, Robot**. I've read some of Asimov's other robot stories, like **The Caves of Steel** as well as the Foundation series, and watched movies like the one made from **I, Robot** and **The Bicentennial Man**. So I'm familiar with Asimov, just probably missing a lot of his shorter books. Regardless, I decided to pick this up and see what it was all about. Because this is a series of short stories I'll forgo my usual format and just write a few paragraphs on it.
 

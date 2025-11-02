@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Dark Forest by Cixin Liu"
 date: 2015-09-06
-img: https://d.gr-assets.com/books/1440156932l/24375664.jpg
+img: posts/20150906/24375664.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1440156932l/24375664.jpg)](https://d.gr-assets.com/books/1440156932l/24375664.jpg)
+[![](assets/img/posts/20150906/24375664.jpg)](assets/img/posts/20150906/24375664.jpg)
 
 **The Dark Forest** (黑暗森林), by Cixin Liu, is the second book in the **Remembrance of Earth’s Past** series and is translated from Chinese by Joel Martinsen. This is the sequel to the 2015 Hugo-award winning novel, [The Three Body Problem](http://strakul.blogspot.cl/2015/07/book-review-three-body-problem-by-liu.html), which received an enormous amount of well-deserved praise. **The Dark Forest** is no different; it is an absolutely excellent sci-fi story that I recommend checking out.  
   

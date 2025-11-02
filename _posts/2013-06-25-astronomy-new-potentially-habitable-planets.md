@@ -4,21 +4,21 @@ read_time: true
 show_date: true
 title: "Astronomy: New Potentially Habitable Planets"
 date: 2013-06-25
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXxd26L0CwqSopNnPy8rDYQmT2sST5qcNCzQMSzUTvGGAaPS3zc3SoiWsg9rgQpjaS3q-gOXKBniE2T6JgG1mP82UOcNyl7MnUzESFSgl2GYJuQjKudm6MAfbh3l9B1ef9tZZv4_HKM8/s400/eso1328a.jpg
+img: posts/20130625/eso1328a_1.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXxd26L0CwqSopNnPy8rDYQmT2sST5qcNCzQMSzUTvGGAaPS3zc3SoiWsg9rgQpjaS3q-gOXKBniE2T6JgG1mP82UOcNyl7MnUzESFSgl2GYJuQjKudm6MAfbh3l9B1ef9tZZv4_HKM8/s400/eso1328a.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTXxd26L0CwqSopNnPy8rDYQmT2sST5qcNCzQMSzUTvGGAaPS3zc3SoiWsg9rgQpjaS3q-gOXKBniE2T6JgG1mP82UOcNyl7MnUzESFSgl2GYJuQjKudm6MAfbh3l9B1ef9tZZv4_HKM8/s1600/eso1328a.jpg)  
+[![](assets/img/posts/20130625/eso1328a_1.jpg)](assets/img/posts/20130625/eso1328a.jpg)  
 ---  
 Artistic depiction of the view from Gliese 667Cd. Credit: ESO/M. Kornmesser  
   
 The recent [news](http://www.eso.org/public/news/eso1328/) is that 2 more planets in the Habitable Zone of the star Gliese 667 (aka GJ667) have just been discovered. These are GJ667C f and e. I had previously written about [GJ667Cc](http://strakul.blogspot.com/2012/02/gj-667cc-potential-life-supporting.html), another habitable world in the same system. It appears that this star system could host 3 planets that, if the conditions are right, could harbor liquid water on the surface of the planet.  
   
 These planets join a growing list of potentially habitable planets.  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKsJQxSrh5beitbY85EHI0nKYTZC_j4sIsJTFvBNLBFewaPYUyzAU1uxtliVdfkxHf09xqasm4ed6K2A5PLg_eVaeAwYZkKB_PsNijxENs1FJFqfdiVKTUjg_D5tBd2piFJoOrhFp7hpo/s400/HEC_All_Confirmed_Gliese667C.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKsJQxSrh5beitbY85EHI0nKYTZC_j4sIsJTFvBNLBFewaPYUyzAU1uxtliVdfkxHf09xqasm4ed6K2A5PLg_eVaeAwYZkKB_PsNijxENs1FJFqfdiVKTUjg_D5tBd2piFJoOrhFp7hpo/s1600/HEC_All_Confirmed_Gliese667C.jpg)  
+[![](assets/img/posts/20130625/HEC_All_Confirmed_Gliese667C_1.jpg)](assets/img/posts/20130625/HEC_All_Confirmed_Gliese667C.jpg)  
 ---  
 List of potentially habitable planets. Credit: [PHL @ UPR Arecibo](http://phl.upr.edu/press-releases/anearbystarwiththreepotentiallyhabitableworlds)  
   

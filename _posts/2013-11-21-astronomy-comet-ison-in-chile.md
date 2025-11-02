@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: Comet ISON in Chile"
 date: 2013-11-21
-img: http://www.damianpeach.com/deepsky/c2012_s1_2013_11_15dp.jpg
+img: posts/20131121/c2012_s1_2013_11_15dp.jpg
 tags: [Life in Chile, Astronomy]
 category: Life in Chile
 author: Strakul
 description: ""
 ---
 
-[![](http://www.damianpeach.com/deepsky/c2012_s1_2013_11_15dp.jpg)](http://www.damianpeach.com/deepsky/c2012_s1_2013_11_15dp.jpg)  
+[![](assets/img/posts/20131121/c2012_s1_2013_11_15dp.jpg)](assets/img/posts/20131121/c2012_s1_2013_11_15dp.jpg)  
 ---  
 Comet ISON, on November 15. Credit: [Damian Peach](http://www.damianpeach.com/ison.htm)  
   
@@ -23,13 +23,13 @@ Comets are generally described as dirty snowballs given that they are mainly icy
   
 Comet ISON was discovered in September, 2012 by Vitali Nevski and Artyom Novichonok (so another appropriate name is comet Nevski–Novichonok). ISON stands for International Scientific Optical Network, which is the organization that led to the discovery. This comet is a long-period, sungrazing comet. That is, it came from the outer reaches of the solar system and will pass extremely close to the Sun. Because it passes so close, it may break apart and thus everyone is waiting to see what will happen as it gets closer to the Sun.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutwipXWfdpBPuvnk8Iiife4yrbWKrsjbL4G3kl8xphYkMf2QzKVGQPe69boYMUKXye_FBYVYcxzqZ7m8ECngPiY3PKmkANgn0A0c725zmo-IP_ShhGLiKWgJRxhzUeLCwN_j9xo7mu0g/s400/Screen+Shot+2013-11-20+at+2.08.00+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhutwipXWfdpBPuvnk8Iiife4yrbWKrsjbL4G3kl8xphYkMf2QzKVGQPe69boYMUKXye_FBYVYcxzqZ7m8ECngPiY3PKmkANgn0A0c725zmo-IP_ShhGLiKWgJRxhzUeLCwN_j9xo7mu0g/s1600/Screen+Shot+2013-11-20+at+2.08.00+PM.png)  
+[![](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.00+PM_1.png)](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.00+PM.png)  
 ---  
 Santiago, Chile. Nov 24, 2013. Looking East. Click to see larger.  
   
 Right now, the comet can be seen low in the Eastern sky right before sunrise. Using the Stellarium software, I generated an image (above) of the sky as seen from Santiago on November 24, looking East. A few caveats, though: I disabled the atmosphere so you can see clearly the location of the planets and Sun in the image. This is about an hour after sunrise, so you ideally want to look earlier (ie, before the Sun is up!). However, that this means the objects are lower in the sky, which is the second image below.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi90doHU5aTJtCjWh-JxdxBL1rsSWo8TcSod3skybDybGhvN3ow7-EjQZxnPfk7FVGUCzCKnFxiMyFN7nQWYFzJEa5gy3NqgWfodgZUKqcKY6OthktnxIYXidI1IdPHs4x_WPjehYcq_gM/s400/Screen+Shot+2013-11-20+at+2.08.11+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi90doHU5aTJtCjWh-JxdxBL1rsSWo8TcSod3skybDybGhvN3ow7-EjQZxnPfk7FVGUCzCKnFxiMyFN7nQWYFzJEa5gy3NqgWfodgZUKqcKY6OthktnxIYXidI1IdPHs4x_WPjehYcq_gM/s1600/Screen+Shot+2013-11-20+at+2.08.11+PM.png)  
+[![](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.11+PM.png)](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.11+PM_1.png)  
 ---  
 As before, but just before sunrise. The Earth's atmosphere has been included to show the sky brightness.  
   
@@ -38,13 +38,13 @@ For the image above, I've re-activated the atmosphere so you get a sense of how 
 Now, what about a few days after its closest approach to the Sun (perihelion; on Nov 28)?  
 The image below shows the location of the comet and Sun on December 5th, also an hour or so after sunrise and again with the atmosphere turned off so you can see everything. The comet is South of the Sun (towards the left in this image), but located between the Sun and horizon. That means the Sun rises first and unless the comet is extremely and unusually bright, you won't be able to see it. This is similar for other dates in early December: you can't observe comet ISON before sunrise.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvuztuDx88TpbmiqSHfp0a3EnjndOgQAzTQAXH7D5sSXyF5s0X2M_-8eRPA_cpXjke5UQW96wi_8X_BybwqHr1FRSq_v8pLEvtzWRBSDiG1P3Z49008-c2em8sP1Cp5qcZ0dLXXBPD74/s400/Screen+Shot+2013-11-20+at+2.08.41+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPvuztuDx88TpbmiqSHfp0a3EnjndOgQAzTQAXH7D5sSXyF5s0X2M_-8eRPA_cpXjke5UQW96wi_8X_BybwqHr1FRSq_v8pLEvtzWRBSDiG1P3Z49008-c2em8sP1Cp5qcZ0dLXXBPD74/s1600/Screen+Shot+2013-11-20+at+2.08.41+PM.png)  
+[![](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.41+PM.png)](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+2.08.41+PM_1.png)  
 ---  
 Santiago, Chile. December 5, 2013. Looking East near sunrise.  
   
 What about sunset? Unfortunately, here we are defeated too. The figure above shows the same thing but looking West. As you can see, the comet is again between the Sun and the horizon so it sets before the Sun has a chance to do so.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIXx9KSlSb4S4kbbSf6Yx0DPBxiOTWhgR20iRIsZI-OC3kdEX4-ImoCENWHCOKTTcyI4BAsj0bumoL3VPXdmJaRkfTr8KRswwcHmLGMnEqFpv5_nfEq3k2PUSv_isC5zWd5N8c2kfdcW8/s400/Screen+Shot+2013-11-20+at+6.02.50+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIXx9KSlSb4S4kbbSf6Yx0DPBxiOTWhgR20iRIsZI-OC3kdEX4-ImoCENWHCOKTTcyI4BAsj0bumoL3VPXdmJaRkfTr8KRswwcHmLGMnEqFpv5_nfEq3k2PUSv_isC5zWd5N8c2kfdcW8/s1600/Screen+Shot+2013-11-20+at+6.02.50+PM.png)  
+[![](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+6.02.50+PM.png)](assets/img/posts/20131121/Screen+Shot+2013-11-20+at+6.02.50+PM_1.png)  
 ---  
 As before, but looking West near sunset.  
   

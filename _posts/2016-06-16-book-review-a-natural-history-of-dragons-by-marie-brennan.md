@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: A Natural History of Dragons by Marie Brennan"
 date: 2016-06-16
-img: https://d.gr-assets.com/books/1359770409l/12974372.jpg
+img: posts/20160616/12974372.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1359770409l/12974372.jpg)](https://d.gr-assets.com/books/1359770409l/12974372.jpg)
+[![](assets/img/posts/20160616/12974372.jpg)](assets/img/posts/20160616/12974372.jpg)
 
 **A Natural History of Dragons** , by Marie Brennan, is the first of a series of fantasy memoirs of the Lady Trent as she explores the world and learns about dragons, among other things. I heard good things about it a few years ago and have been intrigued by it and its cover. A friend of mine at work lent me a copy (an actual physical book after so long!), so I got a chance to read it.  
   

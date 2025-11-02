@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Fifth Season by N.K. Jemisin"
 date: 2016-09-05
-img: https://d2arxad8u2l0g7.cloudfront.net/books/1387752383l/19887474.jpg
+img: posts/20160905/19887474.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://d2arxad8u2l0g7.cloudfront.net/books/1387752383l/19887474.jpg)](https://d2arxad8u2l0g7.cloudfront.net/books/1387752383l/19887474.jpg)
+[![](assets/img/posts/20160905/19887474.jpg)](assets/img/posts/20160905/19887474.jpg)
 
 **The Fifth Season** by N.K. Jemisin is the 2016 Hugo Award winning novel. I've read many of Jemisin's work and have enjoyed them greatly, but between life and travels had missed this one. I saw her promoting its sequel, **The Obelisk Gate** , on twitter; though, so when **The Fifth Season** won the Hugo, I knew I had to check it out. And I was not disappointed: this is certainly one of the best books I've read this year and certainly one of Jemisin's best.  
   

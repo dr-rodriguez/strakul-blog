@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Fear Index by Robert Harris"
 date: 2014-11-15
-img: https://d.gr-assets.com/books/1328316568l/12594719.jpg
+img: posts/20141115/12594719.jpg
 tags: [Book Club, Books, Science Fiction]
 category: Book Club
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1328316568l/12594719.jpg)](https://d.gr-assets.com/books/1328316568l/12594719.jpg)
+[![](assets/img/posts/20141115/12594719.jpg)](assets/img/posts/20141115/12594719.jpg)
 
 **The Fear Index** by Robert Harris was the latest book selected in our Santiago book club. This is a thriller and a very fast read. Different from what we've read recently, hence the selection.  
   

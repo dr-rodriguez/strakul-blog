@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Witch King by Martha Wells"
 date: 2023-06-25
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663769821i/57861689.jpg
+img: posts/20230625/57861689.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663769821i/57861689.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663769821i/57861689.jpg)
+[![](assets/img/posts/20230625/57861689.jpg)](assets/img/posts/20230625/57861689.jpg)
 
 I've several books of Martha Wells, but all of them have been about Murderbot and featured a science fiction setting. I saw plenty of advertisements about this book and figured I'd give it a try. I like to vary between science fiction and fantasy and if this is as good as the Murderbot Diaries then this one should be quite fun. Here's the Goodreads blurb:
 

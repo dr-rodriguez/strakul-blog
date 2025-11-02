@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Children of Memory by Adrian Tchaikovsky"
 date: 2024-07-07
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663353031i/61344353.jpg
+img: posts/20240707/61344353.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663353031i/61344353.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663353031i/61344353.jpg)
+[![](assets/img/posts/20240707/61344353.jpg)](assets/img/posts/20240707/61344353.jpg)
 
 This is the third book that started with [Children of Time](https://strakul.blogspot.com/2024/06/book-review-children-of-time-by-adrian.html). It continues shortly after the prior one, [Children of Ruin](https://strakul.blogspot.com/2024/06/book-review-children-of-ruin-by-adrian.html), left off and is another take of terraforming efforts gone wrong and the subsequent events as the descendants of humanity rediscover them. Here is the Goodreads blurb:
 

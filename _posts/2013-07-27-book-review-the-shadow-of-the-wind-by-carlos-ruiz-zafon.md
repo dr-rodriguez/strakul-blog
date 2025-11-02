@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Shadow of the Wind by Carlos Ruiz Zafon"
 date: 2013-07-27
-img: http://d202m5krfqbpi5.cloudfront.net/books/1327962237l/6563622.jpg
+img: posts/20130727/6563622.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](http://d202m5krfqbpi5.cloudfront.net/books/1327962237l/6563622.jpg)](http://d202m5krfqbpi5.cloudfront.net/books/1327962237l/6563622.jpg)
+[![](assets/img/posts/20130727/6563622.jpg)](assets/img/posts/20130727/6563622.jpg)
 
 **The Shadow of the Wind** (La Sombra del Viento) is a novel by Carlos Ruiz Zafón and forms part of a series called The Cemetery of Forgotten Books (El Cementerio de los Libros Olvidados), though this book is so well contained that I have no idea what the other books in the series are about. I read this as part of the book club I'm part of and so it is straight fiction. The novel was originally written in Spanish, but I read it in English since I read faster there plus it was significantly cheaper. I did wonder at some of the language, but I don't think too much was lost in translation.  
   

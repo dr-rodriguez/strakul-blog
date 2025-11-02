@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Novella Review: Legion by Brandon Sanderson"
 date: 2012-12-24
-img: http://d.gr-assets.com/books/1347720205l/16004601.jpg
+img: posts/20121224/16004601.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](http://d.gr-assets.com/books/1347720205l/16004601.jpg)](http://d.gr-assets.com/books/1347720205l/16004601.jpg)
+[![](assets/img/posts/20121224/16004601.jpg)](assets/img/posts/20121224/16004601.jpg)
 
 Here is a quick review of **Legion** by Brandon Sanderson. This is another short novella and can be read in a single day. I tried to stretch it out as much as I could, but it was difficult. It was actually quite engaging, even more so than [The Emperor's Soul](http://strakul.blogspot.com/2012/12/novella-review-emperors-soul-by-brandon.html), which I also recently finished.  
   

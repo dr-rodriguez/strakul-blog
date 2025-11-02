@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Foundation and Empire by Isaac Asimov"
 date: 2021-08-13
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581.jpg
+img: posts/20210813/29581.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581.jpg)**
+**[![](assets/img/posts/20210813/29581.jpg)](assets/img/posts/20210813/29581.jpg)**
 
 **Foundation and Empire** is the second book in the **Foundation** series and follows a few decades after its predecessor. It continues the epic journey of the Foundation across generations as it struggles to establish itself amidst a decaying Galactic Empire with threats from outside and inside.
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Lost Metal by Brandon Sanderson"
 date: 2023-04-30
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653582568i/59768312.jpg
+img: posts/20230430/59768312.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653582568i/59768312.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653582568i/59768312.jpg)
+[![](assets/img/posts/20230430/59768312.jpg)](assets/img/posts/20230430/59768312.jpg)
 
 **The Lost Metal** is a long overdue conclusion to the Wax and Wayne series of Mistborn novels, the second era for the Misborn series. 
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: River of Stars by Guy Gavriel Kay"
 date: 2017-08-27
-img: https://images.gr-assets.com/books/1365010215l/17728793.jpg
+img: posts/20170827/17728793.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1365010215l/17728793.jpg)](https://images.gr-assets.com/books/1365010215l/17728793.jpg)
+[![](assets/img/posts/20170827/17728793.jpg)](assets/img/posts/20170827/17728793.jpg)
 
 Several years ago, Guy Gavriel Kay published **Under Heaven** , a book inspired by the Tang dynasty of China. I believe it was my first time reading Kay's work and it was impressive. With **River of Stars** , Kay returns to the same setting, but now several hundred years later to a Kitai reminiscent of the Song dynasty. My understanding of Chinese history may be limited, but that didn't stop me from enjoying this haunting tale of the fall of an empire.  
   

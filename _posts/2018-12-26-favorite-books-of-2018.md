@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2018"
 date: 2018-12-26
-img: https://images.gr-assets.com/books/1451786592l/25297770.jpg
+img: posts/20181226/25297770.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
@@ -17,7 +17,7 @@ Nevertheless, here are some of my favorite books this year. As always, remember 
   
 
 
-[![](https://images.gr-assets.com/books/1451786592l/25297770.jpg)](https://images.gr-assets.com/books/1451786592l/25297770.jpg)
+[![](assets/img/posts/20181226/25297770.jpg)](assets/img/posts/20181226/25297770.jpg)
 
 **[The Mortal Tally](https://strakul.blogspot.com/2018/09/book-review-mortal-tally-by-sam-sykes.html)** by Sam Sykes  
   
@@ -25,7 +25,7 @@ Sykes is an absolute character on twitter and it motivated me to try out his boo
   
 
 
-[![](https://images.gr-assets.com/books/1497398127l/34453011.jpg)](https://images.gr-assets.com/books/1497398127l/34453011.jpg)
+[![](assets/img/posts/20181226/34453011.jpg)](assets/img/posts/20181226/34453011.jpg)
 
 **[Binti](https://strakul.blogspot.com/2018/02/book-review-binti-by-nnedi-okorafor.html)** by Nnedi Okorafor  
   
@@ -33,7 +33,7 @@ Sykes is an absolute character on twitter and it motivated me to try out his boo
   
 
 
-[![](https://images.gr-assets.com/books/1531845328l/39353738.jpg)](https://images.gr-assets.com/books/1531845328l/39353738.jpg)
+[![](assets/img/posts/20181214/39353738.jpg)](assets/img/posts/20181214/39353738.jpg)
 
 **[Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html)** by Brandon Sanderson  
   

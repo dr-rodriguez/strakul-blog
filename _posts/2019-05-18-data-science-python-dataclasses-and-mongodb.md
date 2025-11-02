@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Data Science: Python Dataclasses and MongoDB"
 date: 2019-05-18
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDv3h2zSs9kf4ZswY3eaSGac7UR8d3RA8kdpgsPAgLqa1e1hHGIthMJZFrGPgnPZbVSHu-ouTuDJqu2DhoZSVBRoC00Zi6uRF6G5K_cvRMSYFfFlzx6G1Pc4S2Zb8WMN8fWLtRibRhJ9I/s640/mongodb_compass.png
+img: posts/20190518/mongodb_compass_1.png
 tags: [Data Science, Brown Dwarfs, Databases, NoSQL, Astronomy, Python]
 category: Data Science
 author: Strakul
@@ -165,7 +165,7 @@ To install a MongoDB server and start it up, or to connect to an existing server
 **Putting it all Together**  
 Once you load up some more objects (see examples in the [Jupyter notebook](https://github.com/dr-rodriguez/BlogTutorials/blob/master/notebooks/DataClass_MongoDB.ipynb)) you can start playing around with some quick database queries. The syntax is different than SQL, but nevertheless quite powerful. You can also create indices for faster queries and do aggregations, which is a sort of pipeline where you can run a sequence of queries or commands together to get more advanced results. I personally like to use the [Compass ](https://docs.mongodb.com/compass/current/)program to connect to my MongoDB database and explore its contents. I believe some advanced queries aren't supported in it, but it still gives you a good overview to test how things look:  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDv3h2zSs9kf4ZswY3eaSGac7UR8d3RA8kdpgsPAgLqa1e1hHGIthMJZFrGPgnPZbVSHu-ouTuDJqu2DhoZSVBRoC00Zi6uRF6G5K_cvRMSYFfFlzx6G1Pc4S2Zb8WMN8fWLtRibRhJ9I/s640/mongodb_compass.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDv3h2zSs9kf4ZswY3eaSGac7UR8d3RA8kdpgsPAgLqa1e1hHGIthMJZFrGPgnPZbVSHu-ouTuDJqu2DhoZSVBRoC00Zi6uRF6G5K_cvRMSYFfFlzx6G1Pc4S2Zb8WMN8fWLtRibRhJ9I/s1600/mongodb_compass.png)  
+[![](assets/img/posts/20190518/mongodb_compass_1.png)](assets/img/posts/20190518/mongodb_compass.png)  
 ---  
 Compass application showing a query on my MongoDB Brown Dwarf test database (click to see larger version).  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: God's Last Breath by Sam Sykes"
 date: 2019-01-26
-img: https://images.gr-assets.com/books/1483393391l/31576966.jpg
+img: posts/20190126/31576966.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1483393391l/31576966.jpg)](https://images.gr-assets.com/books/1483393391l/31576966.jpg)
+[![](assets/img/posts/20190126/31576966.jpg)](assets/img/posts/20190126/31576966.jpg)
 
 This is the final book in the **Bring Down Heaven** series by Sam Sykes. This is quite an epic conclusion to what is an exciting trilogy consisting of [The City Stained Red](https://strakul.blogspot.com/2014/12/book-review-city-stained-red-by-sam.html), [The Mortal Tally](https://strakul.blogspot.com/2018/09/book-review-mortal-tally-by-sam-sykes.html), and **God's Last Breath**. I started reading this book after Sykes' clever marketing strategy on twitter. Even if you only casually follow him, you realize he is a funny character and you end up genuinely curious about his books. It worked and it was worth it; this is some of the best fantasy I've read in a while.  
   

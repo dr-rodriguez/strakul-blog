@@ -33,7 +33,7 @@ _Binary star IW Tau without and with adaptive optic corrections.
 Credit: Chas Beichman and Angelle Tanner of JPL_  
 The end result for AO imaging is a much sharper image as the atmosphere would naturally tend to blur things out. This is important as it allows us to probe very close to the stars. As previously mentioned, any planets would appear to be very close to their stars so you need something like adaptive optics to spot them. AO is already widely used in many large telescopes, such as the Keck, Gemini, and VLT telescopes. Even 'smaller', 3-m class telescopes sometimes have them, like at Lick Observatory.  
   
-[![](http://apod.nasa.gov/apod/image/0908/laservlt_eso.jpg)](http://apod.nasa.gov/apod/image/0908/laservlt_eso.jpg)  
+[![](assets/img/posts/20120416/laservlt_eso.jpg)](assets/img/posts/20120416/laservlt_eso.jpg)  
 ---  
 _Using the laser guide star at the Very Large Telescope (VLT) in Chile. Credit: Yuri Beletsky (ESO)_  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Spellwright by Blake Charlton"
 date: 2024-08-04
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331914885i/6703145.jpg
+img: posts/20240804/6703145.jpg
 tags: []
 category: 
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331914885i/6703145.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331914885i/6703145.jpg)
+[![](assets/img/posts/20240804/6703145.jpg)](assets/img/posts/20240804/6703145.jpg)
 
 I picked up **Spellwright** by Blake Charlton when I got an alert it was on sale for just 75cents. This was an incredible price and while I could always just get it from the library, I decided to just buy it and give it a try. I had heard about it a long time ago and had it on my to-read list, just never high enough. Here is the Goodreads blurb:
 

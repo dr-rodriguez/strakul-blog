@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Astronomy: Protostars and Planets VI"
 date: 2013-07-29
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRaYZHV_DbEI0kp1TkHs2uc6wfiKoS47X4QjLiPsAkpzUatZf4sCugl5EOF5S_KhzpZOF2X_DC2DsDaxFUnnzmHMXQ8hOYPQ6qPFoDJFRzSqDP4Z2qfZr6dzp1HdEtsKQllafEY7lZXw/s400/IMG_1251.JPG
+img: posts/20130729/IMG_1251.JPG
 tags: [Pictures, Travel, Astronomy]
 category: Pictures
 author: Strakul
@@ -23,13 +23,13 @@ On this occasion, PPVI was held in Heidelberg, Germany. This is a small, tourist
   
 I stayed at a hotel near the old bridge in the old town. It was conveniently located just 5-8 minutes from the conference hall, which meant I could go back and rest during the day if needed. The proximity was worth it. I learned that lesson at a prior AAS meeting when I stayed more than 15 minutes away from the venue.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRaYZHV_DbEI0kp1TkHs2uc6wfiKoS47X4QjLiPsAkpzUatZf4sCugl5EOF5S_KhzpZOF2X_DC2DsDaxFUnnzmHMXQ8hOYPQ6qPFoDJFRzSqDP4Z2qfZr6dzp1HdEtsKQllafEY7lZXw/s400/IMG_1251.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRaYZHV_DbEI0kp1TkHs2uc6wfiKoS47X4QjLiPsAkpzUatZf4sCugl5EOF5S_KhzpZOF2X_DC2DsDaxFUnnzmHMXQ8hOYPQ6qPFoDJFRzSqDP4Z2qfZr6dzp1HdEtsKQllafEY7lZXw/s1600/IMG_1251.JPG)  
+[![](assets/img/posts/20130729/IMG_1251.JPG)](assets/img/posts/20130729/IMG_1251_1.JPG)  
 ---  
 Heidelberg, Germany. You can see the old bridge, the castle, and the church in this shot.  
   
 I spent a little time exploring the city, but Heidelberg isn't that big to begin with. Some of the meeting was held at some of the main sites: the reception was at the castle, dinner at Molkenkur with views of the city, and there was also a boat ride that took us along the Neckar river. While I don't think I saw and did everything that Heidelberg had to offer, I feel I saw enough to be happy about it.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3j-_FUAPMejd5smHnMbKQGbLK5hi_X1v-sjE82GSsuAdp4VaBeC6j18o_IcTbXX5w6K8MZsIazEb0nkzZQaggFlkeqM09TqZuezxfWj_oCjb5gUIiB9TphFakv983XCrdHoXsvUySFg4/s400/IMG_1241.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3j-_FUAPMejd5smHnMbKQGbLK5hi_X1v-sjE82GSsuAdp4VaBeC6j18o_IcTbXX5w6K8MZsIazEb0nkzZQaggFlkeqM09TqZuezxfWj_oCjb5gUIiB9TphFakv983XCrdHoXsvUySFg4/s1600/IMG_1241.JPG)  
+[![](assets/img/posts/20130729/IMG_1241.JPG)](assets/img/posts/20130729/IMG_1241_1.JPG)  
 ---  
 A close-up of the Heidelberg Castle  
   
@@ -38,7 +38,7 @@ One aspect of Heidelberg (and Germany) that I hadn't fully accounted for was how
 **The Meeting**  
 This conference had plenty of talks that summarized the state of the field ranging from star formation to extrasolar planets. Some were good and interesting, a few were not. However, it is physically tiring to try and attend all the talks. I saved my energy for the few talks most relevant to my research, but I know some people who tried to listen in to most of the talks.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GXIeJRC2eD2Ut4Nig16xkeykNYP37sHpHyU-w56BnV5Vvnc9Pqiw-496EfamHbXpJaXS6ST6n19vhkP5FgKhc-MtmJrI9qOttHBAbKA7Lk4wVgdRswJCb7-p1u6SwA9OT9uq0jLzCSQ/s400/IMG_1353.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GXIeJRC2eD2Ut4Nig16xkeykNYP37sHpHyU-w56BnV5Vvnc9Pqiw-496EfamHbXpJaXS6ST6n19vhkP5FgKhc-MtmJrI9qOttHBAbKA7Lk4wVgdRswJCb7-p1u6SwA9OT9uq0jLzCSQ/s1600/IMG_1353.JPG)  
+[![](assets/img/posts/20130729/IMG_1353.JPG)](assets/img/posts/20130729/IMG_1353_1.JPG)  
 ---  
 The conference hall, with some of the many attendees gathered for a group picture  
   
@@ -46,7 +46,7 @@ In addition to the talks, there were posters. I had one up the first half of the
   
 I met and talked science with a lot of relevant people during the conference. For me, some of the best times were at the coffee breaks or at lunch. I know some people swear that only at bars or pubs far into the night do collaborations get forged, but that is personally not my way.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9xPbVhzHsirOi4HjiXTNfhry7etI9wcjqUkayoVHwibNqML_lBIdHEnu86Wt9NUjx3YQ_ePfk689FjLwDgqFkEaU1frZwbxkGZD1f0OhDT3sDzFM-Tg-Y-EsuFYs0fPdr1k7te-yPYo/s400/IMG_1294.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9xPbVhzHsirOi4HjiXTNfhry7etI9wcjqUkayoVHwibNqML_lBIdHEnu86Wt9NUjx3YQ_ePfk689FjLwDgqFkEaU1frZwbxkGZD1f0OhDT3sDzFM-Tg-Y-EsuFYs0fPdr1k7te-yPYo/s1600/IMG_1294.JPG)  
+[![](assets/img/posts/20130729/IMG_1294.JPG)](assets/img/posts/20130729/IMG_1294_1.JPG)  
 ---  
 At the reception, looking down on Heidelberg from the castle  
   
@@ -63,7 +63,7 @@ Neuchwanstein Castle
   
 I was joined by a good friend from UCLA and met up with some of her friends upon arrival. We spent a few days exploring Munich and its surroundings, including Neuchwanstein Castle (pictured above) and Königssee (pictured below). Overall it was great, though exhausting with all the hikes and the train/bus/boat/tram rides.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8334rblVFR2YSGAm9aUMXUxW_jHZ5YEC7q1nkFfr761ZEgReY8VyZII_XOOVvGaBCcvxXrO4IR_X4GgnF7PLWN6CBXeXa97KfN62YUybZHvXrZZWbCHTmV_RzZJEsSdnYf_RhOkNYaZg/s400/IMG_1735.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8334rblVFR2YSGAm9aUMXUxW_jHZ5YEC7q1nkFfr761ZEgReY8VyZII_XOOVvGaBCcvxXrO4IR_X4GgnF7PLWN6CBXeXa97KfN62YUybZHvXrZZWbCHTmV_RzZJEsSdnYf_RhOkNYaZg/s1600/IMG_1735.JPG)  
+[![](assets/img/posts/20130729/IMG_1735.JPG)](assets/img/posts/20130729/IMG_1735_1.JPG)  
 ---  
 Lake Obersee, just past Lake Königssee itself. If you see the full size frame (click the picture), you might be able to spot (at center-right) the 1540-ft tall Röthbach Waterfall, the highest in Germany.  
   

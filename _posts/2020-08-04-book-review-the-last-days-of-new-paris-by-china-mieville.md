@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Last Days of New Paris by China Mieville"
 date: 2020-08-04
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8rUOo6VdH5rtRSza9vcCfH2Bb2vSYP4AIilsZ3NCD9viPY6_Hw3Nm3lAZ3JIixgIZQ4uqclOkisWg5waucnTB6WwXpXxipi51zOqOx0gJSrsVl3FkiqyS1FykZ7JDXhSr-89Ncb6OUzQ/w200-h304/27833610.jpg
+img: posts/20200804/27833610.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8rUOo6VdH5rtRSza9vcCfH2Bb2vSYP4AIilsZ3NCD9viPY6_Hw3Nm3lAZ3JIixgIZQ4uqclOkisWg5waucnTB6WwXpXxipi51zOqOx0gJSrsVl3FkiqyS1FykZ7JDXhSr-89Ncb6OUzQ/w200-h304/27833610.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8rUOo6VdH5rtRSza9vcCfH2Bb2vSYP4AIilsZ3NCD9viPY6_Hw3Nm3lAZ3JIixgIZQ4uqclOkisWg5waucnTB6WwXpXxipi51zOqOx0gJSrsVl3FkiqyS1FykZ7JDXhSr-89Ncb6OUzQ/s475/27833610.jpg)
+[![](assets/img/posts/20200804/27833610.jpg)](assets/img/posts/20200804/27833610_1.jpg)
 
 I've had **The Last Days of New Paris** on my to-read list for a while. I'm a fan of China Mieville and enjoyed many of his books, particularly [The City and The City](https://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html) and [The Scar](https://strakul.blogspot.com/2015/04/book-review-scar-by-china-mieville.html). This is a novella, so it's much shorter than before and I decided to go ahead and just dive right into it.
 
@@ -46,7 +46,7 @@ We mainly follow Thibaut, a young _Main à plume_ , in his resistance of the Naz
 
 **Setting / World Building**
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNorfNkVOUrPNYpXVrLdYHqi6o1PY3ZX0trVFq4Dz7ahVsUbTAV-LPcjJAgYf6aqMe4QvugajiALnuagVd3k3w-IGe-zhlt9whZUah5X8tn_DQ2ADv2bWbXUxjlbOxWI-VS2NaGeC9gY/w178-h262/47ae7359019ade05787ddbca8bb5b062.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNorfNkVOUrPNYpXVrLdYHqi6o1PY3ZX0trVFq4Dz7ahVsUbTAV-LPcjJAgYf6aqMe4QvugajiALnuagVd3k3w-IGe-zhlt9whZUah5X8tn_DQ2ADv2bWbXUxjlbOxWI-VS2NaGeC9gY/s660/47ae7359019ade05787ddbca8bb5b062.jpg)  
+[![](assets/img/posts/20200804/47ae7359019ade05787ddbca8bb5b062.jpg)](assets/img/posts/20200804/47ae7359019ade05787ddbca8bb5b062_1.jpg)  
 ---  
   
 ## Exquisite Corpse by André Breton, 

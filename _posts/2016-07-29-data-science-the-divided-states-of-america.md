@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: The Divided States of America"
 date: 2016-07-29
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sxrHNfMm-pByLtzNla2Jd4LM5uBXQbWOUOjPZ3R1r_tZrGsbHbDqtDoMhYQitK6ExphrRk5IIoy6G8n4JPBuPEiahdVcI4x6i78zmbhyMKoxCk5NZw8nYd0fAMJDQDht9GitCNEnpsM/s640/map_twitter.png
+img: posts/20160729/map_twitter.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sxrHNfMm-pByLtzNla2Jd4LM5uBXQbWOUOjPZ3R1r_tZrGsbHbDqtDoMhYQitK6ExphrRk5IIoy6G8n4JPBuPEiahdVcI4x6i78zmbhyMKoxCk5NZw8nYd0fAMJDQDht9GitCNEnpsM/s640/map_twitter.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sxrHNfMm-pByLtzNla2Jd4LM5uBXQbWOUOjPZ3R1r_tZrGsbHbDqtDoMhYQitK6ExphrRk5IIoy6G8n4JPBuPEiahdVcI4x6i78zmbhyMKoxCk5NZw8nYd0fAMJDQDht9GitCNEnpsM/s1600/map_twitter.png)
+[![](assets/img/posts/20160729/map_twitter.png)](assets/img/posts/20160729/map_twitter_1.png)
 
   
   
@@ -30,7 +30,7 @@ I used scikit-learn’s [SVC](http://scikit-learn.org/stable/modules/generated/s
 Given that my data is multi-dimensional (123 columns), I can’t create a figure like the one above. However, I can use a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) to see how accurately I predict values from my test dataset. You can see this below.  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxG8uhrUPWBzEq9637KACFXGg82BxHx4hD2pRoIpE1KRVPai6Wc8XbzxUAicIFdzYz6b7gX_mheFgeXhUQQ4ckIvQf-_ZZtBlO3wF4P1s65we2BIx5x2szF7JhzzSA3lJESrkCsliCMG0/s640/confusion_matrix.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxG8uhrUPWBzEq9637KACFXGg82BxHx4hD2pRoIpE1KRVPai6Wc8XbzxUAicIFdzYz6b7gX_mheFgeXhUQQ4ckIvQf-_ZZtBlO3wF4P1s65we2BIx5x2szF7JhzzSA3lJESrkCsliCMG0/s1600/confusion_matrix.png)
+[![](assets/img/posts/20160729/confusion_matrix_1.png)](assets/img/posts/20160729/confusion_matrix.png)
 
   
   
@@ -70,7 +70,7 @@ Above is a [Bokeh](http://bokeh.pydata.org/en/latest/) interactive figure of the
 This map is the figure that’s displayed at the very top of this blog post. Here is a cleaner version without the Twitter data superimposed:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyOQG4qslmMglN3SCGsIUv99ttokx_Y9dgYi8WsbuTgg22ck4ybQSM60mWRFjRcpA4lMPmHfBswcUY3quWi-iLmqOCYaeRlJHjhuManSmtimJEdd4i41oPU5uIkILUEIgS00VWtC3ZOE/s640/map.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqyOQG4qslmMglN3SCGsIUv99ttokx_Y9dgYi8WsbuTgg22ck4ybQSM60mWRFjRcpA4lMPmHfBswcUY3quWi-iLmqOCYaeRlJHjhuManSmtimJEdd4i41oPU5uIkILUEIgS00VWtC3ZOE/s1600/map.png)
+[![](assets/img/posts/20160729/map_1.png)](assets/img/posts/20160729/map.png)
 
   
   

@@ -21,7 +21,7 @@ Concept art of the Mars Curiosity rover. Credit: NASA/JPL-Caltech
 **Mars Curiosity**  
 This is NASA's latest mission to Mars. It consists of a 1-ton rover that will explore the area around Gale Crater. This is the largest rover sent to another planet to date. Curiosity will study the climate and geology of Mars and help determine if Mars could ever have supported life in its distant past by focusing on searching for the ingredients of life. I'll point you to the links at the end to get more information on the mission itself.  
   
-[![](http://marsrovers.jpl.nasa.gov/gallery/press/opportunity/20120117a/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)](http://marsrovers.jpl.nasa.gov/gallery/press/opportunity/20120117a/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)  
+[![](assets/img/posts/20120802/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)](assets/img/posts/20120802/PIA15279_3rovers-stand_D2011_1215_D521_br.jpg)  
 ---  
 A comparison of Curiosity (at right) with Spirit/Opportunity (left), Sojourner (bottom), and two engineers (center). These are test or spare rovers which are the same size as those sent to Mars. Credit: NASA/JPL-Caltech  
   

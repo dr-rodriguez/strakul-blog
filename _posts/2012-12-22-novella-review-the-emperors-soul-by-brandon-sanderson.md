@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Novella Review: The Emperor's Soul by Brandon Sanderson"
 date: 2012-12-22
-img: http://d.gr-assets.com/books/1352153446l/16131932.jpg
+img: posts/20121222/16131932.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](http://d.gr-assets.com/books/1352153446l/16131932.jpg)](http://d.gr-assets.com/books/1352153446l/16131932.jpg)This is the first instance I review a novella in this blog, however, I'm grouping it with book reviews. A novella, for those who don't know, is much shorter than a novel, but longer than a short story. The exact definition or word count depend on who you ask, but a novel (according to NaNoWriMo) is at least 50,000 words, so a novella may be 20-40k long.  
+[![](assets/img/posts/20121222/16131932.jpg)](assets/img/posts/20121222/16131932.jpg)This is the first instance I review a novella in this blog, however, I'm grouping it with book reviews. A novella, for those who don't know, is much shorter than a novel, but longer than a short story. The exact definition or word count depend on who you ask, but a novel (according to NaNoWriMo) is at least 50,000 words, so a novella may be 20-40k long.  
   
 Regardless, this is a short book and can be quickly read in a maner of days, though I took it easy while reading. Given the length, I'm formatting my review differently as well, just talking about my impression rather than the usual character-plot-setting breakdown I use.  
   

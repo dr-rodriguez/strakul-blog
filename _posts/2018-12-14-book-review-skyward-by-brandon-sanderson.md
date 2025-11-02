@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Skyward by Brandon Sanderson"
 date: 2018-12-14
-img: https://images.gr-assets.com/books/1531845328l/39353738.jpg
+img: posts/20181214/39353738.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1531845328l/39353738.jpg)](https://images.gr-assets.com/books/1531845328l/39353738.jpg)
+[![](assets/img/posts/20181214/39353738.jpg)](assets/img/posts/20181214/39353738.jpg)
 
 I'm a big fan of Sanderson's work, so when there's a new book of his I'll generally pick it up even if I don't know too much about it. **Skyward** is one such example. The only thing I knew was that it was a take on the "boy with his dragon" story except that it's a girl with her spaceship. Still, knowing Sanderson I knew it would be a wild ride with great characters and an awesome world. I was not disappointed.  
   

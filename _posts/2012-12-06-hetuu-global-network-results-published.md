@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Hetu'u Global Network Results Published"
 date: 2012-12-06
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSoT2vTUU_BLPeA-dxF3rqD_vyi4RLucS7DmOlilYZbJ8yR5dvcFASXTuNa-whAlZHTblUJwpqsvk7XB5ZmXDbQg_GOf13HGg5oVThExjZBhZkY1f6VX-z4RJbdV7m020hCBS7Z_lqxI/s320/Hetuu.png
+img: posts/20121206/Hetuu_1.png
 tags: [Travel, Planets, Transit of Venus, Education, Astronomy]
 category: Travel
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSoT2vTUU_BLPeA-dxF3rqD_vyi4RLucS7DmOlilYZbJ8yR5dvcFASXTuNa-whAlZHTblUJwpqsvk7XB5ZmXDbQg_GOf13HGg5oVThExjZBhZkY1f6VX-z4RJbdV7m020hCBS7Z_lqxI/s320/Hetuu.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnSoT2vTUU_BLPeA-dxF3rqD_vyi4RLucS7DmOlilYZbJ8yR5dvcFASXTuNa-whAlZHTblUJwpqsvk7XB5ZmXDbQg_GOf13HGg5oVThExjZBhZkY1f6VX-z4RJbdV7m020hCBS7Z_lqxI/s1600/Hetuu.png)
+[![](assets/img/posts/20121206/Hetuu_1.png)](assets/img/posts/20121206/Hetuu.png)
 
   
 This is a short post to let you know that the results of the Hetu'u Global Network have been officially published in Astronomy Education Review (AER)! You can see the article [here](http://aer.aas.org/resource/1/aerscz/v11/i1/p010203_s1).  
@@ -21,7 +21,7 @@ Hetu'u is the rapanui word for "star" and forms part of our official team name f
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDsXcENeFRaoFsTzFtMY0-cym5_y7704VB8DCknZ9UgRydNYn0geGpDxCG4k190b3BzxmVaxuu8U-yOPrxNYn7tb01EmcdkocryDZwE9D0W3kTSdQfPSLazHO68-8C6FavaSuRNA3OypY/s640/ToV2012_label.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDsXcENeFRaoFsTzFtMY0-cym5_y7704VB8DCknZ9UgRydNYn0geGpDxCG4k190b3BzxmVaxuu8U-yOPrxNYn7tb01EmcdkocryDZwE9D0W3kTSdQfPSLazHO68-8C6FavaSuRNA3OypY/s1600/ToV2012_label.jpg)
+[![](assets/img/posts/20121206/ToV2012_label.jpg)](assets/img/posts/20121206/ToV2012_label_1.jpg)
 
   
 In the figure above, red marks indicate places where the second or third contact time was measured. Black symbols were unable to do so given local weather conditions.  

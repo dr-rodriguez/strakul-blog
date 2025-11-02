@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Death's End by Liu Cixin"
 date: 2016-10-19
-img: https://images.gr-assets.com/books/1441485334l/25735618.jpg
+img: posts/20161019/25735618.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1441485334l/25735618.jpg)](https://images.gr-assets.com/books/1441485334l/25735618.jpg)
+[![](assets/img/posts/20161019/25735618.jpg)](assets/img/posts/20161019/25735618.jpg)
 
 **Death's End** , by Liu Cixin and translated by Ken Liu, is the third and final installment of the **Remembrance of Earth's Past** series. It chronicles the events following [The Dark Forest](http://strakul.blogspot.com/2015/09/book-review-dark-forest-by-cixin-liu.html) and focuses on humanity's place in the universe. There is a lot of interesting science/science fiction concepts presented in this hard sci-fi novel, which keep you thinking on it for days on end.  
   

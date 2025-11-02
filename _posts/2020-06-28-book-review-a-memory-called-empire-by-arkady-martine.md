@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: A Memory Called Empire by Arkady Martine"
 date: 2020-06-28
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-ps3ahNVPQuyxGDqFBJhCklwt_hQveBI5c80Q3n0N3e99hWZ-9iDuQvcMNJHM3d7i6eeYHhrM2MJq9FxCO9s6maqRx3wTNhF8NQTZpPzAtwVJ1t2eWFboXwoelYCQ3rT0HUPSJ1caQ0/s320/39873472._SY475_.jpg
+img: posts/20200628/39873472._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-ps3ahNVPQuyxGDqFBJhCklwt_hQveBI5c80Q3n0N3e99hWZ-9iDuQvcMNJHM3d7i6eeYHhrM2MJq9FxCO9s6maqRx3wTNhF8NQTZpPzAtwVJ1t2eWFboXwoelYCQ3rT0HUPSJ1caQ0/s320/39873472._SY475_.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB-ps3ahNVPQuyxGDqFBJhCklwt_hQveBI5c80Q3n0N3e99hWZ-9iDuQvcMNJHM3d7i6eeYHhrM2MJq9FxCO9s6maqRx3wTNhF8NQTZpPzAtwVJ1t2eWFboXwoelYCQ3rT0HUPSJ1caQ0/s475/39873472._SY475_.jpg)
+[![](assets/img/posts/20200628/39873472._SY475_.jpg)](assets/img/posts/20200628/39873472._SY475__1.jpg)
 
 This book has been on my to-read list for a while since, along with [Gideon The Ninth](https://strakul.blogspot.com/2020/03/book-review-gideon-ninth-by-tamsyn-muir.html), it's received a lot of praise and award nominations. I did have to put a pause while I read a collection of short stories, but that did not detract from my enjoyment. Here's the Goodreads blurb:
 

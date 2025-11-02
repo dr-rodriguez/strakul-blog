@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Wild by Cheryl Strayed"
 date: 2014-02-24
-img: https://d202m5krfqbpi5.cloudfront.net/books/1354159655l/12262741.jpg
+img: posts/20140224/12262741.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1354159655l/12262741.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1354159655l/12262741.jpg)
+[![](assets/img/posts/20140224/12262741.jpg)](assets/img/posts/20140224/12262741.jpg)
 
 This upcoming month's book club pick was **Wild** by Cheryl Strayed. I hesitated to start it as it did not sound appealing at all. However, once I did I was quickly sucked in by the story. Despite being nonfiction and a memoir of her travels along the Pacific Crest Trail, it reflects elements of Joseph Campbell's [monomyth](http://en.wikipedia.org/wiki/Monomyth), perhaps most commonly known as "the hero's journey." This lends the story a broader appeal and was one of the main reasons why I quickly dug right in despite the initial hesitation.  
   
@@ -30,7 +30,7 @@ Naturally, this particular book has no magical or supernatural forces, but natur
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Hz0b5MFokgxk2_sXIO58fZNRtBEF2w0Od3U3gHBCsa9dqWiEsQx4fQqsdCLiUzPywyzRtp7-P7EHMhVhE2N8jjBSfwpHyv1PKLE1Cg8K871j7iOPXkcL_XKIMIKgqGn8iKuJFq7ik0/s1600/Screen+Shot+2014-02-24+at+3.21.16+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Hz0b5MFokgxk2_sXIO58fZNRtBEF2w0Od3U3gHBCsa9dqWiEsQx4fQqsdCLiUzPywyzRtp7-P7EHMhVhE2N8jjBSfwpHyv1PKLE1Cg8K871j7iOPXkcL_XKIMIKgqGn8iKuJFq7ik0/s1600/Screen+Shot+2014-02-24+at+3.21.16+PM.png)
+[![](assets/img/posts/20140224/Screen+Shot+2014-02-24+at+3.21.16+PM.png)](assets/img/posts/20140224/Screen+Shot+2014-02-24+at+3.21.16+PM.png)
 
 **Plot & Character**  
 The story follows Cheryl Strayed herself as she recounts the events leading to, and then her journey on, the PCT. I've grouped both plot and character together as the plot is Strayed's story. She starts her story with her mother's death and events surrounding it. This unhinged her somewhat and she ended up cheating on her husband and doing drugs. She realized that she needed to do something, to find herself again, and so she undertakes an incredible journey: hiking alone the PCT. This is a long trail going from Mexico to Canada along the western mountain range of the United States. You can see a map of it and her journey on the right. Although she has some camping and hiking experience before, nothing really prepared her for the 1,100-mile hike that she undertook.  

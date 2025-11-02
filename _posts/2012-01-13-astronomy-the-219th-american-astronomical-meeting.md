@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Astronomy: The 219th American Astronomical Meeting"
 date: 2012-01-13
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZqQE4xKj3JTig03BCYnXNKS0jJJIobpLv6EiVhFFWoVKs3390k1CRFO8gfXTtboUweDt-2-dI5ERskeTi81YMmLOfxleEddanL8L6481qLGTa6bmvL-KfR255ikU_HwbU2Sl2Eguq_JM/s320/IMG_3944.JPG
+img: posts/20120113/IMG_3944_1.JPG
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
@@ -19,7 +19,7 @@ I've now returned to Chile after spending a few days at the largest, bi-yearly, 
 
 This was my first time in Austin; it's a nice city. Lots of good tex-mex and the capitol building was nice to visit:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZqQE4xKj3JTig03BCYnXNKS0jJJIobpLv6EiVhFFWoVKs3390k1CRFO8gfXTtboUweDt-2-dI5ERskeTi81YMmLOfxleEddanL8L6481qLGTa6bmvL-KfR255ikU_HwbU2Sl2Eguq_JM/s320/IMG_3944.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZqQE4xKj3JTig03BCYnXNKS0jJJIobpLv6EiVhFFWoVKs3390k1CRFO8gfXTtboUweDt-2-dI5ERskeTi81YMmLOfxleEddanL8L6481qLGTa6bmvL-KfR255ikU_HwbU2Sl2Eguq_JM/s1600/IMG_3944.JPG)
+[![](assets/img/posts/20120113/IMG_3944_1.JPG)](assets/img/posts/20120113/IMG_3944.JPG)
 
   
 
@@ -43,7 +43,7 @@ This last result is particularly relevant to my research (and the poster I prese
 As I've mentioned already, I was keeping track of the conference via the twitter feed (#aas219). I started using [The Archivist](http://archivist.visitmix.com/Strakul/1), but the output of that is not always terribly useful. The most interesting result from that is the following:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnd8lhvpXHFRJZ7Q5yYDIqeVGON56hD8qr_jCv3xEscgpNyLAsXuan85GSewoHrvO20WcjR9MhCuYpVTVPkyhh7V7mftZ_5ZRThiKXIeELojJwEZOT2Eyu9B7ZyiMYbnXwmf4jE-1p-dQ/s400/Screen+shot+2012-01-13+at+9.58.43+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnd8lhvpXHFRJZ7Q5yYDIqeVGON56hD8qr_jCv3xEscgpNyLAsXuan85GSewoHrvO20WcjR9MhCuYpVTVPkyhh7V7mftZ_5ZRThiKXIeELojJwEZOT2Eyu9B7ZyiMYbnXwmf4jE-1p-dQ/s1600/Screen+shot+2012-01-13+at+9.58.43+AM.png)
+[![](assets/img/posts/20120113/Screen+shot+2012-01-13+at+9.58.43+AM.png)](assets/img/posts/20120113/Screen+shot+2012-01-13+at+9.58.43+AM_3.png)
 
   
 This is a breakdown of the most prolific twitterers using the #aas219 hashtag. I've you've been wondering who to follow for astronomy news, these are good folks to consider.  
@@ -51,13 +51,13 @@ This is a breakdown of the most prolific twitterers using the #aas219 hashtag. I
 Also interesting is the frequency of posts (alas without a vertical scale), which clearly shows when the conference was in session:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTD4GGYfzVwmuxASzLnVCevARlswFylgYj8lqm3ripk9wvGZAC7BgExt2jH5An3U8eSf7WSxEdXW1d7gWBoY1H_v8nGqLjH2ru3h32-WmjDm8Tei56aWsyOL4gnS2iwAu7oEpy-ITp5g/s400/Screen+shot+2012-01-13+at+9.58.29+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTD4GGYfzVwmuxASzLnVCevARlswFylgYj8lqm3ripk9wvGZAC7BgExt2jH5An3U8eSf7WSxEdXW1d7gWBoY1H_v8nGqLjH2ru3h32-WmjDm8Tei56aWsyOL4gnS2iwAu7oEpy-ITp5g/s1600/Screen+shot+2012-01-13+at+9.58.29+AM.png)
+[![](assets/img/posts/20120113/Screen+shot+2012-01-13+at+9.58.29+AM_3.png)](assets/img/posts/20120113/Screen+shot+2012-01-13+at+9.58.29+AM.png)
 
   
 However, my personal favorite way to visualize the social media's response to AAS is through word clouds. Using Google Reader I gathered all tweets from January 6 to 13th and present here a word cloud generated with [Wordle](http://www.wordle.net/):  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6MVU7J9ov8abJH0hWx8gKF25lg-EVueUTqxNUdbm0lgAqm5HqxpxONsZ34ykphE5vouYi_6JoP4VjTgpxzT6CCfrWGSXIcELW5jw-QTKQDEe8E3JOVq-lYFxZ9CnjF47jHOdXr_6Hrw/s640/Screen+shot+2012-01-13+at+10.39.35+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6MVU7J9ov8abJH0hWx8gKF25lg-EVueUTqxNUdbm0lgAqm5HqxpxONsZ34ykphE5vouYi_6JoP4VjTgpxzT6CCfrWGSXIcELW5jw-QTKQDEe8E3JOVq-lYFxZ9CnjF47jHOdXr_6Hrw/s1600/Screen+shot+2012-01-13+at+10.39.35+AM.png)
+[![](assets/img/posts/20120113/Screen+shot+2012-01-13+at+10.39.35+AM.png)](assets/img/posts/20120113/Screen+shot+2012-01-13+at+10.39.35+AM_3.png)
 
   
 I afterwards realized that my copy-pasting may have duplicated some entries, but that should not affect the results too much. I'm only including the 100 most common words after removing a few things like #aas219, RT, and time stamps. For those seeing word clouds for the first time: the larger the text, the more frequently it was mentioned. Note that upper case and lower case words (see Exoplanets and exoplanets) are unfortunately not counted together.  

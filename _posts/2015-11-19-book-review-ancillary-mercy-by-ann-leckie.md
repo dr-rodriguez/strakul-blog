@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Ancillary Mercy by Ann Leckie"
 date: 2015-11-19
-img: https://d.gr-assets.com/books/1424479056l/23533039.jpg
+img: posts/20151119/23533039.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1424479056l/23533039.jpg)](https://d.gr-assets.com/books/1424479056l/23533039.jpg)
+[![](assets/img/posts/20151119/23533039.jpg)](assets/img/posts/20151119/23533039.jpg)
 
 **Ancillary Mercy** by Ann Leckie is the third and final book in the Imperial Radch series. It brings the saga of the ancillary of _Justice of Toren_ to an end, but, as the novel says, there are no real endings. We'll have to wait and see if more books will be written in this universe to touch on some of the things left open.  
   

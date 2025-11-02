@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Chile After the Rain"
 date: 2012-04-28
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2XBDyyOvOXvKCW5KrXOKNZgmSvqXOANA4Firrlpjy4CaX5hz1W7fiWl_bVdOuprCjVeKLS2nvAjrnTOZFmBNGldkAWlZ5kWyGp2pERwmMwZeZPomfLTkX0vbhI2MblXxIiS-cLmlXxJQ/s400/IMG_2487.JPG
+img: posts/20120428/IMG_2487.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
@@ -14,7 +14,7 @@ description: ""
 Yesterday we had a lot of rain in Santiago. The day started foggy and cold:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2XBDyyOvOXvKCW5KrXOKNZgmSvqXOANA4Firrlpjy4CaX5hz1W7fiWl_bVdOuprCjVeKLS2nvAjrnTOZFmBNGldkAWlZ5kWyGp2pERwmMwZeZPomfLTkX0vbhI2MblXxIiS-cLmlXxJQ/s400/IMG_2487.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2XBDyyOvOXvKCW5KrXOKNZgmSvqXOANA4Firrlpjy4CaX5hz1W7fiWl_bVdOuprCjVeKLS2nvAjrnTOZFmBNGldkAWlZ5kWyGp2pERwmMwZeZPomfLTkX0vbhI2MblXxIiS-cLmlXxJQ/s1600/IMG_2487.JPG)
+[![](assets/img/posts/20120428/IMG_2487.JPG)](assets/img/posts/20120428/IMG_2487_1.JPG)
 
   
 It then started raining, with thunder and lightning, and eventually even hail.  
@@ -29,7 +29,7 @@ Today, however, the day is expected to be clear or partly cloudy.
 I woke up this morning to see a beautiful sunrise over mountains that are now capped with snow:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQLo2PWQaT0nKIjd7tBXrXWHIVairl-bycjCS17TyyWL2OmF6GAyyzS4Cq8ql92yrXPEzmAoPjoxo1rz7alWJ8-AD3jzLuxJYECD41a9WDjoIHIxpTHXKEKJ5I89mK4tB8UFscS7TI3Ew/s640/AfterRain_Apr282012.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQLo2PWQaT0nKIjd7tBXrXWHIVairl-bycjCS17TyyWL2OmF6GAyyzS4Cq8ql92yrXPEzmAoPjoxo1rz7alWJ8-AD3jzLuxJYECD41a9WDjoIHIxpTHXKEKJ5I89mK4tB8UFscS7TI3Ew/s1600/AfterRain_Apr282012.jpg)
+[![](assets/img/posts/20120428/AfterRain_Apr282012.jpg)](assets/img/posts/20120428/AfterRain_Apr282012_1.jpg)
 
   
 Winter is truly coming... 

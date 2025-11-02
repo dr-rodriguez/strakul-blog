@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: Presidential Candidates on Twitter"
 date: 2016-07-15
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSuKDUaIt2H0uIM8eGCwuO3R0XQkExKIeKKyRuVF0KwMwP3SIrDATVlj_JHwIFrL7VzLtyOuo4P2Gofy5pLaO4LOv1VLZ4fvsuiqPfi8NeMwHjv7bWxDeHMZSFccCCEJ1mAWYX8Vj6fOo/s640/wordclouds.png
+img: posts/20160715/wordclouds.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSuKDUaIt2H0uIM8eGCwuO3R0XQkExKIeKKyRuVF0KwMwP3SIrDATVlj_JHwIFrL7VzLtyOuo4P2Gofy5pLaO4LOv1VLZ4fvsuiqPfi8NeMwHjv7bWxDeHMZSFccCCEJ1mAWYX8Vj6fOo/s640/wordclouds.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSuKDUaIt2H0uIM8eGCwuO3R0XQkExKIeKKyRuVF0KwMwP3SIrDATVlj_JHwIFrL7VzLtyOuo4P2Gofy5pLaO4LOv1VLZ4fvsuiqPfi8NeMwHjv7bWxDeHMZSFccCCEJ1mAWYX8Vj6fOo/s1600/wordclouds.png)
+[![](assets/img/posts/20160715/wordclouds.png)](assets/img/posts/20160715/wordclouds_1.png)
 
   
 Over the past few months, I've been working on a little hobby data science project to explore twitter data with regards to the upcoming presidential election in the United States. The project has evolved quite a bit and detailing it in full is beyond the scope of a single blog post. As such, I've decided to split it into (at least) 3 posts. This post is the first of the series and will go over the basics of gathering data from Twitter and doing some simple text mining. The second and third posts will discuss more details of the project and show some neat visualizations I've created. I'll release all my code after the third post for any curious coders. For now, let's get started seeing what Hillary Clinton and Donald Trump's Twitter accounts are talking about.  
@@ -35,7 +35,7 @@ An alternative way to examine text data is to pass it through a Sentiment Analys
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdTnE-a6y0muFLZ_bKzE13Ix-ahscwRSMaQjjxnvRVg2cevKV2yQuW_PpMGE03XqlJN6T1CpPAFib4c3eiaeHr8Ysmm9Ww3esFtd44nMtRfw1yVp_b7s1fxnfTtRdMkQZ7T7iuzKUy-8/s640/sentiment_normalized.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdTnE-a6y0muFLZ_bKzE13Ix-ahscwRSMaQjjxnvRVg2cevKV2yQuW_PpMGE03XqlJN6T1CpPAFib4c3eiaeHr8Ysmm9Ww3esFtd44nMtRfw1yVp_b7s1fxnfTtRdMkQZ7T7iuzKUy-8/s1600/sentiment_normalized.png)
+[![](assets/img/posts/20160715/sentiment_normalized.png)](assets/img/posts/20160715/sentiment_normalized_1.png)
 
   
 **  

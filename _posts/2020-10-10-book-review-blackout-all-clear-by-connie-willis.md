@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Blackout / All Clear by Connie Willis"
 date: 2020-10-10
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388238856l/7576286.jpg
+img: posts/20201010/7576286.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388238856l/7576286.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388238856l/7576286.jpg)
+[![](assets/img/posts/20201010/7576286.jpg)](assets/img/posts/20201010/7576286.jpg)
 
 This is a review of two books in one. **Blackout** and **All Clear** are a two part series by Connie Willis of time travelers back to London at the time of the Blitz, around 1940. I decided to review them together since each is incomplete without the other. I'm not sure of the reasoning behind splitting them (I'm fine reading really long novels), but that's all right. 
 
@@ -31,7 +31,7 @@ The two books follow three main characters, Merope, Polly, and Mike. However, th
 
 **Setting / World Building**
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356448344l/8733972.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356448344l/8733972.jpg)
+[![](assets/img/posts/20201010/8733972.jpg)](assets/img/posts/20201010/8733972.jpg)
 
   
 This novel is set in the same universe as [Doomsday Book](https://strakul.blogspot.com/2020/02/book-review-doomsday-book-by-connie.html) and [To Say Nothing of the Dog](https://strakul.blogspot.com/2020/07/book-review-to-say-nothing-of-dog-by.html). We start of in Oxford in 2060, where time travel exists and is being used by historians to conduct research into the past. Our three main characters are students researching various aspects of life during World War II and get assignments into the past. I certainly learnt a lot of details that I didn't know about in terms of England's participation in WW2, both from the book itself but also from looking up information afterwards or chatting with friends.

@@ -79,7 +79,7 @@ GJ 667Cc is the 28-day planet. For this system, that corresponds to a distance f
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDnlXH3hsV57JY0MKY0RQwiaXg_LmCa1ZxfQbYrB3WWwOVatyeIIFSwZGxS9BDl5w1Ia5IK2pTgn1af-mQFml5olkGu0O3c3lfgRoP17qKaU7rXoRfWYZsKMO0rQQ7uXkcIcmZq9VfM_c/s400/GJ667Cc.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDnlXH3hsV57JY0MKY0RQwiaXg_LmCa1ZxfQbYrB3WWwOVatyeIIFSwZGxS9BDl5w1Ia5IK2pTgn1af-mQFml5olkGu0O3c3lfgRoP17qKaU7rXoRfWYZsKMO0rQQ7uXkcIcmZq9VfM_c/s1600/GJ667Cc.png)  
+[![](assets/img/posts/20120204/GJ667Cc_1.png)](assets/img/posts/20120204/GJ667Cc.png)  
 ---  
 _Orbital configuration of the GJ 667C planet system in comparison to our Sun's. The habitable zone, and it's possible extent, is illustrated. Note the different distance scales for both systems. Credit: Guillem Anglada-Escude et al. (2012)_  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Slap by Christos Tsiolkas"
 date: 2013-09-25
-img: http://d202m5krfqbpi5.cloudfront.net/books/1327122830l/6632916.jpg
+img: posts/20130925/6632916.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](http://d202m5krfqbpi5.cloudfront.net/books/1327122830l/6632916.jpg)](http://d202m5krfqbpi5.cloudfront.net/books/1327122830l/6632916.jpg)
+[![](assets/img/posts/20130925/6632916.jpg)](assets/img/posts/20130925/6632916.jpg)
 
 **The Slap** , by Christos Tsiolkas, is a story of several families and friends in Australia. Everyone is gathering for a friendly BBQ when one of the characters slaps a young child that is not his own. All hell breaks loose as lines are drawn and friends turn to enemies.  
   

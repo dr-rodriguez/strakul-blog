@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Of Hurricanes, gods, and planet Jupiter"
 date: 2012-08-26
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy8DPkG0ZMIrN2EDGX4_YeLN7U7D42Z58IykT1Ook86m-mi0y8P4Lfd6HO2KCetXf7doyJr7oTydtPeOiuXy9XgJ3eg8WdrCaRKxuVimG_RPSvmk6pPOQfNk9__-fPbrYXc4XMRZEp07pT/s400/HurricanesSince1851.jpg
+img: posts/20120826/HurricanesSince1851_1.jpg
 tags: [Weather, Pictures, Misc, Astronomy]
 category: Weather
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy8DPkG0ZMIrN2EDGX4_YeLN7U7D42Z58IykT1Ook86m-mi0y8P4Lfd6HO2KCetXf7doyJr7oTydtPeOiuXy9XgJ3eg8WdrCaRKxuVimG_RPSvmk6pPOQfNk9__-fPbrYXc4XMRZEp07pT/s400/HurricanesSince1851.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy8DPkG0ZMIrN2EDGX4_YeLN7U7D42Z58IykT1Ook86m-mi0y8P4Lfd6HO2KCetXf7doyJr7oTydtPeOiuXy9XgJ3eg8WdrCaRKxuVimG_RPSvmk6pPOQfNk9__-fPbrYXc4XMRZEp07pT/s640/HurricanesSince1851.jpg)
+[![](assets/img/posts/20120826/HurricanesSince1851_1.jpg)](assets/img/posts/20120826/HurricanesSince1851.jpg)
 
   
 It's hurricane season in the Atlantic right now, so that means lots of news channels will be reporting on the latest storms to develop. Given that I grew up in Puerto Rico and lived a few years in Florida, I have had my share of storms and can attest to their intensity.  

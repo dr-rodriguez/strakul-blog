@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Chile: 3 Years after the 27F Earthquake"
 date: 2013-02-27
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdAos5Y_sH59mL1cq2fOZI5NtWsNxs8pyiSKQaoTyWHuhdvRPgvcX0nq32lDCU8g2NOdNg8EwWrMWgJT8Nmx9OH9iubfHbpg0sBdR10kA2oCwO1cXA_BS3wW9q87WSdbYpzWVCTe6W_OI/s400/fotito_105215.jpg
+img: posts/20130227/fotito_105215.jpg
 tags: [Misc, Life in Chile]
 category: Misc
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdAos5Y_sH59mL1cq2fOZI5NtWsNxs8pyiSKQaoTyWHuhdvRPgvcX0nq32lDCU8g2NOdNg8EwWrMWgJT8Nmx9OH9iubfHbpg0sBdR10kA2oCwO1cXA_BS3wW9q87WSdbYpzWVCTe6W_OI/s400/fotito_105215.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdAos5Y_sH59mL1cq2fOZI5NtWsNxs8pyiSKQaoTyWHuhdvRPgvcX0nq32lDCU8g2NOdNg8EwWrMWgJT8Nmx9OH9iubfHbpg0sBdR10kA2oCwO1cXA_BS3wW9q87WSdbYpzWVCTe6W_OI/s1600/fotito_105215.jpg)  
+[![](assets/img/posts/20130227/fotito_105215.jpg)](assets/img/posts/20130227/fotito_105215_1.jpg)  
 ---  
 Mayor earthquakes in Chile since February 27th 2010. (Credit: José Infestas & EMOL)  
   
@@ -27,7 +27,7 @@ Earthquakes are frequently accompanied by aftershocks, smaller earthquakes that 
 Over the past 3 years, seismic activity in the area has lessened, but it is still above average levels. Most earthquakes are weak, but a few are significant: 3 magnitude 7th earthquakes and 29 magnitude 6th.  
 Apparently the region is supposed to experience just under 200 earthquakes (of any magnitude) per year. In 2012, the region experienced five times as many earthquakes.  
 This neat infographic (in Spanish) highlights the 3 magnitude 7th earthquakes and summarizes the number in the region over the past 4 years:  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLxtLZI-65i6XcaHOWdJfvOUvDDBg5nbFnDFRW5evXckSln678qx4dQ6LrES-0FSVIS1QrnY3X51uLyqudXXaeONUsiJhyphenhyphen6QFPUvBhPPhMoO1Q95GyePTrN-kAz6ooBnsPCthpHjjuk3c/s400/mayores-replicas-27f.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLxtLZI-65i6XcaHOWdJfvOUvDDBg5nbFnDFRW5evXckSln678qx4dQ6LrES-0FSVIS1QrnY3X51uLyqudXXaeONUsiJhyphenhyphen6QFPUvBhPPhMoO1Q95GyePTrN-kAz6ooBnsPCthpHjjuk3c/s1600/mayores-replicas-27f.jpg)  
+[![](assets/img/posts/20130227/mayores-replicas-27f_1.jpg)](assets/img/posts/20130227/mayores-replicas-27f.jpg)  
 ---  
 Earthquake statistics in Chile's central region. The top panel lists the three magnitude 7th earthquakes since 27F. The borrom left shows the number of earthquakes of any magnitude in the region since 2009. The bottom right panel shows the earthquakes per month since the 27F event. (Credit: José Infestas & EMOL)  
   

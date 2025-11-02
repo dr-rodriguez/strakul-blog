@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: Essentials of Data Science Bootcamp"
 date: 2016-04-12
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBRX1ni-6DxjzOMQMfIvckZ-3eu-DOm3Nq1nSAbzfmRrSDpD7_nt5bLAaQhaXLR17Xrgb0zfY30WXsmXJGGcjxza6CiaZMSAuIVF9fm2mSCDBg8KQun7Ld4pw05zv37Dr6VkdS4J7B8CI/s400/wordcloud_R.png
+img: posts/20160412/wordcloud_R_1.png
 tags: [Data Science, Life in NYC, Text Mining]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBRX1ni-6DxjzOMQMfIvckZ-3eu-DOm3Nq1nSAbzfmRrSDpD7_nt5bLAaQhaXLR17Xrgb0zfY30WXsmXJGGcjxza6CiaZMSAuIVF9fm2mSCDBg8KQun7Ld4pw05zv37Dr6VkdS4J7B8CI/s400/wordcloud_R.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBRX1ni-6DxjzOMQMfIvckZ-3eu-DOm3Nq1nSAbzfmRrSDpD7_nt5bLAaQhaXLR17Xrgb0zfY30WXsmXJGGcjxza6CiaZMSAuIVF9fm2mSCDBg8KQun7Ld4pw05zv37Dr6VkdS4J7B8CI/s1600/wordcloud_R.png)
+[![](assets/img/posts/20160412/wordcloud_R_1.png)](assets/img/posts/20160412/wordcloud_R.png)
 
   
 About a month or so ago, I undertook a bootcamp called "[Essentials of Data Science](http://media.wix.com/ugd/3b731a_c09317e9b6b548d599c17607d14cf513.pdf)" and run by a handful of people with support from [NYCAscent](http://www.nycascent.org/). I've been meaning to write up a blog post about this, but only just now had the time. While I already had some knowledge of programming in R, I still learned a lot and feel far more confident about entering the data science job market now. Below, you'll find my general thoughts on the experience and a brief overview of what my project was about.  
@@ -32,7 +32,7 @@ For my project, I created an application with R's framework, [Shiny](http://shin
   
 My application, whose [source code is on Github](https://github.com/dr-rodriguez/Twitter-Analysis-Shiny-App), allows the user to gather Twitter English-language search data for any term they enter. I've since updated it to allow the user to query by user in addition to search terms. The most frequent 100 words are displayed as a word cloud for inspection purposes. The tabs on the top allow the user to navigate to the other options available in the application, which involve a bit of analysis.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6RmGoSLoB9CLtwbCxbDHffEughyd3HMkYuI-FJbFqap33mCIJrLf-9fTR1ODfxPZ_1udZ1hY8nFqIIhzUEADtScju1Hn-Uk0LQSV-xS9JxRPWUpvbFJ-Ly-qpteCWyJj8YafGtOCe0Ck/s400/Screen+Shot+2016-04-11+at+11.34.36+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6RmGoSLoB9CLtwbCxbDHffEughyd3HMkYuI-FJbFqap33mCIJrLf-9fTR1ODfxPZ_1udZ1hY8nFqIIhzUEADtScju1Hn-Uk0LQSV-xS9JxRPWUpvbFJ-Ly-qpteCWyJj8YafGtOCe0Ck/s1600/Screen+Shot+2016-04-11+at+11.34.36+AM.png)  
+[![](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.34.36+AM.png)](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.34.36+AM_1.png)  
 ---  
 Word cloud of Twitter search data (Data Science, 2000 tweets gathered on April 11, 2016).   
 Stemming is used to group words together.  
@@ -41,7 +41,7 @@ There are two main things the application does. First, it does a sentiment analy
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwMKs1LIV_7q13e4K8jhiP6_JdNFow676_oFap4RrEZP1a81MoKduxFu-snD0IJ-fiAOwfFo2icyi0O0L1mLNyXDa6CdyE1_mgHx5nn-FRxPd7MvxGMhwsyQyDPTwv_pWhqUGP4WGV1E/s400/Screen+Shot+2016-04-11+at+11.34.45+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwMKs1LIV_7q13e4K8jhiP6_JdNFow676_oFap4RrEZP1a81MoKduxFu-snD0IJ-fiAOwfFo2icyi0O0L1mLNyXDa6CdyE1_mgHx5nn-FRxPd7MvxGMhwsyQyDPTwv_pWhqUGP4WGV1E/s1600/Screen+Shot+2016-04-11+at+11.34.45+AM.png)
+[![](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.34.45+AM_1.png)](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.34.45+AM.png)
 
   
 The second thing my application does is a Principal Component Analysis (PCA) on the word frequency of the 100 most common terms, eliminating the search terms. This is done since I wanted something numerical to plot and word frequencies for 140-character tweets are not that fun to look at. What the PCA does is construct new variables (aka, principal components) that are linear combinations of the word frequencies, with loading factors controlling how prevalent particular terms are for each new principal component. The factors are selected such that the variance is maximized in the subsequent principal components. In essence, and for this example, this is now exploring the prevalence of word combinations, or phrases, rather than individual terms. Tweets with high or low values of a particular principal component tend to be about the same topic.  
@@ -50,7 +50,7 @@ The subsequent tabs in my application allow you to explore the distribution of t
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfdLmssOG4oO2O5IABiMSSz-caRSvfAoHO5IW0E6RG_e24ZDFm1NN_POKNUM46L7KY6t_FiuAjWzMTJvwvJSzLkuJJyy5oG9mF8AseahYVbuCdKjHS-qg4hcIhyoc8yx6hDuBwezkBKWQ/s400/Screen+Shot+2016-04-11+at+11.33.35+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfdLmssOG4oO2O5IABiMSSz-caRSvfAoHO5IW0E6RG_e24ZDFm1NN_POKNUM46L7KY6t_FiuAjWzMTJvwvJSzLkuJJyy5oG9mF8AseahYVbuCdKjHS-qg4hcIhyoc8yx6hDuBwezkBKWQ/s1600/Screen+Shot+2016-04-11+at+11.33.35+AM.png)
+[![](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.33.35+AM.png)](assets/img/posts/20160412/Screen+Shot+2016-04-11+at+11.33.35+AM_1.png)
 
   
   
@@ -58,6 +58,6 @@ For my actual presentation, I went a few steps further. I gathered a bunch of tw
   
 I hope to improve the app a little bit to add some more descriptive text as to what it does. In the meantime, however, you can find a working version of it on [Shinyapps](https://dr-rodriguez.shinyapps.io/twitter_analysis/). This service hosts my application for a limited number of hours each month, so if you intend to use it heavily, I recommend grabbing the [source code](https://github.com/dr-rodriguez/Twitter-Analysis-Shiny-App) and running it on your machine and editing it to your needs.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4_Z25bvYOaRie03E5TtkP4lTb5e2VCCGN0JfOLa9ezcWWxfWWp05az6khpL_zcAFFZNo8Wj-G4mw1fW7RSRudQHJQGJWjxGnmdugOtdZJOVV7V4LNkrONPTNnFQ7rNuTbn70nd1fCps4/s400/rt_plot-1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4_Z25bvYOaRie03E5TtkP4lTb5e2VCCGN0JfOLa9ezcWWxfWWp05az6khpL_zcAFFZNo8Wj-G4mw1fW7RSRudQHJQGJWjxGnmdugOtdZJOVV7V4LNkrONPTNnFQ7rNuTbn70nd1fCps4/s1600/rt_plot-1.png)  
+[![](assets/img/posts/20160412/rt_plot-1_1.png)](assets/img/posts/20160412/rt_plot-1.png)  
 ---  
 Regression Tree analysis on Twitter search data (Microsoft). 

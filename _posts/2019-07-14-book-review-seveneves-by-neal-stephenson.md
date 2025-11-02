@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Seveneves by Neal Stephenson"
 date: 2019-07-14
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087.jpg
+img: posts/20190714/22816087.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087.jpg)
+[![](assets/img/posts/20190714/22816087.jpg)](assets/img/posts/20190714/22816087.jpg)
 
 I can't remember when or why I picked up **Seveneves** by Neal Stephenson. It was published back in 2015 and I've read and enjoyed some of his other works, but by the time I started reading this I had forgotten the details on what **Seveneves** was about. Nevertheless, it ended up being an incredible book with so many interesting details. I went back and looked at the blurb and realized how much is promised in it:
 

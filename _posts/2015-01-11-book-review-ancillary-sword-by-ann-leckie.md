@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Ancillary Sword by Ann Leckie"
 date: 2015-01-11
-img: https://d.gr-assets.com/books/1393746419l/20944489.jpg
+img: posts/20150111/20944489.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1393746419l/20944489.jpg)](https://d.gr-assets.com/books/1393746419l/20944489.jpg)
+[![](assets/img/posts/20150111/20944489.jpg)](assets/img/posts/20150111/20944489.jpg)
 
 **Ancillary Sword** is the sequel to [Ancillary Justice](http://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) by Ann Leckie. The prior book received quite a lot of praise last year and so the sequel has been highly anticipated. I'm glad to say the sequel is also pretty good, though I think I enjoyed the first one better.  
   

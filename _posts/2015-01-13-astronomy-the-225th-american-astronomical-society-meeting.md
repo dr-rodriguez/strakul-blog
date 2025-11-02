@@ -4,19 +4,19 @@ read_time: true
 show_date: true
 title: "Astronomy: The 225th American Astronomical Society Meeting"
 date: 2015-01-13
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKJkQgXgOni_lP80qan0MGH9gNREmEvc8f0dwW-D9dF0ZmWY01QN82mNNoxb0cFiDI1YBBV6NPyWEMMO7XYvMlBenTE_CvO3himaB2MrXLvUoKIi2RiFg6a-e_tw_GA6qNuYarL3jKtRs/s1600/Screen+Shot+2015-01-13+at+4.48.55+PM.png
+img: posts/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png
 tags: [Travel, Astronomy]
 category: Travel
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKJkQgXgOni_lP80qan0MGH9gNREmEvc8f0dwW-D9dF0ZmWY01QN82mNNoxb0cFiDI1YBBV6NPyWEMMO7XYvMlBenTE_CvO3himaB2MrXLvUoKIi2RiFg6a-e_tw_GA6qNuYarL3jKtRs/s1600/Screen+Shot+2015-01-13+at+4.48.55+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKJkQgXgOni_lP80qan0MGH9gNREmEvc8f0dwW-D9dF0ZmWY01QN82mNNoxb0cFiDI1YBBV6NPyWEMMO7XYvMlBenTE_CvO3himaB2MrXLvUoKIi2RiFg6a-e_tw_GA6qNuYarL3jKtRs/s1600/Screen+Shot+2015-01-13+at+4.48.55+PM.png)
+[![](assets/img/posts/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png)](assets/img/posts/20150113/Screen+Shot+2015-01-13+at+4.48.55+PM.png)
 
   
 I've made it a habit to go to the winter meeting of the american astronomical society and this year was no exception. This time it was held in Seattle, Washington which marks the first time I repeat the "cycle": the winter meeting cycles between four locations (though it looks like next year will break this). In this blog, I briefly summarize my experience at the meeting.  
   
-[![](https://pbs.twimg.com/media/B6nxSMsCAAEjclS.jpg)](https://pbs.twimg.com/media/B6nxSMsCAAEjclS.jpg)  
+[![](assets/img/posts/20150113/B6nxSMsCAAEjclS.jpg)](assets/img/posts/20150113/B6nxSMsCAAEjclS.jpg)  
 ---  
 Hubble Space Telescope view of the   
 Pillars of Creation, [more details here](http://www.nasa.gov/content/goddard/hubble-goes-high-definition-to-revisit-iconic-pillars-of-creation/#.VLV37orF88Y).  
@@ -24,7 +24,7 @@ First and foremost, AAS meetings are, I believe, more geared towards networking 
   
 As for most big astronomy meetings these days, twitter is huge and an integral part of the meeting. I personally didn't tweet too much, but I paid attention to the near constant barrage of information being presented. This included snippets from talks, announcements of interesting sessions and posters, humble-brags on flights or adventures (guilty, haha!), press releases, and general reporting of what was going on. Given the sheer volume of talks, posters, and sessions it is impossible for a single person to do everything. While twitter doesn't solve this, it gives you a sense of the activity going on. Add to that the excellent new Guidebook App and you'll have all the information you need to go where you want/need to go.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6v7PIB39O3nsz8RMY6RDgQT63kcb9_MjhRUw7tDW3L95aYkpliwfdzBTmw2WV9nRCLhlhY6KFj_cJSW8HC6Qq-o-yb0oKo5dt80kw0LivoxusXlzuC7rpatJ7lua0YP_MM7vnH_PK4hQ/s1600/Screen+Shot+2015-01-13+at+4.50.25+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6v7PIB39O3nsz8RMY6RDgQT63kcb9_MjhRUw7tDW3L95aYkpliwfdzBTmw2WV9nRCLhlhY6KFj_cJSW8HC6Qq-o-yb0oKo5dt80kw0LivoxusXlzuC7rpatJ7lua0YP_MM7vnH_PK4hQ/s1600/Screen+Shot+2015-01-13+at+4.50.25+PM.png)  
+[![](assets/img/posts/20150113/Screen+Shot+2015-01-13+at+4.50.25+PM.png)](assets/img/posts/20150113/Screen+Shot+2015-01-13+at+4.50.25+PM.png)  
 ---  
 See all the twitter statistics and details [here](http://hea-www.harvard.edu/~dburke/aas225/word-count.html).  
 Unfortunately, by the time I got back home to Chile I was too late for a Storify to gather all the conference tweets. Lesson learned: If you’re going to do a Storify summary, grab the tweets on a daily basis. Nevertheless, as in prior years, Douglas Burke has run [statistics on the #aas225 hashtag](http://hea-www.harvard.edu/~dburke/aas225/overview.html) while at the meeting. This is a great way to see the volume of tweets and to see who are the popular people and what are the hot topics being discussed.  
@@ -33,7 +33,7 @@ Since I've been to Seattle before, I didn't spend too much time exploring. I did
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3juA8i09cz4ynO0H1ELrQD2idgfBTdg7elpQPAgfqlcYU27Q9mTNHRlhH5hKdXxT31RBRFwZ3p3RBKhROu6dI-znIVkC-tTzlcKyXFt1qfmif-cxdtHPyPMvjTutRPnGFg8ZGd3MmSY/s1600/IMG_4754.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig3juA8i09cz4ynO0H1ELrQD2idgfBTdg7elpQPAgfqlcYU27Q9mTNHRlhH5hKdXxT31RBRFwZ3p3RBKhROu6dI-znIVkC-tTzlcKyXFt1qfmif-cxdtHPyPMvjTutRPnGFg8ZGd3MmSY/s1600/IMG_4754.JPG)
+[![](assets/img/posts/20150113/IMG_4754.JPG)](assets/img/posts/20150113/IMG_4754.JPG)
 
   
 Overall it was a good meeting and I had a great time catching up with people. I honestly have no idea where I'll be for the next winter meeting as my current fellowship ends before then. However, the next AAS meeting is in Kissimmee, Florida and close to where my brother lives. It may be likely that I'll attend regardless of my job situation and may even have discounted lodging at good ol' Brother's Home ;)  
@@ -42,4 +42,4 @@ In the meantime, I'm excited for the IAU Symposium 314 on [Young Stars and Plane
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfyZr8NlB7kSgVkPkIslT3OJl-mpiwsvVUKZN8wcWhR88RUFZTeuMl3aUb4JOmvkxxKCcR_SuokOERZmr_FsVVgsuMHt20FNXm1PflveDb1QcFnfRuXDP-KdK2k90a23K1avgfm1hiObk/s1600/Screen+Shot+2015-01-09+at+6.38.19+PM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfyZr8NlB7kSgVkPkIslT3OJl-mpiwsvVUKZN8wcWhR88RUFZTeuMl3aUb4JOmvkxxKCcR_SuokOERZmr_FsVVgsuMHt20FNXm1PflveDb1QcFnfRuXDP-KdK2k90a23K1avgfm1hiObk/s1600/Screen+Shot+2015-01-09+at+6.38.19+PM.png) 
+[![](assets/img/posts/20150113/Screen+Shot+2015-01-09+at+6.38.19+PM.png)](assets/img/posts/20150113/Screen+Shot+2015-01-09+at+6.38.19+PM.png) 

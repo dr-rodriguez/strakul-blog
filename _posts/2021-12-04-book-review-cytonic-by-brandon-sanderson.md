@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Cytonic by Brandon Sanderson"
 date: 2021-12-04
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622046130l/58167188._SY475_.jpg
+img: posts/20211204/58167188._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622046130l/58167188._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622046130l/58167188._SY475_.jpg)**Cytonic** is the third book in the **Skyward** series by Brandon Sanderson, following [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html) and [Starsight](https://strakul.blogspot.com/2020/01/book-review-starsight-by-brandon.html). For some reason I thought this was a trilogy but it is at least 4 books long. There's also a handful of collaborative novellas in this universe as well, though I have yet to read those. Regardless, this is a very interesting sci-fi series from an author better known for fantasy.
+[![](assets/img/posts/20211204/58167188._SY475_.jpg)](assets/img/posts/20211204/58167188._SY475_.jpg)**Cytonic** is the third book in the **Skyward** series by Brandon Sanderson, following [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html) and [Starsight](https://strakul.blogspot.com/2020/01/book-review-starsight-by-brandon.html). For some reason I thought this was a trilogy but it is at least 4 books long. There's also a handful of collaborative novellas in this universe as well, though I have yet to read those. Regardless, this is a very interesting sci-fi series from an author better known for fantasy.
 
 As part of a series, the prior books are fair-game when it comes to spoilers, but I'll avoid major ones here.
 

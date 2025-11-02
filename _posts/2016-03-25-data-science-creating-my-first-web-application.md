@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Data Science: Creating my First Web Application"
 date: 2016-03-25
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUxNw5Zw4IF9j20IMsEtcBgUJVBLcdh40X-UbTJcRl1hflijvyGeaViYRVphc7FThwwXMlUt7VDAqftDSjkA9Vq46kj_OppAicGf9_rwaWY6MQNWFguJQtxBQKaxicUfRG6hKti-sWLU/s400/DataTable.png
+img: posts/20160325/DataTable_1.png
 tags: [Data Science, Astronomy, Python]
 category: Data Science
 author: Strakul
@@ -23,7 +23,7 @@ The first step in deciding how to go about this was to figure out where to even 
   
 [Flask](http://flask.pocoo.org/) is a framework to create web applications with python. You set up your environment and working directory, having things like static and template directories to host your CSS and HTML files and run a python script that activates the server. You have decorators on your python functions that tell the server what to do when a user navigates to a particular version of the site. For example, if a user goes to <http://database.bdnyc.org/schema>, my code will run the function _bdnyc_schema()_ which will generate the page from the template HTML and static CSS files and the instructions in the function (in this case, a set of SQL commands). While flask has an [official tutorial](http://flask.pocoo.org/docs/0.10/tutorial/), I recommend starting with [this one](https://github.com/bev-a-tron/MyFlaskTutorial) as it's easier to follow.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUxNw5Zw4IF9j20IMsEtcBgUJVBLcdh40X-UbTJcRl1hflijvyGeaViYRVphc7FThwwXMlUt7VDAqftDSjkA9Vq46kj_OppAicGf9_rwaWY6MQNWFguJQtxBQKaxicUfRG6hKti-sWLU/s400/DataTable.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUxNw5Zw4IF9j20IMsEtcBgUJVBLcdh40X-UbTJcRl1hflijvyGeaViYRVphc7FThwwXMlUt7VDAqftDSjkA9Vq46kj_OppAicGf9_rwaWY6MQNWFguJQtxBQKaxicUfRG6hKti-sWLU/s1600/DataTable.png)  
+[![](assets/img/posts/20160325/DataTable_1.png)](assets/img/posts/20160325/DataTable.png)  
 ---  
 Output results from an SQL query, formatted as a DataTable  
   
@@ -35,7 +35,7 @@ However, base HTML tables are ugly. You can style them with CSS to make them loo
 **Bokeh**  
 Our database also contains some spectroscopy that's been gathered by the various telescopes and instruments. I decided it would be excellent to dynamically plot the spectrum right in your browser so you could inspect it. For this, I needed a way to generate plots right to HTML rather than have to save them to a file and load them up. Enter: [Bokeh](http://bokeh.pydata.org/en/latest/). I had heard about Bokeh before, but never had a chance to try it. It's a plotting package in Python (though I recently learned it's also for Julia, Scala, and R) that is designed for web-based plots and offers lots of interactivity. Exploring a bit into it quickly had me generating a spectrum that the user could pan, zoom, and resize at will. I'll certainly be trying out more Bokeh plots in the future!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKSoN7qShhJZYTUsTnIjvBlqDC7v32S3KsMFVbqoG4RNyigtK67aBBn1xs0qFpfZvIxFq-O3ZHyJeB5UZEpw1vGEcIKWAwckII1-vjhVS0NPkwXy_Uq2Ymcqg7_ilm2s6Nes55qz3kpmQ/s320/Bokeh.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKSoN7qShhJZYTUsTnIjvBlqDC7v32S3KsMFVbqoG4RNyigtK67aBBn1xs0qFpfZvIxFq-O3ZHyJeB5UZEpw1vGEcIKWAwckII1-vjhVS0NPkwXy_Uq2Ymcqg7_ilm2s6Nes55qz3kpmQ/s1600/Bokeh.png)  
+[![](assets/img/posts/20160325/Bokeh.png)](assets/img/posts/20160325/Bokeh_1.png)  
 ---  
 Bokeh figure of a spectrum for a particular source  
   

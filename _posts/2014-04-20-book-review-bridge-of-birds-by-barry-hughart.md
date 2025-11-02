@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Bridge of Birds by Barry Hughart"
 date: 2014-04-20
-img: https://d202m5krfqbpi5.cloudfront.net/books/1327940289l/15177.jpg
+img: posts/20140420/15177.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1327940289l/15177.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1327940289l/15177.jpg)
+[![](assets/img/posts/20140420/15177.jpg)](assets/img/posts/20140420/15177.jpg)
 
 This is, as the subtitle rightly states, "A Novel of an Ancient China That Never Was." It is part of a short series of books relating the adventures of Master Li and Number Ten Ox and are collected in a single volume on the Kindle store. It reminded me at parts of Sherlock Holmes and Alice in Wonderland as the characters travel to exotic and magical places meeting extraordinary characters all in order to solve the mysteries of ancient China.  
 

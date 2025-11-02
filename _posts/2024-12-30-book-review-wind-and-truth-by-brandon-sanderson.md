@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Wind and Truth by Brandon Sanderson"
 date: 2024-12-30
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724945062i/203608754.jpg
+img: posts/20241230/203608754.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724945062i/203608754.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1724945062i/203608754.jpg)**Wind and Truth** is the 5th novel in **The Stormlight Archive** by Brandon Sanderon. This series is a 10-book series, but told in two 5-book arcs. This makes it the novel the conclusion of the first arc of the story. Here's the Goodreads blurb:
+[![](assets/img/posts/20241230/203608754.jpg)](assets/img/posts/20241230/203608754.jpg)**Wind and Truth** is the 5th novel in **The Stormlight Archive** by Brandon Sanderon. This series is a 10-book series, but told in two 5-book arcs. This makes it the novel the conclusion of the first arc of the story. Here's the Goodreads blurb:
 
 _Dalinar Kholin has challenged the evil god Odium to a contest of champions, and the Knights Radiant and the nations of Roshar have a mere 10 days to prepare for the worst. The fate of the entire world—and the Cosmere at large—hangs in the balance._  
   

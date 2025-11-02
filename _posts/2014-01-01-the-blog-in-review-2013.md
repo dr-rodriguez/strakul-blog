@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "The Blog in Review: 2013"
 date: 2014-01-01
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNwmOlQGYtpjM4vEndM34Zb7mh86EDOZKLl58nJisa9CgyFdWpvX0PpveEniY6OlLRmwem9Snqc1LoH3h6OP7wpC_SfCc58FlkxGYFCL4Hd8eMNZRiqcVv9pj6p3AoSQDooaOxiTGfOg/s400/Screen+Shot+2014-01-01+at+9.42.53+AM.png
+img: posts/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png
 tags: [Misc, Writting]
 category: Misc
 author: Strakul
@@ -21,13 +21,13 @@ Blog-wise, I've slowed down considerably in terms of major posts. With the incre
 According to the the Blogger stats, I see 42,800 pageviews since the blog started. Last year, this was 19,284 so that amounts to a 2013 pageview count of 23,516.  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNwmOlQGYtpjM4vEndM34Zb7mh86EDOZKLl58nJisa9CgyFdWpvX0PpveEniY6OlLRmwem9Snqc1LoH3h6OP7wpC_SfCc58FlkxGYFCL4Hd8eMNZRiqcVv9pj6p3AoSQDooaOxiTGfOg/s400/Screen+Shot+2014-01-01+at+9.42.53+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRNwmOlQGYtpjM4vEndM34Zb7mh86EDOZKLl58nJisa9CgyFdWpvX0PpveEniY6OlLRmwem9Snqc1LoH3h6OP7wpC_SfCc58FlkxGYFCL4Hd8eMNZRiqcVv9pj6p3AoSQDooaOxiTGfOg/s1600/Screen+Shot+2014-01-01+at+9.42.53+AM.png)
+[![](assets/img/posts/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM.png)](assets/img/posts/20140101/Screen+Shot+2014-01-01+at+9.42.53+AM_1.png)
 
   
 One should bear in mind that these are pageviews and not visits or unique visitors. Google Analytics has somewhat more accurate statistics and they differ substantially from the Blogger stats. According to Analytics (see figure below), I've had 9,019 pageviews in 2013 and 6,824 visits with most of them being unique.  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7fgZURRLicO5lkHO_qlBr6QwBiekiWsqDn1rZB5t4NtWLcURYp9XjD1N420R3LrRb_b2psEXzDSUmh2ZVhFZo-TZuoJ1dCG0NILk_ZhH8aN2or82n5P7iPC4GAubZBd_7rXbq-ppG0U/s400/Screen+Shot+2014-01-01+at+10.19.19+AM.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7fgZURRLicO5lkHO_qlBr6QwBiekiWsqDn1rZB5t4NtWLcURYp9XjD1N420R3LrRb_b2psEXzDSUmh2ZVhFZo-TZuoJ1dCG0NILk_ZhH8aN2or82n5P7iPC4GAubZBd_7rXbq-ppG0U/s1600/Screen+Shot+2014-01-01+at+10.19.19+AM.png)
+[![](assets/img/posts/20140101/Screen+Shot+2014-01-01+at+10.19.19+AM.png)](assets/img/posts/20140101/Screen+Shot+2014-01-01+at+10.19.19+AM_1.png)
 
   
 The Blogger figure shows the most popular posts of all time and you can see that they are from 2012. Those still receive quite a bit of visitors. Three of them are book reviews (two for the Malazan series) and the other two are Astronomy-related. The most popular astronomy post is still the overview on how to [measure the distance to the Sun](http://strakul.blogspot.com/2012/05/measuring-distance-to-sun-with-transit.html) with the [transit of Venus](http://strakul.blogspot.com/search/label/Transit%20of%20Venus).  

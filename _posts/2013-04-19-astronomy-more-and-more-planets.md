@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: More and More Planets"
 date: 2013-04-19
-img: http://graphics8.nytimes.com/images/2013/04/19/science/space/19planets-span/19planets-span-articleLarge.jpg
+img: posts/20130419/19planets-span-articleLarge.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
 ---
 
-[![](http://graphics8.nytimes.com/images/2013/04/19/science/space/19planets-span/19planets-span-articleLarge.jpg)](http://graphics8.nytimes.com/images/2013/04/19/science/space/19planets-span/19planets-span-articleLarge.jpg)  
+[![](assets/img/posts/20130419/19planets-span-articleLarge.jpg)](assets/img/posts/20130419/19planets-span-articleLarge.jpg)  
 ---  
 Artist depiction of Kepler 62f  
   

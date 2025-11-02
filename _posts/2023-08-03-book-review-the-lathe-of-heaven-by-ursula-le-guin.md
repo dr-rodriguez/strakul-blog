@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Lathe of Heaven by Ursula Le Guin"
 date: 2023-08-03
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1281368352i/3770459.jpg
+img: posts/20230803/3770459.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1281368352i/3770459.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1281368352i/3770459.jpg)
+[![](assets/img/posts/20230803/3770459.jpg)](assets/img/posts/20230803/3770459.jpg)
 
 When one of my friends left town, she left me a lot of varied books. This was one of them and I finally picked it up to read while waiting for Baldur's Gate 3 to release. It's an older title, from 1971, and has that classic sci-fi feel to it. Here's the Goodreads blurb for it:
 

@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: System Collapse by Martha Wells"
 date: 2023-12-07
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674587835i/75319056.jpg
+img: posts/20231207/75319056.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674587835i/75319056.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674587835i/75319056.jpg)**
+**[![](assets/img/posts/20231207/75319056.jpg)](assets/img/posts/20231207/75319056.jpg)**
 
 **System Collapse** is the next novel installment in the Murderbot Diaries by Martha Walls coming immediately after [Network Effect](https://strakul.blogspot.com/2022/05/book-review-network-effect-by-martha.html). Note that Fugitive Telemetry, which was released after Network Effect is more of a flashback novella rather than continuing the story chronologically. Here is the Goodreads blurb:
 

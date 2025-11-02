@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: An Update on my Goodreads Reviews as of 2020"
 date: 2020-12-29
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvbBYeqBhMYfwpM9zXkreVn42iocfBC3awEBj6B1a5b8OswnuImwnGlePytfTpPAlQneMN6ogOFlS_gCzzaJbHgIrvqccz4nbFKi7v6lNTaXx2_KjUBmHSVSout0nwTH58C39jp5Eyc/s320/wordcloud.png
+img: posts/20201229/wordcloud.png
 tags: [Data Science, Programming, Text Mining, Books]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvbBYeqBhMYfwpM9zXkreVn42iocfBC3awEBj6B1a5b8OswnuImwnGlePytfTpPAlQneMN6ogOFlS_gCzzaJbHgIrvqccz4nbFKi7v6lNTaXx2_KjUBmHSVSout0nwTH58C39jp5Eyc/s320/wordcloud.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCAvbBYeqBhMYfwpM9zXkreVn42iocfBC3awEBj6B1a5b8OswnuImwnGlePytfTpPAlQneMN6ogOFlS_gCzzaJbHgIrvqccz4nbFKi7v6lNTaXx2_KjUBmHSVSout0nwTH58C39jp5Eyc/s1000/wordcloud.png)
+[![](assets/img/posts/20201229/wordcloud.png)](assets/img/posts/20201229/wordcloud_1.png)
 
 A few years ago, in 2016, I wrote a brief post on statistics when looking at my [Goodreads reviews](https://strakul.blogspot.com/2016/09/data-science-my-goodreads-reviews_13.html). A friend's comment recently reminded me of this work and I decided to update it with information all the way up to the present day. Unfortunately, a big limitation has been that, as of earlier this month, Goodreads discontinued their API. I had a lot of code written to access it and generate the plots and had to spend some time rewriting it to use a CSV export of my library. It's not the same, but I was able to reconstruct most of the information. So without further ado, let's look at what we can discover.
 
@@ -38,7 +38,7 @@ One of the basic stats, though, is the number of books I've read (and/or added) 
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkUQnnS6VE0mHwe4O9GQwgHoQmyL-m5jfDOV0tHF0RGYRv8VH5XiOUEDHQtMBoJ413xcNdmd0dY0DQ5idAYJ84Vf00DzSQBdGd4p764TuVgf2t_Z3WH_55g34Gfwr1LjI0d6yD1s3v5c/w400-h300/book_counts.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkUQnnS6VE0mHwe4O9GQwgHoQmyL-m5jfDOV0tHF0RGYRv8VH5XiOUEDHQtMBoJ413xcNdmd0dY0DQ5idAYJ84Vf00DzSQBdGd4p764TuVgf2t_Z3WH_55g34Gfwr1LjI0d6yD1s3v5c/s640/book_counts.png)
+[![](assets/img/posts/20201229/book_counts.png)](assets/img/posts/20201229/book_counts_1.png)
 
   
 
@@ -54,7 +54,7 @@ An important consideration is also how long are the books I read. I'm a fan of e
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0FHLgCLPyi4d-2wRsBg_wrWfFhxf9f4qjHnZl_bhZ3P7xQRoXnOwEhVlppPm9ueiNPSvK0-tH_4HCN7F8sCxUnRkVK-BpdlJl1uPnOMn1mcravYI2AccqfEHqE7Kf_TXwb-_3lyiruyk/w400-h300/page_histogram.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0FHLgCLPyi4d-2wRsBg_wrWfFhxf9f4qjHnZl_bhZ3P7xQRoXnOwEhVlppPm9ueiNPSvK0-tH_4HCN7F8sCxUnRkVK-BpdlJl1uPnOMn1mcravYI2AccqfEHqE7Kf_TXwb-_3lyiruyk/s640/page_histogram.png)
+[![](assets/img/posts/20201229/page_histogram_1.png)](assets/img/posts/20201229/page_histogram.png)
 
   
 
@@ -64,7 +64,7 @@ Another interesting aspect of this is when do I read. Do I read newly released n
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2UI0rQl569F787sh-tuYp17JumTxBhYH6Fe4Ew2t9NQBhdE4xZ-tbrDELJVLcsLmFp03Br1uNWsMbtZ43vQoqOzXQypKQxKt8ncvNuYep75uVhC8OAXCyU57tmJn8qz5NIs4YXqOimaw/w400-h400/years.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2UI0rQl569F787sh-tuYp17JumTxBhYH6Fe4Ew2t9NQBhdE4xZ-tbrDELJVLcsLmFp03Br1uNWsMbtZ43vQoqOzXQypKQxKt8ncvNuYep75uVhC8OAXCyU57tmJn8qz5NIs4YXqOimaw/s809/years.png)
+[![](assets/img/posts/20201229/years_1.png)](assets/img/posts/20201229/years.png)
 
   
 
@@ -76,7 +76,7 @@ One thing I do in Goodreads is to rate and review the books I read. Now, I do fa
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHvtcsm6JfbKOwpw79ufU1P2L_dy5TPwKrbuC20_DSD_clTIQ8AHCrPawNoQnvEDcsL3FqXHBEFAk99USV26EKO7pJ7bLB-RXBsXwzhFQNZbozEcL9Z73I78p9eM9XBlXeoMUdBe_UIyE/w400-h400/rating_comparison.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHvtcsm6JfbKOwpw79ufU1P2L_dy5TPwKrbuC20_DSD_clTIQ8AHCrPawNoQnvEDcsL3FqXHBEFAk99USV26EKO7pJ7bLB-RXBsXwzhFQNZbozEcL9Z73I78p9eM9XBlXeoMUdBe_UIyE/s809/rating_comparison.png)
+[![](assets/img/posts/20201229/rating_comparison.png)](assets/img/posts/20201229/rating_comparison_1.png)
 
   
 
@@ -91,7 +91,7 @@ I was also curious as to what I write in my reviews, so I did a quick analysis o
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0myeg-F3y-23_WgjYhI_tdHtPE_EZWvoNa8DGjc-jafev-teiK13XdqOP1Vvg7Hu_HNxhZSvehmzM01FB-jym3tdgDGoueBTq-sq6yDgddmi2H_VbubZK8xC6eeuFAMwIUi6DlBYuno/w400-h300/words_frequency.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0myeg-F3y-23_WgjYhI_tdHtPE_EZWvoNa8DGjc-jafev-teiK13XdqOP1Vvg7Hu_HNxhZSvehmzM01FB-jym3tdgDGoueBTq-sq6yDgddmi2H_VbubZK8xC6eeuFAMwIUi6DlBYuno/s640/words_frequency.png)
+[![](assets/img/posts/20201229/words_frequency.png)](assets/img/posts/20201229/words_frequency_1.png)
 
   
 
@@ -103,7 +103,7 @@ And who are the authors that I tend to read and review? That is also an easy plo
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9riMkKDS4xMMMmn0AA4jk7BwI672rahcJVuHMs2wUy191Z5ode7T2R-C5rP4TSRjb85W50SKucUeoZUqwL_Z8QVm4BVN3-DJhBH20VdDaQXyqcF0iCIvMGPYyiBm0ZEQdaqkl6PkI0U/w400-h300/author_frequency.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit9riMkKDS4xMMMmn0AA4jk7BwI672rahcJVuHMs2wUy191Z5ode7T2R-C5rP4TSRjb85W50SKucUeoZUqwL_Z8QVm4BVN3-DJhBH20VdDaQXyqcF0iCIvMGPYyiBm0ZEQdaqkl6PkI0U/s640/author_frequency.png)
+[![](assets/img/posts/20201229/author_frequency.png)](assets/img/posts/20201229/author_frequency_1.png)
 
   
 
@@ -118,7 +118,7 @@ One thing I decided to explore this time was to examine how I rate some of my mo
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-V0ndLAAZtvFP-uD1JIkZhSk6cqHi4OTe4w4rWOTEBu-wMCaUWD3C6UvrrKi5TiP6rvlyJw6N9Sqw2g7mnCJTB9or8SEWv7q3pVpWxKDE7O7aTN8nwKq2kcQZrdFZBIy1byvv3zq1Pgw/w400-h300/rating_author.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-V0ndLAAZtvFP-uD1JIkZhSk6cqHi4OTe4w4rWOTEBu-wMCaUWD3C6UvrrKi5TiP6rvlyJw6N9Sqw2g7mnCJTB9or8SEWv7q3pVpWxKDE7O7aTN8nwKq2kcQZrdFZBIy1byvv3zq1Pgw/s640/rating_author.png)
+[![](assets/img/posts/20201229/rating_author.png)](assets/img/posts/20201229/rating_author_1.png)
 
   
 

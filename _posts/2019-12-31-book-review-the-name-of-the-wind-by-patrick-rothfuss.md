@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Name of the Wind by Patrick Rothfuss"
 date: 2019-12-31
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437771789l/2495567.jpg
+img: posts/20191231/2495567.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437771789l/2495567.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437771789l/2495567.jpg)
+[![](assets/img/posts/20191231/2495567.jpg)](assets/img/posts/20191231/2495567.jpg)
 
 I've read **The Name of the Wind** several times already and enjoy it immensely. However, at work several of my colleagues have been reading it or chatting about it, so I figured I'd remind myself of the story and, since I never wrote a review here since my reading predated my blog, this is also a good opportunity to write up my thoughts on it.  
 

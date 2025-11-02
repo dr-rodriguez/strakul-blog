@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Magician's Land by Lev Grossman"
 date: 2018-11-06
-img: https://images.gr-assets.com/books/1455089828l/19103097.jpg
+img: posts/20181106/19103097.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1455089828l/19103097.jpg)](https://images.gr-assets.com/books/1455089828l/19103097.jpg)
+[![](assets/img/posts/20181106/19103097.jpg)](assets/img/posts/20181106/19103097.jpg)
 
 This is the third and final book of **The Magicians** series by Lev Grossman. It has been many years since I read the first two so I didn't remember all the details, just the general gist of things. Still, picking this up after so long was easy enough to do and I don't think I lost much by not remember some of the events of the prior books. I had also recently watched the first season on TV, which I think spans beyond just the first book and helped me remember some of the finer points I had forgotten about.  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Sunlit Man by Brandon Sanderson"
 date: 2023-10-22
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHY5-fgXBXQNV_NjOEyrIrIZRD7fbaWbOGFjacJoqFCZ2l3U_OMK5b-Zz6ml9Lu7Tv60w665Hj1gJ4D5hBE7t9PVv2vtt_6bYLIFtH7lCBuhYd4UV7oJrsw8nfj8hi6s8_RfaC1aJaK1nFJr7W2CK_RTuaSgqkNne76dl4xINSAEnRIQZmaU3qBPed1gs/w180-h320/SP4_wallpaper_vertical_recolored.jpg
+img: posts/20231022/SP4_wallpaper_vertical_recolored_1.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHY5-fgXBXQNV_NjOEyrIrIZRD7fbaWbOGFjacJoqFCZ2l3U_OMK5b-Zz6ml9Lu7Tv60w665Hj1gJ4D5hBE7t9PVv2vtt_6bYLIFtH7lCBuhYd4UV7oJrsw8nfj8hi6s8_RfaC1aJaK1nFJr7W2CK_RTuaSgqkNne76dl4xINSAEnRIQZmaU3qBPed1gs/w180-h320/SP4_wallpaper_vertical_recolored.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHY5-fgXBXQNV_NjOEyrIrIZRD7fbaWbOGFjacJoqFCZ2l3U_OMK5b-Zz6ml9Lu7Tv60w665Hj1gJ4D5hBE7t9PVv2vtt_6bYLIFtH7lCBuhYd4UV7oJrsw8nfj8hi6s8_RfaC1aJaK1nFJr7W2CK_RTuaSgqkNne76dl4xINSAEnRIQZmaU3qBPed1gs/s1920/SP4_wallpaper_vertical_recolored.jpg)
+[![](assets/img/posts/20231022/SP4_wallpaper_vertical_recolored_1.jpg)](assets/img/posts/20231022/SP4_wallpaper_vertical_recolored.jpg)
 
 **The Sunlit Man** by Brandon Sanderson is the 4th and final novel of the "Year of Sanderson", the crowd-funded project started towards the end of the COVID pandemic. This one in particular is a very interesting book dedicated to the fans of the Cosmere.
 
@@ -29,7 +29,7 @@ This book feels fast. Nomad, the main character, lands right in the middle of th
 
 #### Characters
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja7_HbmPmTAHNzLFqJALd8NS88CvqHNA2vMvs9uZjkAXPPmNpdyLzhsTvLagmM16D9T30noMDRrdlEOpYQSA8yGlxOUoYT7aZ0qgqZoQrDFPZ0wlStYJeUOGrnk1L2MktvY-WumIwMRPD9_fx4l3S7b0AZKxf5DdEuzAj3hTV-eH8ZWSO0Socx0SyMwN8/s320/elegy.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja7_HbmPmTAHNzLFqJALd8NS88CvqHNA2vMvs9uZjkAXPPmNpdyLzhsTvLagmM16D9T30noMDRrdlEOpYQSA8yGlxOUoYT7aZ0qgqZoQrDFPZ0wlStYJeUOGrnk1L2MktvY-WumIwMRPD9_fx4l3S7b0AZKxf5DdEuzAj3hTV-eH8ZWSO0Socx0SyMwN8/s1794/elegy.jpg)
+[![](assets/img/posts/20231022/elegy.jpg)](assets/img/posts/20231022/elegy_1.jpg)
 
 Nomad is the main character and nearly all of the story is set through his eyes. He is on the run, but drained of a lot of his abilities. He hails from Roshar and slowly through the book you realize who he is as he drops more and more hints of his past. It was very cool to see that connection and realize that like Hoid he is also travelling the worlds, though perhaps somewhat less willingly. He is characterized by always running, but through his interactions with a group of people, including some of the secondary ones like Rebeke and Elegy, he grows to care for the people of the crazy planet he finds himself in.
 

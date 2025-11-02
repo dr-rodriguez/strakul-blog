@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Marketing for Scientists Workshop"
 date: 2012-07-29
-img: http://marketingforscientists.com/wp-content/uploads/2011/08/KuchnerPBcover-r05_01FullCvr-200x300.jpg
+img: posts/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg
 tags: [Misc, Astronomy]
 category: Misc
 author: Strakul
 description: ""
 ---
 
-[![](http://marketingforscientists.com/wp-content/uploads/2011/08/KuchnerPBcover-r05_01FullCvr-200x300.jpg)](http://marketingforscientists.com/wp-content/uploads/2011/08/KuchnerPBcover-r05_01FullCvr-200x300.jpg)
+[![](assets/img/posts/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)](assets/img/posts/20120729/KuchnerPBcover-r05_01FullCvr-200x300.jpg)
 
 This past week, I attended a three-day workshop to learn about marketing skills scientists like me can use. This was led by Marc Kuchner, astronomer, songwriter, and author of **Marketing for Scientists: How to Shine in Tough Times** (check out the website [here](http://marketingforscientists.com/)). The workshop drew heavily on what's in the book and we were encouraged to have a look ait it too, given that it goes more into depth. Naturally, I can only say a few of the highlights here, but I purchased the Kindle version of the book and I am already seeing extra things there that are useful to know.  
   

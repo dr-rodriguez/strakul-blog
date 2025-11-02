@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Seven Blades in Black by Sam Sykes"
 date: 2019-10-20
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537666077l/40489155._SY475_.jpg
+img: posts/20191020/40489155._SY475_.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537666077l/40489155._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537666077l/40489155._SY475_.jpg)
+[![](assets/img/posts/20191020/40489155._SY475_.jpg)](assets/img/posts/20191020/40489155._SY475_.jpg)
 
 **Seven Blades in Black** is Sam Sykes latest book and apparently the first of a new series. Sykes is quickly becoming one of my favorite authors with his witty twitter and his gripping books that twist together epic fantasy with gritty horror. Here's the Goodreads blurb for **Seven Blades in Black** :  
   

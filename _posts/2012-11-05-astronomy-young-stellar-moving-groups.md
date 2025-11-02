@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: Young Stellar Moving Groups"
 date: 2012-11-05
-img: http://apod.nasa.gov/apod/image/0908/m25_cfht.jpg
+img: posts/20121105/m25_cfht.jpg
 tags: [Disks, Planets, Astronomy, Stars]
 category: Disks
 author: Strakul
 description: ""
 ---
 
-[![](http://apod.nasa.gov/apod/image/0908/m25_cfht.jpg)](http://apod.nasa.gov/apod/image/0908/m25_cfht.jpg)  
+[![](assets/img/posts/20121105/m25_cfht.jpg)](assets/img/posts/20121105/m25_cfht.jpg)  
 ---  
 Open cluster M25. Credit: J.-C. Cuillandre (CFHT), G. Anselmi (Coelum Astronomia), Hawaiian Starlight  
   
@@ -21,7 +21,7 @@ Stars are born in groups, as clusters of stars. Some groups stay well-knit and t
   
 Moving groups provide an interesting way to approach the problem of determining ages. Since all the stars have approximately the same age, you can apply the different methods throughout the stars and get a better idea for what's going on. If you have a star that is just too tricky to determine, you have the advantage that by being part of the group it has the same age as other stars that may be much easier to study. In addition, you can trace back the motions of these stars through the Galaxy to find out when they all were together. This gives you a trace-back age for the whole group and you can add it to your list of age determinations. For example, the beta Pictoris moving group has a trace-back age of about 12 million years: quite young!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHP6E5FgWgXuv3dDb0Z2LmPbvkX152gS3mR5GjcABYMWe1VizIsSIhCcTvPtuqjIDWezrLTE5y45-1xoxyvTs6ZsIcU2ahSLeTcMEnFF7TiOK9iHpOoqAfbBhpjVaudX_nbG32QYcybac/s320/betaPic.tiff)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHP6E5FgWgXuv3dDb0Z2LmPbvkX152gS3mR5GjcABYMWe1VizIsSIhCcTvPtuqjIDWezrLTE5y45-1xoxyvTs6ZsIcU2ahSLeTcMEnFF7TiOK9iHpOoqAfbBhpjVaudX_nbG32QYcybac/s1600/betaPic.tiff)  
+[![](assets/img/posts/20121105/betaPic.tiff)](assets/img/posts/20121105/betaPic_1.tiff)  
 ---  
 Tracing back the locations of beta Pictoris moving group members. Credit: I. Song et al. (2003)  
   
@@ -50,7 +50,7 @@ The colors represent velocities of the gas moving towards (blue) or away (red) f
   
 Disks like those around V4046 Sgr are actually rare for such old stars. You expect gas-rich disks to disperse in just a few million years, not last for so long. In fact, this is why gas giant planets are expected to form within 10 million years: because most disks are gone by then. And yet this is one of 4 or 5 such disks known around the nearby stars. Studies of these disks can help us understand how they tie together to the late stages of planet formation. Furthermore, the proximity of such systems means we can study them in great detail.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrzSNvv7pRQSjki0Xa56BWDguKfh7W1iBXBF_PrwUqYf3wtFSM_L4Ki-164CYv-sm9LHPCOpP3oZ1ixoO2vHW6Oa0j3W5VmpxwpFu3mthNZs_rMTAb1M5pH4aTDJkkDf8KCMoYE8q95Y/s400/movingroup.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFrzSNvv7pRQSjki0Xa56BWDguKfh7W1iBXBF_PrwUqYf3wtFSM_L4Ki-164CYv-sm9LHPCOpP3oZ1ixoO2vHW6Oa0j3W5VmpxwpFu3mthNZs_rMTAb1M5pH4aTDJkkDf8KCMoYE8q95Y/s1600/movingroup.png)  
+[![](assets/img/posts/20121105/movingroup_1.png)](assets/img/posts/20121105/movingroup.png)  
 ---  
 Members of 4 nearby moving groups (ages ~10-100 Myr) in Galactic coordinates. Members of these moving groups are spread over large areas of the sky.  
   

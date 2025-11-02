@@ -21,7 +21,7 @@ Just like the Moon will sometimes pass between the Earth and the Sun (causing a 
 Transits are rare since the orbit planes and planet positions do not always line up.  
   
 Venus transited the Sun back in June of 2004, here's what that looked like:  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IoV0aME9qvRITfxPz4SB5blPl4BXeiikJRvxBbgZ8xpuM8t3f8yfJUy_bTUBOm3ATngsFYur23uzsbQM3TbjMLJViP8CQ6taabRUpfqapJ4UL8hlTxdmWGKKQIeOyQ3HsOZZYQdsmXg/s320/transit2004.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IoV0aME9qvRITfxPz4SB5blPl4BXeiikJRvxBbgZ8xpuM8t3f8yfJUy_bTUBOm3ATngsFYur23uzsbQM3TbjMLJViP8CQ6taabRUpfqapJ4UL8hlTxdmWGKKQIeOyQ3HsOZZYQdsmXg/s1600/transit2004.jpg)  
+[![](assets/img/posts/20120428/transit2004.jpg)](assets/img/posts/20120428/transit2004_1.jpg)  
 ---  
 The June 2004 transit of Venus  
   
@@ -37,7 +37,7 @@ Where can I watch the transit of Venus?
 The transit will be visible from the majority of the planet, however the best place to look is in the middle of the Pacific ocean or in East Asia. People in North America can see the start of the event until the Sun sets, people in Europe and the Middle East can see the end of the event after sunrise.  
 Here in Chile, things don't look to promising but we have a plan (see below).  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJg9M87DKtfY_TW6X99rpE6n_Q5OTUEHHkoB5xrHqNDxXMrzqaMwCxknmlhdT_4SF_5lqyMNm5eCd4JCraMTf0nz9y22KQM_CwX2HOAsxn43aRSpzTH1ER7e3zugl5hXSdaoDptwzs-io/s400/ToV2012_WebMap_English.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJg9M87DKtfY_TW6X99rpE6n_Q5OTUEHHkoB5xrHqNDxXMrzqaMwCxknmlhdT_4SF_5lqyMNm5eCd4JCraMTf0nz9y22KQM_CwX2HOAsxn43aRSpzTH1ER7e3zugl5hXSdaoDptwzs-io/s1600/ToV2012_WebMap_English.png)  
+[![](assets/img/posts/20120428/ToV2012_WebMap_English.png)](assets/img/posts/20120428/ToV2012_WebMap_English_1.png)  
 ---  
 June 2012 transit visibility  
   
@@ -60,6 +60,6 @@ Our own team of Chilean astronomers will be hosting a viewing event and outreach
 Details for the Easter Island event can be found [here](http://das.uchile.cl/~drodrigu/easter/index.html) (Spanish) or [here](http://das.uchile.cl/~drodrigu/easter/index_en.html) (English).  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitBIZh5z9NLTmwsPTyS3brnTzTCFTT56UKkaEGoPoGJog5MTU-_KDKKhNGv0O6T3gEg5L0Z3JMdw7pLIf8Jl1rfXDw83HLQuiv8jLhGV61W5qD5j5oL5iDE-rvhiLIpJ7zSgQnFN7bhTs/s640/venustransitlogo_v3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitBIZh5z9NLTmwsPTyS3brnTzTCFTT56UKkaEGoPoGJog5MTU-_KDKKhNGv0O6T3gEg5L0Z3JMdw7pLIf8Jl1rfXDw83HLQuiv8jLhGV61W5qD5j5oL5iDE-rvhiLIpJ7zSgQnFN7bhTs/s1600/venustransitlogo_v3.png)
+[![](assets/img/posts/20120428/venustransitlogo_v3.png)](assets/img/posts/20120428/venustransitlogo_v3_1.png)
 
 Be sure to share this (and our Facebook [page](https://www.facebook.com/RapaNuiTransitoVenus)) with anyone you know that might be travelling to Easter Island! 

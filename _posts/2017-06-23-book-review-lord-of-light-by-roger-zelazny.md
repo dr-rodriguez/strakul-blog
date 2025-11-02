@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Lord of Light by Roger Zelazny"
 date: 2017-06-23
-img: https://images.gr-assets.com/books/1330127327l/13821.jpg
+img: posts/20170623/13821.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1330127327l/13821.jpg)](https://images.gr-assets.com/books/1330127327l/13821.jpg)
+[![](assets/img/posts/20170623/13821.jpg)](assets/img/posts/20170623/13821.jpg)
 
 I'd been meaning to read the 1968 Hugo-award-winning novel **Lord of Light** by Roger Zelazny for several years now. However, since it wasn't available on the Kindle store and I lived abroad, I relied instead on checking bookstores whenever I traveled. Unfortunately, as an old book, it was never to be found. Now that I'm a bit more settled down, I just took the plunge and ordered it online. The blurb alone should be enough to interest avid readers:  
   

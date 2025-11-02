@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Hyperion by Dan Simmons"
 date: 2016-08-07
-img: https://d.gr-assets.com/books/1415161242l/10240738.jpg
+img: posts/20160807/10240738.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1415161242l/10240738.jpg)](https://d.gr-assets.com/books/1415161242l/10240738.jpg)
+[![](assets/img/posts/20160807/10240738.jpg)](assets/img/posts/20160807/10240738.jpg)
 
 **Hyperion** by Dan Simmons is a Hugo Award-winning novel that has been on my radar for quite some time. It was described to me as Geoffery Chaucer's**Cantenbury Tales** in Space and it certainly has similar elements to it. The story revolves around a band of 7 pilgrims as they travel on the world of Hyperion in the brink of war. Each has their own personal motives and one of them is a traitor, but all were selected for this special pilgrimage. They resort to telling their stories to each other to figure out why they are here and what makes them, and Hyperion, special.  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Sun of Suns by Karl Schroeder"
 date: 2014-09-05
-img: https://d.gr-assets.com/books/1386921350l/77887.jpg
+img: posts/20140905/77887.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1386921350l/77887.jpg)](https://d.gr-assets.com/books/1386921350l/77887.jpg)
+[![](assets/img/posts/20140905/77887.jpg)](assets/img/posts/20140905/77887.jpg)
 
 I picked up this book a long time ago, when Amazon was having a sale. The blurb sounded interesting, so I got it without really checking what the book was about, a truly spontaneous purchase. Because of that, however, I left it in my Kindle for a long time instead of reading it. Here's the blurb:  
   

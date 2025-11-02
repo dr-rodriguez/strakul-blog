@@ -65,7 +65,7 @@ The whole premise of the story is that an expedition finds the ruins, and reanim
   
 
 
-[![](http://images.wikia.com/chrono/images/d/d0/Map-zeal.gif)](http://images.wikia.com/chrono/images/d/d0/Map-zeal.gif)  
+[![](assets/img/posts/20120629/Map-zeal.gif)](assets/img/posts/20120629/Map-zeal.gif)  
 ---  
 The Kingdom of Zeal circa 12,000 BC, from Chrono Trigger. Advanced technology/magic is used to float the landmass above the rest of the surface. Just another example of the Lost World genre in fiction.  
   

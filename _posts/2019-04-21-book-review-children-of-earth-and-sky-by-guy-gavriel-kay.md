@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Children of Earth and Sky by Guy Gavriel Kay"
 date: 2019-04-21
-img: https://images.gr-assets.com/books/1442191229l/26505409.jpg
+img: posts/20190421/26505409.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1442191229l/26505409.jpg)](https://images.gr-assets.com/books/1442191229l/26505409.jpg)
+[![](assets/img/posts/20190421/26505409.jpg)](assets/img/posts/20190421/26505409.jpg)
 
 As a fan of Guy Gavriel Kay, I had my eye on **Children of Earth and Sky** for some time. In fact, my own game-play sessions of the Europa Universalis IV video game, which starts in 1444, had primed me on this period of world history and further fueled my curiosity of this book. **Children of Earth and Sky** is set roughly 20 years after the fall of the equivalent of Constantinople (in 1453) so I was very intrigued by the setting and eventually picked it up.  
   

@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Foundation by Isaac Asimov"
 date: 2021-08-01
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579.jpg
+img: posts/20210801/29579.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579.jpg)**
+**[![](assets/img/posts/20210801/29579.jpg)](assets/img/posts/20210801/29579.jpg)**
 
 **Foundation** is an old classic science fiction novel I read many, many years ago. Recently, I picked up an omnibus version containing the first 3 novels in the series. This is a review for the first book, a story about ideas, a story about a Galactic Empire that falls and the mathematical principles that allow humanity to pave the way for a new one.
 

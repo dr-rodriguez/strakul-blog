@@ -21,13 +21,13 @@ Today, a really cool planet has been discovered by these citizen scientists. Rea
   
 PH1 is a planet 6 times the radius of the Earth and no more than half Jupiter's mass (probably much less). This places it at something like a Neptune, though much hotter. It orbits the system every 137 days, or a distance of 0.6 astronomical units (AU; for comparison, Venus's orbit is ~0.7 AU). However, instead of orbiting one star like most known planets do, this one orbits two. The two stars are an F-type star a bit larger than the Sun and a smaller M-dwarf somewhat smaller than the Sun. These two stars orbit each other every 20 days at a distance of 0.2 AU. The planet joins the growing list of circumbinary planets discovered with Kepler.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUEVA6omELhVK8CU7XuJ5qDla8Qj2MdIhrPHHUEldAJA89YQsXznp5uJ8Pi9omSGtqzE0_ND1X1V-8IiuxIcOQCwNK0MHDOXSSdAF1g-FgFTXK055gkWnACKNc7mkCF1TscM2khq3SzZw/s400/PH1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUEVA6omELhVK8CU7XuJ5qDla8Qj2MdIhrPHHUEldAJA89YQsXznp5uJ8Pi9omSGtqzE0_ND1X1V-8IiuxIcOQCwNK0MHDOXSSdAF1g-FgFTXK055gkWnACKNc7mkCF1TscM2khq3SzZw/s1600/PH1.png)  
+[![](assets/img/posts/20121016/PH1.png)](assets/img/posts/20121016/PH1_1.png)  
 ---  
 Orbital configuration of the PH1 system. The planet is labeled as 'b' in blue. Credit: [Schwamb et al. 2012](http://arxiv.org/abs/1210.3612).  
   
 Another interesting aspect of the planet is the way in which it was discovered. Kepler has been starring at ~100,000 stars and it takes a while to look through each one. While we can sometimes write computer programs to search for the signatures of a transiting planet, nothing beats the human eye in terms of pattern recognition. Enter the [Planet Hunters](http://www.planethunters.org/) program. This is a citizen science program developed to look at Kepler light curves and allow ordinary people to see if they can find anything interesting in them. Two citizen scientists, Kian Jek and Robert Gagliano, first identified PH1 and notified the professional astronomers through the Planet Hunters network. It was soon confirmed that they had found a new circumbinary planet. If you have some time to spare, perhaps you should check out that program (and others like it) and try to make your own discoveries.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9owixA59-ppmqeeaFixlZqpXAA1NkV4tdPweW9uTH6Qcc1LXVuAb2GF5saa6Sm6WR6tNDJaLpXnMT5Y8ui0tokrBu72zBnT9F7dy9HhBIAhO4enLuqsmel4yTK23Gk0kkH2FsV14qKJQ/s320/PHfind2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9owixA59-ppmqeeaFixlZqpXAA1NkV4tdPweW9uTH6Qcc1LXVuAb2GF5saa6Sm6WR6tNDJaLpXnMT5Y8ui0tokrBu72zBnT9F7dy9HhBIAhO4enLuqsmel4yTK23Gk0kkH2FsV14qKJQ/s1600/PHfind2.png)  
+[![](assets/img/posts/20121016/PHfind2.png)](assets/img/posts/20121016/PHfind2_1.png)  
 ---  
 The Planet Hunters interface showing the transit of the planet as well as the primary and secondary eclipses. The primary eclipse occurs when the small, faint star blocks out the bright primary; the secondary eclipse is when that faint star goes behind the primary. Credit: [Schwamb et al. 2012](http://arxiv.org/abs/1210.3612).  
   
@@ -36,7 +36,7 @@ This is the first planet found in a 4-star system, and while it's too hot to sup
   
 This is not the first time quaternary systems have been seen. HD98800, depicted below, is a famous 4-star system in the ~8 million year old TW Hydrae Association. One of the two binaries is known to host a disk of dusty material around it, perhaps left over from the planet formation process. While no planets are known (yet?) to exist in this system, it suggests that nature can still produce the right environment for planets to form in systems with multiple stars.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhRnhlggiRp6izrlcVnaB1ZZoTFzsTTy0HjQmQ712VZzPNPxMw2LEIJ4n-wSC864LTBgET4FcSvFFEZVXLReGEfEii2WWgcQ2Yq63i4BKoCHiPHCOUgB2ccHTUxOSUsrN90Sz1ML8PD64/s400/HD_98800.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhRnhlggiRp6izrlcVnaB1ZZoTFzsTTy0HjQmQ712VZzPNPxMw2LEIJ4n-wSC864LTBgET4FcSvFFEZVXLReGEfEii2WWgcQ2Yq63i4BKoCHiPHCOUgB2ccHTUxOSUsrN90Sz1ML8PD64/s1600/HD_98800.jpeg)  
+[![](assets/img/posts/20121016/HD_98800.jpeg)](assets/img/posts/20121016/HD_98800_1.jpeg)  
 ---  
 HD98800, a 4-star system with a circumbinary dusty disk around one pair. Could this be how PH1 formed? Credit: NASA/JPL-Caltech/T. Pyle (SSC)  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: What Should I Read Next?"
 date: 2016-09-20
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFQoqeCcvF9xauhTcxknW7bh-nFnSiFGkxDinpw12tGzFt_7OOiOwTvEE0TmS10rzMil3OcyeeXmnYy0-R5qlW5UVD-4vMj76TuNk8HIfklFOztjk3jAA9XagU2LyVBxoRI_URdD-NKQ/s320/DT_zoom_border.png
+img: posts/20160920/DT_zoom_border_1.png
 tags: [Data Science, Books, Python]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFQoqeCcvF9xauhTcxknW7bh-nFnSiFGkxDinpw12tGzFt_7OOiOwTvEE0TmS10rzMil3OcyeeXmnYy0-R5qlW5UVD-4vMj76TuNk8HIfklFOztjk3jAA9XagU2LyVBxoRI_URdD-NKQ/s320/DT_zoom_border.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQFQoqeCcvF9xauhTcxknW7bh-nFnSiFGkxDinpw12tGzFt_7OOiOwTvEE0TmS10rzMil3OcyeeXmnYy0-R5qlW5UVD-4vMj76TuNk8HIfklFOztjk3jAA9XagU2LyVBxoRI_URdD-NKQ/s1600/DT_zoom_border.png)
+[![](assets/img/posts/20160920/DT_zoom_border_1.png)](assets/img/posts/20160920/DT_zoom_border.png)
 
   
 As I wrote about [last week](http://strakul.blogspot.com/2016/09/data-science-my-goodreads-reviews_13.html), I’ve spent a bit of time looking over my reviews on [Goodreads](https://www.goodreads.com/) to explore trends in what authors I read, how fast I read, and how I review books. In today’s post, we’ll tackle something a little more ambitious: given the data I can readily access from the [Goodreads API](https://www.goodreads.com/api?rel=nofollow), can I predict how I will rate books I haven’t yet read?  
@@ -32,7 +32,7 @@ I used Python’s [scikit-learn](http://scikit-learn.org/stable/index.html) to c
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW7ovXkJudMC0zQPkXjh49bAS3gb58aijOY81ezjmTAdPgUll3bUiDSx8ffD-ukwVzwvd2GKNDkHPL-MONgL9BvvdydtSr0nvGjjLuFyngQkTc1kkR18QzvVD3sRRp6Ja81zMRRUXoPM/s640/decision_tree_rating_2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQW7ovXkJudMC0zQPkXjh49bAS3gb58aijOY81ezjmTAdPgUll3bUiDSx8ffD-ukwVzwvd2GKNDkHPL-MONgL9BvvdydtSr0nvGjjLuFyngQkTc1kkR18QzvVD3sRRp6Ja81zMRRUXoPM/s1600/decision_tree_rating_2.png)
+[![](assets/img/posts/20160920/decision_tree_rating_2.png)](assets/img/posts/20160920/decision_tree_rating_2_1.png)
 
   
   
@@ -49,7 +49,7 @@ The first model I created was the classifier, which attempts to predict whether 
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2-EcZop5Nq5BwvcoZZ8MjuvjH2dWRP9_huv2gxqvawXssbjuHgE5t3dQZbXyU7AJHeWWu1K_T-vm5CKp7y1zMeDkjNx_P3TsLE-e0U5KUfjuat-_GfqSnLk0DKCQQuXHt83Fml_zxx-w/s400/confusion_matrix.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2-EcZop5Nq5BwvcoZZ8MjuvjH2dWRP9_huv2gxqvawXssbjuHgE5t3dQZbXyU7AJHeWWu1K_T-vm5CKp7y1zMeDkjNx_P3TsLE-e0U5KUfjuat-_GfqSnLk0DKCQQuXHt83Fml_zxx-w/s1600/confusion_matrix.png)
+[![](assets/img/posts/20160920/confusion_matrix_1.png)](assets/img/posts/20160920/confusion_matrix.png)
 
   
 Overall, the model did moderately OK. It correctly predicted 3/4 1-3 star books. For 4-star books, it predicted 12 4-star reviews, but only 7 of those are accurate. That’s a precision (positive predictive value) of 7/12=0.58. The sensitivity (aka recall or true positive rate) is 7/10=0.7. For 5-star reviews my model has a precision of 5/8=0.62, but a sensitivity of 5/10=0.5. We’re dealing with a small number of reviews and with limited features to explore so it’s not surprising that we’re not doing amazing.  
@@ -60,7 +60,7 @@ One final aspect of these models we can consider is the importance of the variou
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjipC64LHbiNNA2mg_UiwGJFAlJgbNpUW-wEUyNi3y1c9ohX5dEmj62-rK1q5idHTiqkoA4h_ayGPf4VLNMUdKkef14lbPyeos6ywnB_3zSPWZgoLFhV4BhfnlDZ3ERVeDxK1sS9xQPIs/s400/rf_features.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjipC64LHbiNNA2mg_UiwGJFAlJgbNpUW-wEUyNi3y1c9ohX5dEmj62-rK1q5idHTiqkoA4h_ayGPf4VLNMUdKkef14lbPyeos6ywnB_3zSPWZgoLFhV4BhfnlDZ3ERVeDxK1sS9xQPIs/s1600/rf_features.png)
+[![](assets/img/posts/20160920/rf_features.png)](assets/img/posts/20160920/rf_features_1.png)
 
   
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Consuming Fire by John Scalzi"
 date: 2019-02-24
-img: https://images.gr-assets.com/books/1518468399l/34942741.jpg
+img: posts/20190224/34942741.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1518468399l/34942741.jpg)](https://images.gr-assets.com/books/1518468399l/34942741.jpg)
+[![](assets/img/posts/20190224/34942741.jpg)](assets/img/posts/20190224/34942741.jpg)
 
 **The Consuming Fire** is the second book in **The Interdependency** series and the sequel to John Scalzi's [The Collapsing Empire](https://strakul.blogspot.com/2017/05/book-review-collapsing-empire-by-john.html) and continues the story were it left off. I found the first book quite good so once this one came out I made a point to grab it and check it out. My impressions of this sequel are somewhat different from the first, as I'll detail in my review below. So, without further ado, read on to check out my spoiler-free review.  
   

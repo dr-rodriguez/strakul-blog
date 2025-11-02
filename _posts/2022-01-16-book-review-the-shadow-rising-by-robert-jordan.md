@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: The Shadow Rising by Robert Jordan"
 date: 2022-01-16
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628285939l/54754452._SY475_.jpg
+img: posts/20220116/54754452._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628285939l/54754452._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628285939l/54754452._SY475_.jpg)**
+**[![](assets/img/posts/20220116/54754452._SY475_.jpg)](assets/img/posts/20220116/54754452._SY475_.jpg)**
 
 **The Shadow Rising** is the 4th book of **The Wheel of Time** series by Robert Jordan. I've been slowly re-reading the books and have watched the new TV series as well. While there is a much I didn't remember, some aspects of Book 4 I did actually recall to some degree. Also, having recently re-read **Dune** by Frank Herbert, I can't help but see all the parallels between these two series.
 

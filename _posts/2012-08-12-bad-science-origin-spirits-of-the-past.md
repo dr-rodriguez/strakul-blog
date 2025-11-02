@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Bad Science: Origin Spirits of the Past"
 date: 2012-08-12
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOveoTWIeHe7nmrfnedAINJFwX2rdBOLCZTFZCCne3sj-2ZU4eogU3CC_m9uuvr30Mn_Fv29z5BALlQwaJLEx89EJ3BzYzGQED_-01943d6lhyphenhyphenoGOYEuGxurQjTy5GPLhCgrMDxbpsGQ8/s400/origin1.jpeg
+img: posts/20120812/origin1.jpeg
 tags: [Misc, Anime, Astronomy, Science Fiction]
 category: Misc
 author: Strakul
@@ -17,7 +17,7 @@ Today, I'm writing about an anime movie I saw a several years ago. I actually en
   
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOveoTWIeHe7nmrfnedAINJFwX2rdBOLCZTFZCCne3sj-2ZU4eogU3CC_m9uuvr30Mn_Fv29z5BALlQwaJLEx89EJ3BzYzGQED_-01943d6lhyphenhyphenoGOYEuGxurQjTy5GPLhCgrMDxbpsGQ8/s400/origin1.jpeg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOveoTWIeHe7nmrfnedAINJFwX2rdBOLCZTFZCCne3sj-2ZU4eogU3CC_m9uuvr30Mn_Fv29z5BALlQwaJLEx89EJ3BzYzGQED_-01943d6lhyphenhyphenoGOYEuGxurQjTy5GPLhCgrMDxbpsGQ8/s1600/origin1.jpeg)
+[![](assets/img/posts/20120812/origin1.jpeg)](assets/img/posts/20120812/origin1_1.jpeg)
 
   
 So here is Origin: Spirits of the Past (original title: Gin-iro no kami no Agito [Agito of the Silver Hair]) produced by Studio Gonzo. Click through to learn more about this.  

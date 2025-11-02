@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: A Desolation Called Peace by Arkady Martine"
 date: 2022-02-24
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591755604l/45154547._SY475_.jpg
+img: posts/20220224/45154547._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591755604l/45154547._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591755604l/45154547._SY475_.jpg)This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html). Here is the Goodreads blurb:
+[![](assets/img/posts/20220224/45154547._SY475_.jpg)](assets/img/posts/20220224/45154547._SY475_.jpg)This is the second book in the **Teixcalaan** series by Arkady Martine and follows a few months after the prior, [A Memory of Empire](https://strakul.blogspot.com/2020/06/book-review-memory-called-empire-by.html). Here is the Goodreads blurb:
 
 > __
 >

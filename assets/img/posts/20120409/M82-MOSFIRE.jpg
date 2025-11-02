@@ -1,0 +1,1432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Universe Today - Space and Astronomy News</title>
+
+  <!-- Description -->
+  <meta name="description" content="Your daily source for space and astronomy news. Expert coverage of NASA missions, rocket launches, space exploration, exoplanets, and the latest discoveries in astrophysics.">
+
+  <!-- OpenGraph Tags -->
+  <meta property="og:title" content="Universe Today">
+  <meta property="og:description" content="Your daily source for space and astronomy news. Expert coverage of NASA missions, rocket launches, space exploration, exoplanets, and the latest discoveries in astrophysics.">
+  <meta property="og:url" content="https://universetoday.com">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Universe Today">
+
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Universe Today">
+  <meta name="twitter:description" content="Your daily source for space and astronomy news. Expert coverage of NASA missions, rocket launches, space exploration, exoplanets, and the latest discoveries in astrophysics.">
+  <meta name="twitter:site" content="@universetoday">
+
+  <!-- Image handling -->
+  <meta property="og:image" content="https://www.universetoday.com/assets/ut-website-logo-100.png">
+  <meta property="og:image:alt" content="Universe Today">
+  <meta name="twitter:image" content="https://www.universetoday.com/assets/ut-website-logo-100.png">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://universetoday.com">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/favicon.ico">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <a href="/" class="site-logo">
+      <img src="/assets/ut-website-logo-100.png" alt="Universe Today Logo" class="logo-image">
+      Universe Today
+    </a>
+    <div class="header-nav-row">
+      <nav>
+        <a href="/" class="active">Home</a>
+        <a href="https://www.youtube.com/@frasercain">Videos</a>
+        <a href="https://feeds.fireside.fm/universetoday/rss">Podcast</a>
+        <a href="/newsletter">Newsletter</a>
+        <a href="ut-club">Join the Club</a>
+        <a href="https://www.universetoday.com/feed">RSS Feed</a>
+      </nav>
+      <div class="search-container">
+        <form action="https://duckduckgo.com/" method="get" target="_blank">
+          <input type="hidden" name="sites" value="universetoday.com">
+          <input type="text" name="q" placeholder="Search..." required>
+          <button type="submit" aria-label="Search">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.35-4.35"></path>
+            </svg>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section class="recent-articles">
+    <div class="article-grid">
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/astronomers-spot-a-white-dwarf-thats-still-consuming-its-planets">Astronomers Spot a White Dwarf That&#39;s Still Consuming its Planets</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - November 01, 2025 10:48 PM UTC | <a href="/categories/stars.html">Stars</a>
+            </span>
+          </div>
+
+          <a href="/articles/astronomers-spot-a-white-dwarf-thats-still-consuming-its-planets">
+            
+              <img src="/article_images/STScI-01K6JBQXJ7DGHZTF9PD4HSJNNT-1536x864_20251101_224842.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astronomers found a 3 billion-year-old white dwarf actively accreting material from its former planetary system. This discovery challenges assumptions about the late stages of stellar remnant evolution.
+            
+          </div>
+
+          <a href="/articles/astronomers-spot-a-white-dwarf-thats-still-consuming-its-planets" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/change-6-samples-indicate-water-was-delivered-to-the-earth-and-moon-by-ancient-meteorites">Chang&#39;e-6 Samples Indicate Water was Delivered to the Earth and Moon by Ancient Meteorites</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - November 01, 2025 07:05 PM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/change-6-samples-indicate-water-was-delivered-to-the-earth-and-moon-by-ancient-meteorites">
+            
+              <img src="/article_images/W020251022591420885029_ORIGIN_20251031_090134.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A research team with the Chinese Academy of Sciences (CAS) examined samples returned by the Chang'e-6 mission from the far side of the Moon. They identified minerals that appear to be from a carbonaceous chondrite meteor, which are known to contain water and organic molecules. These findings support the theory that water and the ingredients for life were delivered by asteroids and comets to Earth billions of years ago.
+            
+          </div>
+
+          <a href="/articles/change-6-samples-indicate-water-was-delivered-to-the-earth-and-moon-by-ancient-meteorites" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/how-do-we-find-cosmic-voids">How do we find cosmic voids?</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/pmsutter.html">Paul Sutter</a> - November 01, 2025 05:59 PM UTC | <a href="/categories/physics.html">Physics</a>
+            </span>
+          </div>
+
+          <a href="/articles/how-do-we-find-cosmic-voids">
+            
+              <img src="/article_images/1464385579-21-cosmic-voids-may-hold-a-fifth-of-all-matter-in-the-universe-l_20251028_175912.webp" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              To answer that question of what’s inside a void, we have to first decide what a void…is.
+            
+          </div>
+
+          <a href="/articles/how-do-we-find-cosmic-voids" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/scientists-confirm-the-universe-was-hotter-in-the-past">Scientists Confirm the Universe Was Hotter in the Past</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - November 01, 2025 09:40 AM UTC | <a href="/categories/cosmology.html">Cosmology</a>
+            </span>
+          </div>
+
+          <a href="/articles/scientists-confirm-the-universe-was-hotter-in-the-past">
+            
+              <img src="/article_images/1280px-Cosmic_Microwave_Background_CMB_20251101_094011.jpeg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Researchers from Keio University have made the most precise measurement yet of the cosmic microwave background radiation's temperature from seven billion years ago, finding it was approximately 5.13 K, roughly twice today's temperature of 2.7 K. By analysing archived data from the ALMA telescope in Chile, the team confirmed a key prediction of Big Bang model, that the universe cools as it expands, meaning it was hotter in the past. This highly accurate measurement provides strong support for the standard cosmological model and helps scientists better understand the thermal history of our universe.
+            
+          </div>
+
+          <a href="/articles/scientists-confirm-the-universe-was-hotter-in-the-past" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/3iatlas-brightens-dramatically-as-it-swings-past-the-sun">3I/ATLAS Brightens Dramatically as it Swings Past the Sun</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - November 01, 2025 09:32 AM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/3iatlas-brightens-dramatically-as-it-swings-past-the-sun">
+            
+              <img src="/article_images/3I-ATLAS_noirlab2525b_crop_20251101_093148.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Interstellar comet 3I/ATLAS has undergone dramatic brightening as it approached its closest point to the Sun. Researchers have been using solar monitoring satellites to track it during a period when Earth based observations were impossible due to the comet's position behind the Sun. Analysis of data from STEREO-A, SOHO, and GOES-19 spacecraft revealed the comet brightened at an unexpectedly rapid rate between mid September and late October 2025, with its light showing a distinctly blue colour indicating significant gas emission rather than just reflected sunlight from dust. The comet's unusual behaviour and the cause of its steep brightening remain mysteries that ground based observers will now investigate as it emerges into dark skies.
+            
+          </div>
+
+          <a href="/articles/3iatlas-brightens-dramatically-as-it-swings-past-the-sun" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/space-clouds-are-chemical-factories-making-the-building-blocks-of-life">Space Clouds Are Chemical Factories Making the Building Blocks of Life</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - November 01, 2025 12:35 AM UTC | <a href="/categories/stars.html">Stars</a>
+            </span>
+          </div>
+
+          <a href="/articles/space-clouds-are-chemical-factories-making-the-building-blocks-of-life">
+            
+              <img src="/article_images/1280px-Herschels_view_of_the_Taurus_molecular_cloud_ESA384012_20251101_003456.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Scientists at MIT have discovered over 100 different molecules in a stellar nursery called the Taurus Molecular Cloud-1, making it the most chemically diverse interstellar cloud ever observed. Using over 1,400 hours of telescope time, the team found mostly hydrocarbons and nitrogen rich compounds, along with 10 ring shaped aromatic molecules similar to those found in coffee, vanilla, and DNA. This discovery helps solve a decades old mystery about complex organic molecules in space and provides key insights into the chemical conditions that existed before our own Solar System formed.
+            
+          </div>
+
+          <a href="/articles/space-clouds-are-chemical-factories-making-the-building-blocks-of-life" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/mapping-alien-worlds-in-3d">Mapping Alien Worlds in 3D</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - November 01, 2025 12:21 AM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/mapping-alien-worlds-in-3d">
+            
+              <img src="/article_images/IMG_7854_20251031_121044.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              For the first time, astronomers have mapped the three-dimensional atmosphere of a planet orbiting a distant star, revealing temperature variations and distinct atmospheric regions across an alien world 400 light years away. Using the James Webb Space Telescope to track minute changes in brightness as the scorching gas giant WASP-18b passed behind its star, scientists created a weather map of an exoplanet, transforming these distant worlds from featureless dots into environments we can actually study layer by layer. This new technique could soon map hundreds of other similar hot Jupiters, finally bringing alien atmospheres into focus as real places with their own geography and weather patterns.
+            
+          </div>
+
+          <a href="/articles/mapping-alien-worlds-in-3d" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-future-of-propellantless-space-travel">The Future of Propellantless Space Travel</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - November 01, 2025 12:13 AM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-future-of-propellantless-space-travel">
+            
+              <img src="/article_images/IMG_7853_20251031_120702.jpeg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Every kilogram of rocket fuel is dead weight once it’s burned, yet conventional spacecraft must carry hundreds, sometimes thousands of tons of propellant to reach even nearby planets. This fundamental limitation has confined humanity to our own Solar System for decades. But a new generation of propulsion concepts promises to break free from this constraint entirely, harnessing radiation pressure, solar wind, and planetary gravity to accelerate spacecraft without carrying a single drop of fuel. These elegant systems could finally make interstellar exploration feasible…if engineers can overcome their formidable technical challenges.
+            
+          </div>
+
+          <a href="/articles/the-future-of-propellantless-space-travel" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/early-hydrogeniron-reactions-key-to-planetary-habitability">Early Hydrogen–Iron Reactions Key to Planetary Habitability</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 31, 2025 10:48 PM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/early-hydrogeniron-reactions-key-to-planetary-habitability">
+            
+              <img src="/article_images/STScI-01H9R8AEK6Y7QR03MGN9V9P6ZJ_750_20251031_224743.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              How does water form on exoplanets and what could this mean for the search for life beyond Earth? This is what a recent study published in Nature hopes to address as an international team of scientists investigated the processes responsible for exoplanets producing liquid water. This study has the potential to help scientists better understand the conditions for finding life beyond Earth, and specifically which exoplanets could be viable future targets for astrobiology.
+            
+          </div>
+
+          <a href="/articles/early-hydrogeniron-reactions-key-to-planetary-habitability" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-last-stop-in-a-literary-grand-tour-portrays-pluto-the-way-it-really-is">The last stop in a literary Grand Tour portrays Pluto the way it really is</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/cosmiclog.html">Alan Boyle</a> - October 31, 2025 07:19 PM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-last-stop-in-a-literary-grand-tour-portrays-pluto-the-way-it-really-is">
+            
+              <img src="/article_images/251027-pluto_20251031_185507.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              NASA’s New Horizons mission to Pluto has forced astronomers to rewrite their textbooks — but that’s not all: In the latest episode of the Fiction Science podcast, space scientist Les Johnson explains how New Horizons forced him to rewrite "Pluto," the final novel in Ben Bova's Grand Tour series.
+            
+          </div>
+
+          <a href="/articles/the-last-stop-in-a-literary-grand-tour-portrays-pluto-the-way-it-really-is" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/do-black-holes-really-need-singularities">Do Black Holes Really Need Singularities?</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/brian.html">Brian Koberlein</a> - October 31, 2025 06:50 PM UTC | <a href="/categories/black-holes.html">Black Holes</a>
+            </span>
+          </div>
+
+          <a href="/articles/do-black-holes-really-need-singularities">
+            
+              <img src="/article_images/saga_20251031_184825.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Black holes are usually described as having an event horizon and a singularity, but there are alternative models that don't have these bothersome mathematical paradoxes.
+            
+          </div>
+
+          <a href="/articles/do-black-holes-really-need-singularities" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/rise-of-the-axion">Rise of the Axion</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/pmsutter.html">Paul Sutter</a> - October 31, 2025 05:11 PM UTC | <a href="/categories/physics.html">Physics</a>
+            </span>
+          </div>
+
+          <a href="/articles/rise-of-the-axion">
+            
+              <img src="/article_images/qhqXjbqmJo4MrMZu9UB737-1200-80.jpg_20251028_171131.webp" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              So where do we go after years of empty searches for dark matter? We haven’t learned nothing.
+            
+          </div>
+
+          <a href="/articles/rise-of-the-axion" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-mundane-universe-and-the-rarity-of-advanced-civilizations">A Mundane Universe and the Rarity of Advanced Civilizations</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 31, 2025 06:57 AM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/a-mundane-universe-and-the-rarity-of-advanced-civilizations">
+            
+              <img src="/article_images/VLAtrackspano_750_20251031_065524.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              How could the principle of “radical mundanity” proposed by the Fermi paradox help explain why humans haven’t found evidence of extraterrestrial technological civilizations (ETCs)? This is what a recently submitted study hopes to address as a lone researcher investigated the prospect for finding ETCs based on this principle. This study has the potential to help scientists and the public better understand why we haven’t identified intelligent life beyond Earth and how we might narrow the search for it.
+            
+          </div>
+
+          <a href="/articles/a-mundane-universe-and-the-rarity-of-advanced-civilizations" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-keen-eyed-vera-rubin-observatory-has-discovered-a-massive-stellar-stream">The Keen-Eyed Vera Rubin Observatory Has Discovered A Massive Stellar Stream</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/ion23drive.html">Evan Gough</a> - October 30, 2025 10:01 PM UTC | <a href="/categories/extragalactic.html">Extragalactic</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-keen-eyed-vera-rubin-observatory-has-discovered-a-massive-stellar-stream">
+            
+              <img src="/article_images/M61_Stellar_Stream_Rubin_20251030_203019.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The Vera Rubin Observatory saw first light in June 2025. Its images from that time are called the Virgo First Look images because they focus on the Virgo Cluster of galaxies. M61 is one of the galaxies in that cluster, and the VRO has detected a stellar stream of stars around the distant spiral galaxy in Rubin's images.
+            
+          </div>
+
+          <a href="/articles/the-keen-eyed-vera-rubin-observatory-has-discovered-a-massive-stellar-stream" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/this-radio-colour-image-is-a-new-way-to-explore-the-milky-way">This Radio Colour Image Is A New Way To Explore The Milky Way</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/ion23drive.html">Evan Gough</a> - October 30, 2025 07:31 PM UTC | <a href="/categories/milky-way.html">Milky Way</a>
+            </span>
+          </div>
+
+          <a href="/articles/this-radio-colour-image-is-a-new-way-to-explore-the-milky-way">
+            
+              <img src="/article_images/103379329-15235219-The_photograph_which_took_18_months_and_over_40_000_hours_to_con-a-50_1761668779632_20251030_164931.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astronomers from the International Centre of Radio Astronomy Research (ICRAR) in Australia have created a stunning new radio colour image of the Milky Way. By mapping different radio frequencies to RGB colours, the image reveals large-scale astrophysical phenomena and gives researchers a new tool to understand the lifecycle of stars.
+            
+          </div>
+
+          <a href="/articles/this-radio-colour-image-is-a-new-way-to-explore-the-milky-way" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-empty-search-for-dark-matter">The Empty Search for Dark Matter</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/pmsutter.html">Paul Sutter</a> - October 30, 2025 05:05 PM UTC | <a href="/categories/physics.html">Physics</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-empty-search-for-dark-matter">
+            
+              <img src="/article_images/csm_CRESST_Einbau_d6fbdb3e75_20251028_170516.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              What if I told you that while you can’t see dark matter, maybe you can hear it?
+            
+          </div>
+
+          <a href="/articles/the-empty-search-for-dark-matter" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/were-putting-lots-of-transition-metals-into-the-stratosphere-thats-not-good">We&#39;re Putting Lots Of Transition Metals Into The Stratosphere. That&#39;s Not Good.</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 30, 2025 09:46 AM UTC | <a href="/categories/space-policy.html">Space Policy</a>
+            </span>
+          </div>
+
+          <a href="/articles/were-putting-lots-of-transition-metals-into-the-stratosphere-thats-not-good">
+            
+              <img src="/article_images/280802main_ATV_full_20251029_161412.webp" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              We successfully plugged the hole in the ozone layer that was discovered in the 1980s by banning ozone depleting substances such as chlorofluorocarbons (CFCs). But, it seems we might be unintentionally creating another potential atmospheric calamity by using the upper atmosphere to destroy huge constellations of satellites after a very short (i.e. 5 year) lifetime. According to a new paper by Leonard Schulz of the Technical University of Braunschweig and his co-authors, material from satellites that burn up in the atmosphere, especially transition metals, could have unforeseen consequences on atmospheric chemistry - and we’re now the biggest contributor of some of those elements.
+            
+          </div>
+
+          <a href="/articles/were-putting-lots-of-transition-metals-into-the-stratosphere-thats-not-good" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/surveying-atmospheric-escape-from-gas-giants-orbiting-f-type-stars">Surveying Atmospheric Escape from Gas Giants Orbiting F-Type Stars</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 30, 2025 05:49 AM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/surveying-atmospheric-escape-from-gas-giants-orbiting-f-type-stars">
+            
+              <img src="/article_images/WASP-12b_NASA_750_20251030_054538.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Why is it important to know about exoplanets having their atmospheres stripped while orbiting F-type stars? This is what a recent study submitted to The Astronomical Journal hopes to address as an international team of scientists conducted a first-time investigation into atmospheric escape on planets orbiting F-type stars, the latter of which are larger and hotter than our Sun. Atmospheric escape occurs on planets orbiting extremely close to their stars, resulting in the extreme temperature and radiation from the host star slowly stripping away the planet’s atmosphere.
+            
+          </div>
+
+          <a href="/articles/surveying-atmospheric-escape-from-gas-giants-orbiting-f-type-stars" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/jupiter-saved-earth-from-spiralling-into-the-sun">Jupiter Saved Earth from Spiralling Into the Sun</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - October 30, 2025 02:57 AM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/jupiter-saved-earth-from-spiralling-into-the-sun">
+            
+              <img src="/article_images/PIA22946-Jupiter-RedSpot-JunoSpacecraft-20190212_20251030_001151.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The gas giant’s early growth carved rings in the protoplanetary disk that surrounded our Sun billions of years ago. This process set the architecture for the inner Solar System and prevented Earth from spiraling into the Sun.
+            
+          </div>
+
+          <a href="/articles/jupiter-saved-earth-from-spiralling-into-the-sun" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/new-findings-say-the-first-stars-in-the-universe-were-born-in-pairs">New Findings Say the First Stars in the Universe Were Born in Pairs</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - October 30, 2025 01:48 AM UTC | <a href="/categories/cosmology.html">Cosmology</a>
+            </span>
+          </div>
+
+          <a href="/articles/new-findings-say-the-first-stars-in-the-universe-were-born-in-pairs">
+            
+              <img src="/article_images/noirlab2222b_20251029_231440.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              New research from Tel Aviv University reveals that the first stars in the Universe formed in binary systems. These stars played a vital role in the evolution of early galaxies, giving rise to black holes and seeding the Universe with the ingredients for life.
+            
+          </div>
+
+          <a href="/articles/new-findings-say-the-first-stars-in-the-universe-were-born-in-pairs" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/one-of-the-milky-ways-satellites-could-be-a-little-red-dot">One Of The Milky Way&#39;s Satellites Could Be A &#34;Little Red Dot&#34;</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/ion23drive.html">Evan Gough</a> - October 29, 2025 09:28 PM UTC | <a href="/categories/black-holes.html">Black Holes</a>
+            </span>
+          </div>
+
+          <a href="/articles/one-of-the-milky-ways-satellites-could-be-a-little-red-dot">
+            
+              <img src="/article_images/segue-1_simbad_dss_600_20251029_182256.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A tiny dim satellite galaxy of the Milky Way doesn't have enough stars to hold itself together. Its properties suggest that its dark matter halo is holding it together, but new research counters that. Researchers say that it's not dark matter but a massive black hole that's keeping the dwarf galaxy intact.
+            
+          </div>
+
+          <a href="/articles/one-of-the-milky-ways-satellites-could-be-a-little-red-dot" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/to-expand-gravitational-wave-astronomy-astronomers-look-to-a-band-thats-mid">To Expand Gravitational Wave Astronomy, Astronomers Look to a Band That&#39;s Mid</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/brian.html">Brian Koberlein</a> - October 29, 2025 05:07 PM UTC | <a href="/categories/telescopes.html">Telescopes</a>
+            </span>
+          </div>
+
+          <a href="/articles/to-expand-gravitational-wave-astronomy-astronomers-look-to-a-band-thats-mid">
+            
+              <img src="/article_images/ns_gw_art_20251029_170517.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Current gravitational wave observatories can't see a range of frequencies known as mid-band. That could change with a new detector that uses a trick from atomic clocks.
+            
+          </div>
+
+          <a href="/articles/to-expand-gravitational-wave-astronomy-astronomers-look-to-a-band-thats-mid" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/why-the-wimps-became-the-toughest-particle-in-physics">Why the WIMPs Became the Toughest Particle in Physics</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/pmsutter.html">Paul Sutter</a> - October 29, 2025 05:02 PM UTC | <a href="/categories/physics.html">Physics</a>
+            </span>
+          </div>
+
+          <a href="/articles/why-the-wimps-became-the-toughest-particle-in-physics">
+            
+              <img src="/article_images/Bullet_cluster_20251028_170209.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              As a kid you ever play that game Guess Who? If you haven’t, it’s actually kinda fun.
+            
+          </div>
+
+          <a href="/articles/why-the-wimps-became-the-toughest-particle-in-physics" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/x-59-quiet-supersonic-aircraft-first-test-flight">X-59 Super-Quiet Supersonic Aircraft Makes Its First Test Flight</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/cosmiclog.html">Alan Boyle</a> - October 29, 2025 03:35 PM UTC | <a href="/categories/missions.html">Missions</a>
+            </span>
+          </div>
+
+          <a href="/articles/x-59-quiet-supersonic-aircraft-first-test-flight">
+            
+              <img src="/article_images/251029-x59_20251029_142638.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Lockheed Martin Skunk Works has executed the first test flight of the X-59 quiet supersonic aircraft in partnership with NASA. The first flight was subsonic, but eventually the plane will demonstrate technologies aimed at reducing sonic booms to gentle thumps.
+            
+          </div>
+
+          <a href="/articles/x-59-quiet-supersonic-aircraft-first-test-flight" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/when-black-holes-eat-their-own">When Black Holes Eat Their Own</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 29, 2025 11:09 AM UTC | <a href="/categories/black-holes.html">Black Holes</a>
+            </span>
+          </div>
+
+          <a href="/articles/when-black-holes-eat-their-own">
+            
+              <img src="/article_images/Black_Hole_Merger_20251029_110901.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Black holes are eating each other and growing fat on the remains! They then seem to move on, finding new partners to devour in what can only be described as a cycle of violence. Two gravitational wave detections from late 2024 have caught these “second generation" black holes in the act, one spinning so fast it ranks among the most extreme ever observed, the other rotating backwards. These aren't simple collisions between black holes born from dying stars, instead they're the products of earlier mergers now colliding again in crowded stellar neighbourhoods, carrying the scars and strange spins of their violent pasts into the fabric of spacetime itself.
+            
+          </div>
+
+          <a href="/articles/when-black-holes-eat-their-own" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-great-space-spider-that-hides-a-secret">The Great Space Spider That Hides a Secret</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 29, 2025 10:59 AM UTC | <a href="/categories/stars.html">Stars</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-great-space-spider-that-hides-a-secret">
+            
+              <img src="/article_images/The_Red_Spider_Nebula_caught_by_Webb_20251029_105805.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A giant spider sprawls across space, its three light year legs stretching into the cosmos powered by a star in its death throes. The James Webb Space Telescope has captured the Red Spider Nebula in stunning new detail, revealing not just the spectacular structure of a dying Sun like star, but also hints of a hidden companion influencing the show. What appeared faint and unremarkable in previous observations now blazes with infrared light, exposing hot dust shrouding the central star and fast moving jets of ionized iron creating ripples through expelled stellar material.
+            
+          </div>
+
+          <a href="/articles/the-great-space-spider-that-hides-a-secret" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/coronal-mass-ejections-at-the-dawn-of-the-solar-system">What Ancient Solar Storms Meant for Life on Earth</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 29, 2025 10:47 AM UTC | <a href="/categories/solar-astronomy.html">Solar Astronomy</a>
+            </span>
+          </div>
+
+          <a href="/articles/coronal-mass-ejections-at-the-dawn-of-the-solar-system">
+            
+              <img src="/article_images/1280px-Skylab_Solar_flare_20251029_104638.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              I tour a science show around the UK and have often fancied a flame thrower based demo, theatres are not so keen though. Imagine the Sun as a flamethrower in its youth, hurling solar storms and plasma bombs into space with incredible ferocity. Scientists have just witnessed what those ancient events might look like by observing a young star similar to our infant Sun, and the findings are both alarming and fascinating. Using observations from the Hubble Space Telescope and ground observatories across three countries, researchers captured a two stage plasma eruption far more powerful than anything we see from the modern Sun, the kind of violence that may have either destroyed early life on Earth or surprisingly made it possible in the first place.
+            
+          </div>
+
+          <a href="/articles/coronal-mass-ejections-at-the-dawn-of-the-solar-system" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-second-instrument-on-hwo-could-track-down-nearby-earth-size-planets">A Second Instrument On HWO Could Track Down Nearby Earth-Size Planets</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 29, 2025 09:58 AM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/a-second-instrument-on-hwo-could-track-down-nearby-earth-size-planets">
+            
+              <img src="/article_images/Habitable_Worlds_Observatory_Ultra-stable_Telescope_SVS20400_-_UltraStableTelescope_Prores_00877_print_20251029_095817.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The Habitable Worlds Observatory (HWO) is slated to be the next Great Observatory for the world. Its main focus has been searching for biosignatures in the atmospheres of at least 25 Earth-like exoplanets. However, to do that, it will require a significant amount of effort with only a coronagraph, the currently planned primary instrument, no matter how powerful that coronagraph is. As new paper from Fabien Malbet of the University of Grenoble Alpes and his co-authors suggest an improvement - add a second instrument to HWO’s payload that will be able to astrometrically track planets down to a precision of .5 micro-arcseconds (µas). That would allow HWO to detect Earth-size planets around hundreds of nearby stars - dramatically increasing the number of potential candidates for atmospheric analysis.
+            
+          </div>
+
+          <a href="/articles/a-second-instrument-on-hwo-could-track-down-nearby-earth-size-planets" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/fate-of-water-rich-planets-around-white-dwarfs">Fate of Water-Rich Planets Around White Dwarfs</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 29, 2025 02:40 AM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/fate-of-water-rich-planets-around-white-dwarfs">
+            
+              <img src="/article_images/wEarth-like-Planet-Survivor-02_750_20251029_023906.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Can water-rich exoplanets survive orbiting white dwarf stars, the latter of which are remnants of Sun-like stars? This is what a recent study accepted to The Astrophysical Journal hopes to address as a team of researchers investigated the likelihood of small, rocky worlds with close orbits to white dwarfs could harbor life. This study has the potential to help scientists better understand the conditions for finding life as we know it, or don’t know it, and where to find it.
+            
+          </div>
+
+          <a href="/articles/fate-of-water-rich-planets-around-white-dwarfs" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/mapping-the-universes-largest-objects">Mapping the Universe&#39;s Largest Objects</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 28, 2025 06:26 PM UTC | <a href="/categories/cosmology.html">Cosmology</a>
+            </span>
+          </div>
+
+          <a href="/articles/mapping-the-universes-largest-objects">
+            
+              <img src="/article_images/1085px-An_Intergalactic_Heavyweight_20251028_182617.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A team of scientists has released a new survey mapping massive galaxy clusters, some of the largest structures in the universe, to test whether our fundamental understanding of the laws of the universe need revision. The analysis, using six years of Dark Energy Survey data, addresses an ongoing debate about whether the universe has more structure than our best models predict, ultimately reinforcing that our current rules remain accurate while demonstrating that galaxy clusters provide a powerful independent method for probing the universe's deepest mysteries.
+            
+          </div>
+
+          <a href="/articles/mapping-the-universes-largest-objects" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-hidden-gas-that-builds-stars">The Hidden Gas That Builds Stars</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 28, 2025 06:15 PM UTC | <a href="/categories/stars.html">Stars</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-hidden-gas-that-builds-stars">
+            
+              <img src="/article_images/1009px-LH_95_20251028_181449.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astronomers have created the first large scale map of dark molecular gas in the Milky Way, revealing vast networks of invisible star forming material that have so far have remained undetected. Using the Green Bank Radio Telescope to observe faint signals from carbon, the research team has finally started to uncover one of astronomy's biggest mysteries. Their discovery uncovers turbulent flows of gas moving faster than expected and show how raw galactic matter transforms into the molecular clouds where stars are born.
+            
+          </div>
+
+          <a href="/articles/the-hidden-gas-that-builds-stars" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/building-homes-beyond-earth">Building Homes Beyond Earth</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 28, 2025 06:06 PM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/building-homes-beyond-earth">
+            
+              <img src="/article_images/Saturn_V_launches_20251028_180603.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A new study has reviewed how space habitat designs have evolved from inflatable bubbles to 3D-printed structures built from Martian dust. The research traces how engineers have wrestled with extreme temperatures, the bombardment of radiation, and the challenge of building on worlds without breathable air, transforming each obstacle into solved problems with innovative ideas and designs that could soon house the first permanent residents of the Moon and Mars.
+            
+          </div>
+
+          <a href="/articles/building-homes-beyond-earth" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/spying-interstellar-comet-3iatlas-near-perihelion">Spying Interstellar Comet 3I/ATLAS Near Perihelion</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/david-dickinson.html">David Dickinson</a> - October 28, 2025 05:30 PM UTC | <a href="/categories/observing.html">Observing</a>
+            </span>
+          </div>
+
+          <a href="/articles/spying-interstellar-comet-3iatlas-near-perihelion">
+            
+              <img src="/article_images/Screenshot_2025-10-28_124658_20251028_165401.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Everyone’s favorite interstellar comet 3I/ATLAS isn’t really hiding near perihelion this week, as amateur astronomers reveal. Don’t believe the breathless ballyhoo that you’re currently reading around the web about interstellar Comet 3I/ATLAS. In a clockwork Universe, comets are the big wildcard, and interstellar comets doubly so. This particular comet is scientifically interesting enough in its own right, no alien interlopers needed.
+            
+          </div>
+
+          <a href="/articles/spying-interstellar-comet-3iatlas-near-perihelion" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/fifty-years-of-dark-matter">Fifty Years of Dark Matter</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/pmsutter.html">Paul Sutter</a> - October 28, 2025 04:58 PM UTC | <a href="/categories/physics.html">Physics</a>
+            </span>
+          </div>
+
+          <a href="/articles/fifty-years-of-dark-matter">
+            
+              <img src="/article_images/176699main_image_feature_827_ys_full_20251028_165714.webp" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              In the 1970’s Vera Rubin didn’t set out to upend modern cosmology.
+            
+          </div>
+
+          <a href="/articles/fifty-years-of-dark-matter" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/many-asteroid-rotations-are-chaotic-a-new-model-helps-explain-them">Many Asteroid Rotations Are Chaotic. A New Model Helps Explain Them.</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 28, 2025 11:37 AM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/many-asteroid-rotations-are-chaotic-a-new-model-helps-explain-them">
+            
+              <img src="/article_images/didymos-dimorphos_true_orientation_20251028_222923.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Asteroids spin. Most of them do so rather slowly, and up until now most theories of asteroid rotation have failed to explain exactly why. A new paper from Wen-Han Zhou at the University of Tokyo and his co-authors might finally be able to fully explain that mystery as well as a few others related to asteroid rotation. Their work was presented at the Joint Meeting of the Europlanet Science Congress and the American Astronomical Society’s Division for Planetary Science in late September and could impact our understanding of how best to defend against a potentially hazardous asteroid.
+            
+          </div>
+
+          <a href="/articles/many-asteroid-rotations-are-chaotic-a-new-model-helps-explain-them" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/spectral-biosignatures-of-airborne-microbes-in-planetary-atmospheres">Spectral Biosignatures of Airborne Microbes in Planetary Atmospheres</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 28, 2025 05:06 AM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/spectral-biosignatures-of-airborne-microbes-in-planetary-atmospheres">
+            
+              <img src="/article_images/Trappist-1e-artist-rendering_750_20251028_050654.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Could scientists find life in the clouds of exoplanet atmospheres? This is what a recently submitted manuscript hopes to address as a team of researchers investigated how the biosignatures of microbes could be identified in exoplanet atmospheres and clouds. This study has the potential to help scientists develop new methods for finding life on exoplanets, either as we know it or even as we don’t know it.
+            
+          </div>
+
+          <a href="/articles/spectral-biosignatures-of-airborne-microbes-in-planetary-atmospheres" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/scientists-discover-ingredients-for-life-just-beyond-our-galaxy">Scientists Discover Ingredients for Life Just Beyond our Galaxy</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - October 27, 2025 10:02 PM UTC | <a href="/categories/astrobiology.html">Astrobiology</a>
+            </span>
+          </div>
+
+          <a href="/articles/scientists-discover-ingredients-for-life-just-beyond-our-galaxy">
+            
+              <img src="/article_images/original_20250726_184644_20251027_224424.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A team led by a University of Maryland astronomer detected large complex organic molecules in ices outside of the Milky Way for the first time, offering a glimpse into the chemistry of the early universe.
+            
+          </div>
+
+          <a href="/articles/scientists-discover-ingredients-for-life-just-beyond-our-galaxy" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-cosmic-microwave-background-is-a-wall-of-light-heres-how-we-might-see-beyond-it">The Cosmic Microwave Background is a Wall of Light. Here&#39;s How We Might See Beyond It</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/brian.html">Brian Koberlein</a> - October 27, 2025 04:52 PM UTC | <a href="/categories/cosmology.html">Cosmology</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-cosmic-microwave-background-is-a-wall-of-light-heres-how-we-might-see-beyond-it">
+            
+              <img src="/article_images/timeline_20251027_165004.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              We cannot see directly beyond the cosmic microwave background, which means we can't directly observe the first 380,000 years of the Universe. But there are indirect ways we might observe this period.
+            
+          </div>
+
+          <a href="/articles/the-cosmic-microwave-background-is-a-wall-of-light-heres-how-we-might-see-beyond-it" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-quest-for-corrosion-proof-satellites">The Quest for Corrosion Proof Satellites</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 27, 2025 08:42 AM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-quest-for-corrosion-proof-satellites">
+            
+              <img src="/article_images/Two_3U_CubeSats_20251027_084046.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Satellites orbiting Earth face a constant assault from highly reactive single atom of oxygen which are created when solar radiation splits oxygen molecules in the upper atmosphere. These atoms don't just create drag that pulls spacecraft back to Earth, they also bind to satellite surfaces, causing corrosion that limits most satellites to roughly five year lifespans. A team of engineers at the University of Texas at Dallas have been developing a protective coating using techniques borrowed from microelectronics and optical manufacturing to counter the effects. The process the team have developed enables satellites to withstand conditions even harsher than those found in space. If successful, this coating could not only extend satellite lifetimes but enable spacecraft to operate in very low Earth orbit, a region currently too hostile for most missions.
+            
+          </div>
+
+          <a href="/articles/the-quest-for-corrosion-proof-satellites" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/a-fibre-optic-breakthrough-reveals-the-universe-in-sharper-detail">A Fibre Optic Breakthrough Reveals the Universe in Sharper Detail</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 27, 2025 08:28 AM UTC
+            </span>
+          </div>
+
+          <a href="/articles/a-fibre-optic-breakthrough-reveals-the-universe-in-sharper-detail">
+            
+              <img src="/article_images/asymmetric-disc-around-b-cmi_copy_20251027_082809.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astronomers have discovered a clever way to make a single telescope capture sharper details than should be physically possible. The technique involves feeding starlight through a special optical fibre called a photonic lantern. Anyone else thinking of a certain glowing green lantern from a movie? Alas not, instead of special powers, it splits light according to its spatial patterns like separating a musical chords into individual notes. The researchers achieved resolution that has never been achieved before without linking multiple telescopes together. When they tested the technique on a star 162 light-years away, they not only proved it works but stumbled upon an unexpected discovery, that the star's surrounding gas disc is mysteriously lopsided.
+            
+          </div>
+
+          <a href="/articles/a-fibre-optic-breakthrough-reveals-the-universe-in-sharper-detail" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/the-tycho-supernovas-hidden-secret">The Tycho Supernova&#39;s Hidden Secret</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/mark.html">Mark Thompson</a> - October 27, 2025 01:33 AM UTC | <a href="/categories/stars.html">Stars</a>
+            </span>
+          </div>
+
+          <a href="/articles/the-tycho-supernovas-hidden-secret">
+            
+              <img src="/article_images/1080px-Tycho-supernova-xray_20251027_012854.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The famous Tycho supernova of 1572, witnessed by Danish astronomer Tycho Brahe, didn't explode in empty space as has been assumed. New analysis reveals it detonated inside a planetary nebula, the ghostly shell of gas expelled by an earlier dying star. The evidence lies in two "ear" shaped structures that were sticking out from the remnant's main shell, matching similar features in three other supernovae previously identified as explosions within planetary nebulae. This discovery supports the "core-degenerate" model where a white dwarf star merges with a companion star's core, with the explosion occurring hundreds of thousands of years later while the nebula remains intact. Most strikingly, if Tycho follows this pattern, it suggests that 70-90% of normal Type Ia supernovae may actually be supernovae inside planetary nebulae!
+            
+          </div>
+
+          <a href="/articles/the-tycho-supernovas-hidden-secret" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/galactic-empires-may-live-at-the-center-of-our-galaxy-hence-why-we-dont-hear-from-them">Galactic Empires May Live at the Center of our Galaxy, Hence Why We Don&#39;t Hear from Them</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - October 26, 2025 01:57 AM UTC | <a href="/categories/uncategorized.html">Uncategorized</a>
+            </span>
+          </div>
+
+          <a href="/articles/galactic-empires-may-live-at-the-center-of-our-galaxy-hence-why-we-dont-hear-from-them">
+            
+              <img src="/article_images/12116_20251026_003244.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              In a recent paper, a team of researchers proposes how humanity may someday relocate its entire civilization near the center of our galaxy to take advantage of the relativistic effects of the supermassive black hole there. They also indicate how other advanced civilizations could have done so already.
+            
+          </div>
+
+          <a href="/articles/galactic-empires-may-live-at-the-center-of-our-galaxy-hence-why-we-dont-hear-from-them" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/ai-learns-to-identify-exploding-stars-with-just-15-examples">AI Learns to Identify Exploding Stars with Just 15 Examples</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/laurencetognetti.html">Laurence Tognetti, MSc</a> - October 26, 2025 12:59 AM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/ai-learns-to-identify-exploding-stars-with-just-15-examples">
+            
+              <img src="/article_images/Low-Res_Gemini_Pipeline_20251026_005956.png" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              How can artificial intelligence (AI) help astronomers identify celestial objects in the night sky? This is what a recent study published in Nature Astronomy hopes to address as an international team of researchers investigated the potential for using AI to conduct astrophysical surveys of celestial events, including black holes consuming stars or even exploding stars themselves. This study has the potential to help astronomers use AI to enhance the field by reducing time and resources that have traditionally been used to scan the night sky.
+            
+          </div>
+
+          <a href="/articles/ai-learns-to-identify-exploding-stars-with-just-15-examples" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/chinas-zhuque-3-reusable-rocket-passes-key-milestone">China&#39;s Zhuque-3 Reusable Rocket Passes Key Milestone</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/houseofwilliams.html">Matthew Williams</a> - October 24, 2025 06:56 PM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/chinas-zhuque-3-reusable-rocket-passes-key-milestone">
+            
+              <img src="/article_images/KDzjcBvgKuNJDYEDiNXZ8T-1080-80.jpg_20251024_182932.webp" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              On Monday, Chinese company LandSpace executed a static-fire test with its 217-foot-tall Zhuque-3, a reusable rocket that China hopes will rival SpaceX. The rocket is on the way to its inaugural test flight expected at some point later this year.
+            
+          </div>
+
+          <a href="/articles/chinas-zhuque-3-reusable-rocket-passes-key-milestone" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/this-new-super-earth-may-have-liquid-water-and-its-in-our-neighbourhood">This New Super Earth May Have Liquid Water And It&#39;s In Our Neighbourhood</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/ion23drive.html">Evan Gough</a> - October 24, 2025 06:34 PM UTC | <a href="/categories/exoplanets.html">Exoplanets</a>
+            </span>
+          </div>
+
+          <a href="/articles/this-new-super-earth-may-have-liquid-water-and-its-in-our-neighbourhood">
+            
+              <img src="/article_images/planet-sized-uci_20251023_212248.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Astronomers have found a new super-Earth only about 20 light years away. At that distance, it's a candidate for direct imaging.
+            
+          </div>
+
+          <a href="/articles/this-new-super-earth-may-have-liquid-water-and-its-in-our-neighbourhood" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/xrism-catches-a-pulsars-cosmic-windand-sees-a-surprising-result">XRISM Catches a Pulsar’s Cosmic Wind...and Sees a Surprising Result</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/david-dickinson.html">David Dickinson</a> - October 24, 2025 01:35 PM UTC | <a href="/categories/black-holes.html">Black Holes</a>
+            </span>
+          </div>
+
+          <a href="/articles/xrism-catches-a-pulsars-cosmic-windand-sees-a-surprising-result">
+            
+              <img src="/article_images/Low-Res_2025_XRISM_GX13_winds_V8_20251023_164645.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              The Universe is a strange place. The X-Ray Imaging and Spectroscopy Mission (XRISM) orbiting observatory recently highlighted this fact, when it was turned on a pulsar to document its powerful cosmic winds. 
+The discovery comes courtesy of ESA’s Resolve instrument, a soft X-ray spectrometer aboard XRISM. The study looked at neutron star GX 13+1. This is a strong X-ray source located in the constellation Sagittarius, very near the galactic plane towards the core of our galaxy. GX 13+1 is about 23,000 light-years distant.
+            
+          </div>
+
+          <a href="/articles/xrism-catches-a-pulsars-cosmic-windand-sees-a-surprising-result" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/teach-and-repeat-driving-could-automate-lunar-cargo-delivery">Teach-And-Repeat Driving Could Automate Lunar Cargo Delivery</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 24, 2025 09:46 AM UTC | <a href="/categories/space-exploration.html">Space Exploration</a>
+            </span>
+          </div>
+
+          <a href="/articles/teach-and-repeat-driving-could-automate-lunar-cargo-delivery">
+            
+              <img src="/article_images/researchers-autonomous_20251021_114212.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Driving on the Moon for the first time has got to be an exhilarating experience. But driving the same path on the Moon for the 500th time probably won’t be nearly as exciting to whatever poor astronaut got stuck with that duty for the day. With that in mind, a team of researchers led by PhD student Alec Krawciw and Professor Tim Barfoot of the University of Toronto are working on a way to automate the mundane task of driving goods back and forth from a lunar landing site to a nascent lunar exploration base.
+            
+          </div>
+
+          <a href="/articles/teach-and-repeat-driving-could-automate-lunar-cargo-delivery" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/are-we-in-the-solitude-zone-of-the-universe">Are We In The Solitude Zone Of The Universe?</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 24, 2025 09:45 AM UTC | <a href="/categories/astrobiology.html">Astrobiology</a>
+            </span>
+          </div>
+
+          <a href="/articles/are-we-in-the-solitude-zone-of-the-universe">
+            
+              <img src="/article_images/VLA-MilkyWay_NIK_1051_20251021_110423.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Are we alone? It’s probably one of the, if not the most basic questions of human existence. People have been trying to answer it for millennia in one form or another, but only recently have we gained the tools and knowledge to start tractably trying to estimate whether we are or not. Those efforts take the form of famous tools like the Fermi Paradox and the Drake Equation, but there’s always room for a more nuanced understanding. A new paper in Acta Astronautica from Antal Veres of the Hungarian University of Agriculture introduces a new one - The Solitude Zone.
+            
+          </div>
+
+          <a href="/articles/are-we-in-the-solitude-zone-of-the-universe" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/esa-is-simulating-a-solar-storms-for-satellite-operator-training">ESA Is Simulating A Solar Storms For Satellite Operator Training</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/andy-tomaswick.html">Andy Tomaswick</a> - October 24, 2025 12:44 AM UTC | <a href="/categories/solar-astronomy.html">Solar Astronomy</a>
+            </span>
+          </div>
+
+          <a href="/articles/esa-is-simulating-a-solar-storms-for-satellite-operator-training">
+            
+              <img src="/article_images/Solar_flare_seen_by_Solar_Orbiter_article_20251020_161040.gif" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              Threats from space aren’t always obvious, but statistically its only a matter of time before one of them happens. One of the most concerning for many space experts is a massive solar storm, like the one that literally lit telegraph paper on fire when it hit back in 1859. In the last 150 years our technology has improved by leaps and bounds, but that also means it's much more susceptible to damage if another event like the “Carrington Event”, as the storm in 1859 is called. Estimates for potential damage range into the trillions of dollars, with full economic recovery taking well over a decade if something isn’t done to mitigate the damage beforehand. As part of that preparedness, the European Space Agency (ESA) has started requiring the operational crew of new satellites, which would be on the frontlines of any solar storm catastrophe, to simulate how they would handle such an event, as described in a recent press release focused on one of those simulations.
+            
+          </div>
+
+          <a href="/articles/esa-is-simulating-a-solar-storms-for-satellite-operator-training" class="read-more">Continue reading</a>
+        </article>
+      
+        <article class="article-card">
+          <h2 class="card-title">
+            <a href="/articles/phosphorus-prepared-earth-for-complex-life-and-could-be-a-valuable-biosignature">Phosphorus Prepared Earth For Complex Life And Could Be A Valuable Biosignature</a>
+          </h2>
+
+          <div class="card-meta">
+            <span>
+              By <a href="/authors/ion23drive.html">Evan Gough</a> - October 23, 2025 06:20 PM UTC | <a href="/categories/planetary-science.html">Planetary Science</a>
+            </span>
+          </div>
+
+          <a href="/articles/phosphorus-prepared-earth-for-complex-life-and-could-be-a-valuable-biosignature">
+            
+              <img src="/article_images/Earth_30_year_comparison_pillars_2_20251023_160058.jpg" alt="" class="featured-image">
+            
+          </a>
+
+          <div class="card-excerpt">
+            
+              A new study has revealed how phosphorus, a nutrient essential for photosynthesis, surged into ancient oceans and started Earth's first major rise in atmospheric oxygen more than 2 billion years ago.
+            
+          </div>
+
+          <a href="/articles/phosphorus-prepared-earth-for-complex-life-and-could-be-a-valuable-biosignature" class="read-more">Continue reading</a>
+        </article>
+      
+    </div>
+    
+    
+    <!-- Pagination Navigation -->
+    <nav class="pagination">
+      <div class="pagination-info">
+        Page 1 of 583 pages
+      </div>
+      
+      <div class="pagination-nav">
+        
+          <span class="pagination-disabled">← Previous Page</span>
+        
+        
+        <span class="pagination-separator">|</span>
+        
+        
+          <a href="/page/2" class="pagination-link">
+            Next Page →
+          </a>
+        
+      </div>
+    </nav>
+    
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-content">
+      <div>
+        <p>&copy; 2025 Universe Today</p>
+        <p>A space and astronomy news site</p>
+      </div>
+      <div>
+        <p>Support our ad-free content</p>
+        <a href="https://www.patreon.com/universetoday" class="support-link">Become a Patron</a>
+      </div>
+    </div>
+    
+    <!-- Footer Navigation -->
+    <div class="footer-navigation">
+      <a href="/contact-us">Contact Us</a>
+      <a href="/privacy-policy">Privacy Policy</a>
+    </div>
+    
+    <!-- Creative Commons License Notice -->
+    <div class="cc-license">
+      <p>This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

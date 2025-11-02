@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Redoubtable Pali Avramapul by Victoria Goddard"
 date: 2022-10-30
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952480i/61127243.jpg
+img: posts/20221030/61127243.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952480i/61127243.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652952480i/61127243.jpg)After learning of a delay to **At the Feet of the Sun** and at my friend's recommendation, I went ahead and picked up this book set in the same universe. We had already met Pali in prior novels so this was a chance to get to see her in more detail and see more about the various adventures of the Red Company. Here is the Goodreads blurb:
+[![](assets/img/posts/20221030/61127243.jpg)](assets/img/posts/20221030/61127243.jpg)After learning of a delay to **At the Feet of the Sun** and at my friend's recommendation, I went ahead and picked up this book set in the same universe. We had already met Pali in prior novels so this was a chance to get to see her in more detail and see more about the various adventures of the Red Company. Here is the Goodreads blurb:
 
 _Before the Fall of the Empire of Astandalas, the Red Company was legendary. A dozen or so years after that cataclysm, they have almost faded into myth._
 

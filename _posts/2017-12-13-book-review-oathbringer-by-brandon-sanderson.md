@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Oathbringer by Brandon Sanderson"
 date: 2017-12-13
-img: https://images.gr-assets.com/books/1501016268l/34039808.jpg
+img: posts/20171213/34039808.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1501016268l/34039808.jpg)](https://images.gr-assets.com/books/1501016268l/34039808.jpg)
+[![](assets/img/posts/20171213/34039808.jpg)](assets/img/posts/20171213/34039808.jpg)
 
 The highly anticipated continuation of **The Stormlight Archive** is here with **Oathbringer**. As a fan of Sanderson and his Stormlight series, I've been re-reading the prior books and came to this one with anticipation and high hopes.  
   
@@ -29,7 +29,7 @@ A key aspect of the Archive novels to date has been the exploration of a single 
 Sanderson pushes himself in this book by tackling a variety of social themes. Most notably is probably the aspect of oppression, discrimination, and slavery. In some cases he does very well, but in others he falls a bit flat. Sanderson has tried this in the past, with lighteyes and darkeyes, and he continues it here with humans and parshemen, but his focus is almost entirely on humans. He's no N.K. Jemisin, but it's good to see he's continuing to grow a broader perspective in this series. Another aspect that comes through a bit better, though, are various character's struggles through alcoholism and drug abuse. It's rare to see such heavy themes associated with Sanderson and I think he pulled them off decently.  
   
 **Setting / World Building**  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hoye1uvoLvwh2gQShXaVnR_Ju1UFQyiG2TbkZtcyeB8f4mqmBQgfuhfib4Z9cruX6I5Ef-so9d5XvoGiV5rL0-KqrWcRARziqmpZF9xwhk3EoJcnqdgb7g6X5to6kd44mlGa6cU88qQ/s320/OB_NAVANI-WATCHES_ebook.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hoye1uvoLvwh2gQShXaVnR_Ju1UFQyiG2TbkZtcyeB8f4mqmBQgfuhfib4Z9cruX6I5Ef-so9d5XvoGiV5rL0-KqrWcRARziqmpZF9xwhk3EoJcnqdgb7g6X5to6kd44mlGa6cU88qQ/s1600/OB_NAVANI-WATCHES_ebook.jpg)  
+[![](assets/img/posts/20171213/OB_NAVANI-WATCHES_ebook.jpg)](assets/img/posts/20171213/OB_NAVANI-WATCHES_ebook_1.jpg)  
 ---  
 One of many illustrations throughout the book.  
 Sanderson has always excelled at world building and this is some of his finest work. Not only are we seeing more and more of Roshar thanks to the Oathgates and the growing cast of characters, this book also has for more overt connections to the rest of the Cosmere- the universe that connects many of Sanderson's works. In the prior novel, **[Words of Radiance](https://strakul.blogspot.com/2014/03/book-review-words-of-radiance-by.html)** , we saw at the very end the Nightblood, the talking sword from **[Warbreaker](https://strakul.blogspot.com/2014/04/book-review-warbreaker-by-brandon.html)**. This re-appears in this novel and the sword will frequently mention names from **[Warbreaker](https://strakul.blogspot.com/2014/04/book-review-warbreaker-by-brandon.html)**. There's always a bit of text at the start of each chapter and in one part of the novel this appears to also allude to the Cosmere.  

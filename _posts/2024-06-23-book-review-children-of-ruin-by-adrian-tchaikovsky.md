@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Children of Ruin by Adrian Tchaikovsky"
 date: 2024-06-23
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654469390i/41742154.jpg
+img: posts/20240623/41742154.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654469390i/41742154.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654469390i/41742154.jpg)
+[![](assets/img/posts/20240623/41742154.jpg)](assets/img/posts/20240623/41742154.jpg)
 
 This is the sequel to [Children of Time](https://strakul.blogspot.com/2024/06/book-review-children-of-time-by-adrian.html) and I just had to read it after enjoying that one so much. Here's the Goodreads blurb:
 

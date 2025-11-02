@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2014"
 date: 2014-12-31
-img: https://d202m5krfqbpi5.cloudfront.net/books/1391535272l/20150777.jpg
+img: posts/20141231/20150777.jpg
 tags: [Books, Favorite Books]
 category: Books
 author: Strakul
@@ -37,6 +37,6 @@ Despite not being a novel, this short story was such an amazing read I felt it d
   
 
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1391535272l/20150777.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1391535272l/20150777.jpg)
+[![](assets/img/posts/20140313/20150777.jpg)](assets/img/posts/20140313/20150777.jpg)
 
 Sanderson is one of my favorite authors so it's no surprise to see him again at the top of the list this year. **Words of Radiance** is the sequel to **The Way of Kings** and an excellent addition to **The Stormlight Archive** series. The scope, the characters, the magic, the illustrations, practically everything about this book is of exquisite quality. At over a thousand pages, it is also deliciously long, providing hours and hours of enjoyment. **The Stormlight Archive** books are some of the few I've read that upon finishing I immediately wanted to re-read. Even re-reading my blog review made me want to re-read the book itself! 

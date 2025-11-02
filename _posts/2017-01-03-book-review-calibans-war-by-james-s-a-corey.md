@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Caliban's War by James S. A. Corey"
 date: 2017-01-03
-img: https://images.gr-assets.com/books/1372695497l/18142735.jpg
+img: posts/20170103/18142735.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1372695497l/18142735.jpg)](https://images.gr-assets.com/books/1372695497l/18142735.jpg)
+[![](assets/img/posts/20170103/18142735.jpg)](assets/img/posts/20170103/18142735.jpg)
 
 I follow several authors on Twitter and Daniel Abraham, one half of James S. A. Corey, is one of them (the other half being Ty Frank). As such, I've been hearing a lot of news from him (and other sources) about the second season of **The Expanse** on SyFy. This book series was converted to a television show and has done very well. I saw a few episodes and hope to catch up this year; as such, I decided to continue reading the series to make sure I've read it before watching it. And so, here's my review of **Caliban's War** , the second book in the series.  
   

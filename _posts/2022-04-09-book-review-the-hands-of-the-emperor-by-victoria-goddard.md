@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Hands of the Emperor by Victoria Goddard"
 date: 2022-04-09
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547081914l/43525897._SY475_.jpg
+img: posts/20220409/43525897._SY475_.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547081914l/43525897._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547081914l/43525897._SY475_.jpg)
+[![](assets/img/posts/20220409/43525897._SY475_.jpg)](assets/img/posts/20220409/43525897._SY475_.jpg)
 
 This book came highly recommended from a good friend of mine and caught me at a good time when I wanted to try something new. I had heard about it, but hadn't really committed to reading it. I am glad I did. Here's the Goodreads blurb for some context:
 

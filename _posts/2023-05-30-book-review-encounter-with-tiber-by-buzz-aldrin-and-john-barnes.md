@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Encounter with Tiber by Buzz Aldrin and John Barnes"
 date: 2023-05-30
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlpu4_6X-tzXxQ40cuSrwUmqj3qpWowpKlW2r3z-pAAW0Bdh8BEh3a13wxTU6SmYGToWUnTpm1jk26lJmhF8hD240nBIsfAKIueZF5tDMGa4YXTZS6V0H-faDnoA72bNIM8f8SMO9fWpyvXPLNnR6hgKNY_ZG1waAuXe9BeM-ueTjQ3CMBN0xQkEvN/s320/Encounter_with_Tiber.jpg
+img: posts/20230530/Encounter_with_Tiber_1.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlpu4_6X-tzXxQ40cuSrwUmqj3qpWowpKlW2r3z-pAAW0Bdh8BEh3a13wxTU6SmYGToWUnTpm1jk26lJmhF8hD240nBIsfAKIueZF5tDMGa4YXTZS6V0H-faDnoA72bNIM8f8SMO9fWpyvXPLNnR6hgKNY_ZG1waAuXe9BeM-ueTjQ3CMBN0xQkEvN/s320/Encounter_with_Tiber.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlpu4_6X-tzXxQ40cuSrwUmqj3qpWowpKlW2r3z-pAAW0Bdh8BEh3a13wxTU6SmYGToWUnTpm1jk26lJmhF8hD240nBIsfAKIueZF5tDMGa4YXTZS6V0H-faDnoA72bNIM8f8SMO9fWpyvXPLNnR6hgKNY_ZG1waAuXe9BeM-ueTjQ3CMBN0xQkEvN/s390/Encounter_with_Tiber.jpg)
+[![](assets/img/posts/20230530/Encounter_with_Tiber_1.jpg)](assets/img/posts/20230530/Encounter_with_Tiber.jpg)
 
 I was recommended this book because it was about space travel and by a famous astronaut. I hadn't heard about it before, but the premise sounded interesting and figured I'd give it a try. It ended up being pretty good. Here's a short blurb:
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Man in the High Castle by Phillip K Dick"
 date: 2016-11-02
-img: https://images.gr-assets.com/books/1474045271l/32060479.jpg
+img: posts/20161102/32060479.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1474045271l/32060479.jpg)](https://images.gr-assets.com/books/1474045271l/32060479.jpg)
+[![](assets/img/posts/20161102/32060479.jpg)](assets/img/posts/20161102/32060479.jpg)
 
 Some time ago, I remember seeing the controversy about subway ads depicting Nazi symbols in New York. This was for the upcoming Amazon series **The Man in the High Castle** , based on the book by Phillip K Dick. This came around the same time as a video game release with similar World War II themes (Hearts of Iron IV, which I bought). I was interested in the TV series premise, an alternate history where the Axis won, and eventually got a chance to watch it and bought the book.  
   

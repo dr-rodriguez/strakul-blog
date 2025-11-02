@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Kingdom of Gods by N.K. Jemisin"
 date: 2012-02-07
-img: http://nkjemisin.com/wp-content/uploads/2010/08/KINGDOM-OF-GODS-final.jpg
+img: posts/20120207/KINGDOM-OF-GODS-final.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](http://nkjemisin.com/wp-content/uploads/2010/08/KINGDOM-OF-GODS-final.jpg)](http://nkjemisin.com/wp-content/uploads/2010/08/KINGDOM-OF-GODS-final.jpg)
+[![](assets/img/posts/20120207/KINGDOM-OF-GODS-final.jpg)](assets/img/posts/20120207/KINGDOM-OF-GODS-final.jpg)
 
 This is the third and final book in the Inheritance Trilogy by N.K. Jemisin. The first book, **The Hundred Thousand Kingdoms** , was very cool, particularly for the concept- this is a world with gods and men, but with a twist: men have chained the gods to do their bidding and have used them as weapons. What a way to turn upside-down a familiar genre trope!  
   

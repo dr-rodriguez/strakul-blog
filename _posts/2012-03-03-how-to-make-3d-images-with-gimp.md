@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "How to Make 3D Images with GIMP"
 date: 2012-03-03
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0DIvKzUi_7Q5ILPOWw8iW1ifB3vpEeM_qNFynmowQT_JbQOSjCGw6TWkzz6qandmwqTvlCDsHZGnL7ZggPpQ0Qi6Shz3UA-ZklJk-w7kVHq_Pmw3KMdNtPeJ9LmwayBz8UNA69AOFlA/s400/jt07_3d.png
+img: posts/20120303/jt07_3d_1.png
 tags: [Misc, Pictures]
 category: Misc
 author: Strakul
@@ -33,7 +33,7 @@ Let's consider you have one camera only, like I do. You take image 1, then you s
 
 Here are two such frames I've taken. I've placed them side by side for two reasons. One is so you can compare them. The other is that by displaying these images side by side and crossing your eyes you can see a 3D image and can check that everything is fine. It takes a bit of practice to learn how much to cross your eyes. You basically want to see 3 images, the one at the center will be the combination of both of them and will have the added depth perspective. Remember that you can click these images to see them larger.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0DIvKzUi_7Q5ILPOWw8iW1ifB3vpEeM_qNFynmowQT_JbQOSjCGw6TWkzz6qandmwqTvlCDsHZGnL7ZggPpQ0Qi6Shz3UA-ZklJk-w7kVHq_Pmw3KMdNtPeJ9LmwayBz8UNA69AOFlA/s400/jt07_3d.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU0DIvKzUi_7Q5ILPOWw8iW1ifB3vpEeM_qNFynmowQT_JbQOSjCGw6TWkzz6qandmwqTvlCDsHZGnL7ZggPpQ0Qi6Shz3UA-ZklJk-w7kVHq_Pmw3KMdNtPeJ9LmwayBz8UNA69AOFlA/s1600/jt07_3d.png)
+[![](assets/img/posts/20120303/jt07_3d_1.png)](assets/img/posts/20120303/jt07_3d.png)
 
   
 
@@ -71,7 +71,7 @@ Set a new foreground color to FF0000; this is red. Make a new layer and select t
 
 Move the layers so that you have them in this order: Cyan, Image 2, Red, Image 1. Image 1 is the left-hand image I have above and Image 2 is the right-hand image. It is very important to get this right otherwise you will need to flip your red/blue glasses backwards (your left eye should see the red image). Activate only the Cyan and Image 2 layers (ie, hide the other two). I do this by clicking the eye symbols on the Layers Dialog window. Merge those two layers (Image -> Merge Visible Layers) and set the mode to Multiply. Now activate all layers and look at the result:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqhfMYDpwuxSVnywHeJlqUDSsgApz4lLwCOUw2MzyEsuZzH5ogdHWXX2fkFfxWlN-gBtv88hfX8Sgc7xbRvmVu0c6hI2HiV_zNmc15wkZZNjNsXpLQZ3ZAg9gfxZZg3gnk6khHutLEUz4/s400/raw1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqhfMYDpwuxSVnywHeJlqUDSsgApz4lLwCOUw2MzyEsuZzH5ogdHWXX2fkFfxWlN-gBtv88hfX8Sgc7xbRvmVu0c6hI2HiV_zNmc15wkZZNjNsXpLQZ3ZAg9gfxZZg3gnk6khHutLEUz4/s1600/raw1.png)
+[![](assets/img/posts/20120303/raw1.png)](assets/img/posts/20120303/raw1_1.png)
 
   
 
@@ -85,7 +85,7 @@ That works, but I personally don't like it. The shift is a little bit too large,
 
 With the cyan-merged frame selected, use the Move tool to tweak the image until getting a desirable result. You may also find that you need to apply a small rotation. I personally like distant objects to be neutral (ie, no red/cyan on their edges). However, that may cause some of the foreground material to be too far shifted. You want to hit a balance such that things don't appear too close or your eyes will have trouble seeing details. Here I aim for such a balance and crop out some of the edges:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBLno4IudoupciD3d9OnHukb8iRpThIMvRt_bpNFoOdd2KL9MZpZB6WqlBzYy7o59o4MACW72xkm1Bx53TJMZCoDtq4jlf8m0WPx_Zebj8jlhPNITTHEj4TmWLvfEl1tD17EaYz-7XAuA/s640/jt07.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBLno4IudoupciD3d9OnHukb8iRpThIMvRt_bpNFoOdd2KL9MZpZB6WqlBzYy7o59o4MACW72xkm1Bx53TJMZCoDtq4jlf8m0WPx_Zebj8jlhPNITTHEj4TmWLvfEl1tD17EaYz-7XAuA/s1600/jt07.png)
+[![](assets/img/posts/20120303/jt07_1.png)](assets/img/posts/20120303/jt07.png)
 
   
 This is the version I'm happy with and so I save it as a PNG or any other format I prefer.
@@ -112,18 +112,18 @@ Common pitfalls to avoid:
 
   
 A few anaglyphs I've made are displayed below for your viewing pleasure, more can be found [here](https://picasaweb.google.com/107352926946754821853):  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iDLvXCZTGBZugBrGuPUuP2OVTfUgbXgRQI7ECvJATLsuo5HJAIsCqrFlyC7NXyAEJRiL5CvGQRuTc568tlyhPptc0c5JGbyKVZeO4Oq6mUBaS-ncSTimGC36u_CSVWLSxNgm-wOcbyk/s400/kpno01.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_iDLvXCZTGBZugBrGuPUuP2OVTfUgbXgRQI7ECvJATLsuo5HJAIsCqrFlyC7NXyAEJRiL5CvGQRuTc568tlyhPptc0c5JGbyKVZeO4Oq6mUBaS-ncSTimGC36u_CSVWLSxNgm-wOcbyk/s1600/kpno01.png)  
+[![](assets/img/posts/20120303/kpno01_1.png)](assets/img/posts/20120303/kpno01.png)  
 ---  
 The Kitt Peak National Observatory (KPNO)  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0IknH22sv1ampnGWMx47_pL4iUARTu1BW5F6Zv-i4eTZ5DOtHe0M5iulhmr970hDILdQtmPIdnfE1gZqzvb9URsDeyRJjtwAKHUOGZoOYXC2ugQ61iuS-9dgatIhJdT1uBIxh4dO0XLY/s400/3meter_an.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0IknH22sv1ampnGWMx47_pL4iUARTu1BW5F6Zv-i4eTZ5DOtHe0M5iulhmr970hDILdQtmPIdnfE1gZqzvb9URsDeyRJjtwAKHUOGZoOYXC2ugQ61iuS-9dgatIhJdT1uBIxh4dO0XLY/s1600/3meter_an.jpg)  
+[![](assets/img/posts/20120303/3meter_an_1.jpg)](assets/img/posts/20120303/3meter_an.jpg)  
 ---  
 The Shane 3-m telescope at Lick Observatory  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfAbLpxfG3RN6Np50ZfLVmj9HpcKZ-mzfo6EHf9N2Bh77yHYwdJVoE87xlNRggjhhDmjKewv8KrenDkHsMdq-MXNyBmGh380g1VDzX34hsFe6FmF2BbFVhXHmJKsoLqaiwC9J3gtjyN4/s400/mnh01.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfAbLpxfG3RN6Np50ZfLVmj9HpcKZ-mzfo6EHf9N2Bh77yHYwdJVoE87xlNRggjhhDmjKewv8KrenDkHsMdq-MXNyBmGh380g1VDzX34hsFe6FmF2BbFVhXHmJKsoLqaiwC9J3gtjyN4/s1600/mnh01.png)  
+[![](assets/img/posts/20120303/mnh01.png)](assets/img/posts/20120303/mnh01_1.png)  
 ---  
 Camptosaurus at the Museum of Natural History in Los Angeles  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9n3-z0KybZgA_Yq0Ad0sEay7X1sckbftXaCPFVacsjEUaCddjM_tyouJh4Tb4sYvk4DIGagW3SSBD5oQrGoC1hI6HFLGBj5a61_-PwRFWMXZcSngkjB-ntq5ncAtAJCCYYXKwoL50yc/s400/ctio14.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia9n3-z0KybZgA_Yq0Ad0sEay7X1sckbftXaCPFVacsjEUaCddjM_tyouJh4Tb4sYvk4DIGagW3SSBD5oQrGoC1hI6HFLGBj5a61_-PwRFWMXZcSngkjB-ntq5ncAtAJCCYYXKwoL50yc/s1600/ctio14.png)  
+[![](assets/img/posts/20120303/ctio14.png)](assets/img/posts/20120303/ctio14_1.png)  
 ---  
 The Cerro Tololo International Observatory (CTIO) in Chile  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiR_2FNnyoxxuG1OsjBY6FtQk8DhoiGVfqNUCoVs-9foV_GcM_V4A1qiWZ9lRgyemEfLeJibXBpPmBK_HXxFQWL2at-W0pBOsqsnIybcv9TOiu53LYCLRyhrU1mY-LS7nVAb6kyZ3Lsw/s400/pandaSD.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHiR_2FNnyoxxuG1OsjBY6FtQk8DhoiGVfqNUCoVs-9foV_GcM_V4A1qiWZ9lRgyemEfLeJibXBpPmBK_HXxFQWL2at-W0pBOsqsnIybcv9TOiu53LYCLRyhrU1mY-LS7nVAb6kyZ3Lsw/s1600/pandaSD.png)  
+[![](assets/img/posts/20120303/pandaSD_1.png)](assets/img/posts/20120303/pandaSD.png)  
 ---  
 A panda at the San Diego Zoo 

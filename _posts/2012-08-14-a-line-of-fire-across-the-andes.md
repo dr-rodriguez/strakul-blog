@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "A Line of Fire Across The Andes"
 date: 2012-08-14
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRaHfrutG6CfUIuK_aE3KuoAGX-IZpjPreAbK2r3J9Dfzih91S2WYTandoo4nrwgwPi1vhplhpOL_5OUUGzCuD4o0WEbbepe1TXyttxYIIcOyxildgLNYuEcokEysQI6BJl5c87pZglg/s640/IMG_6465-6466.jpg
+img: posts/20120814/IMG_6465-6466.jpg
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
@@ -16,7 +16,7 @@ Today was a cold, overcast day with some light rain in Santiago. It wasn't the r
 This is what I saw:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRaHfrutG6CfUIuK_aE3KuoAGX-IZpjPreAbK2r3J9Dfzih91S2WYTandoo4nrwgwPi1vhplhpOL_5OUUGzCuD4o0WEbbepe1TXyttxYIIcOyxildgLNYuEcokEysQI6BJl5c87pZglg/s640/IMG_6465-6466.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRaHfrutG6CfUIuK_aE3KuoAGX-IZpjPreAbK2r3J9Dfzih91S2WYTandoo4nrwgwPi1vhplhpOL_5OUUGzCuD4o0WEbbepe1TXyttxYIIcOyxildgLNYuEcokEysQI6BJl5c87pZglg/s1600/IMG_6465-6466.jpg)
+[![](assets/img/posts/20120814/IMG_6465-6466.jpg)](assets/img/posts/20120814/IMG_6465-6466_1.jpg)
 
   
 I think my camera has failed to capture the amazing scene I was seeing, but I tried my best.  

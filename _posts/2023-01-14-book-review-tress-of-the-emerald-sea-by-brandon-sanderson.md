@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Tress of the Emerald Sea by Brandon Sanderson"
 date: 2023-01-14
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqfc2k1EfuSTD_fCdGlSa9wFumQFNnWCVhKeLhj6DrbcfgZPUYcdXAXd1MPFO-IPAthI_Dp60DrunjJN0_klVwPKkv09q8pFL7_FaNRgn-phiPJyKkmr2oBdrps0XlkX5xRaiiVLH_1DDO7Z3SQIlvUCmyiNJeKtCtFKp_BifmnVCmkjAMWMADEyF9/s320/cover.jpg
+img: posts/20230114/cover.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqfc2k1EfuSTD_fCdGlSa9wFumQFNnWCVhKeLhj6DrbcfgZPUYcdXAXd1MPFO-IPAthI_Dp60DrunjJN0_klVwPKkv09q8pFL7_FaNRgn-phiPJyKkmr2oBdrps0XlkX5xRaiiVLH_1DDO7Z3SQIlvUCmyiNJeKtCtFKp_BifmnVCmkjAMWMADEyF9/s320/cover.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqfc2k1EfuSTD_fCdGlSa9wFumQFNnWCVhKeLhj6DrbcfgZPUYcdXAXd1MPFO-IPAthI_Dp60DrunjJN0_klVwPKkv09q8pFL7_FaNRgn-phiPJyKkmr2oBdrps0XlkX5xRaiiVLH_1DDO7Z3SQIlvUCmyiNJeKtCtFKp_BifmnVCmkjAMWMADEyF9/s2200/cover.jpg)
+[![](assets/img/posts/20230114/cover.jpg)](assets/img/posts/20230114/cover_1.jpg)
 
 Tress of the Emerald Sea is the first of Sanderson's "Secret Project"- a set of four novels written during the height of the covid pandemic and being independently published. As a Sanderson fan I had to sign up for them since I knew they would be fun reads and indeed the first hasn't disappointed. Plus as a Cosmere novel it connects to his grander universe. I look forward to seeing what the other 3 will be.
 
@@ -39,7 +39,7 @@ The plot of this book is fairly straightforward, though it takes some interestin
 
 #### Characters
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCkKksECvLFSnswDaKfdhQU_-iIuR9hH0D7hl2bICAtqYxrvykLjseAgo_Tk34EG7miXfo-mCDSPF7Zd7lkBUvuL8qYeHcpNhHGN4p9LObuUvJjeOdc3Ety3GspuprtTkzoTNc3vJ-wCk0I0BpfkaVUeH_M3tkCHMGVbwLStEWbbrido3JKmdc4MVp/s320/SippingSaltyTea.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCkKksECvLFSnswDaKfdhQU_-iIuR9hH0D7hl2bICAtqYxrvykLjseAgo_Tk34EG7miXfo-mCDSPF7Zd7lkBUvuL8qYeHcpNhHGN4p9LObuUvJjeOdc3Ety3GspuprtTkzoTNc3vJ-wCk0I0BpfkaVUeH_M3tkCHMGVbwLStEWbbrido3JKmdc4MVp/s2456/SippingSaltyTea.jpg)
+[![](assets/img/posts/20230114/SippingSaltyTea_1.jpg)](assets/img/posts/20230114/SippingSaltyTea.jpg)
 
 Central to the story is Tress. She starts off as a small town simple girl and initially gave me some Auri vibes with her unusual fascination on cups (from Rothfuss's Name of the Wind); however, she quickly grows to a more standard Sanderson heroine- an adventuring scholar. While she's great, it does seem Sanderson gravitates to that archetype very often so I felt she lost a bit of personality when leaning heavily into that. 
 

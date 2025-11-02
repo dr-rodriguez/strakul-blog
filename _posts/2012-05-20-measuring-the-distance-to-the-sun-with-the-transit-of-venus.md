@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Measuring the Distance to the Sun with the Transit of Venus"
 date: 2012-05-20
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rOeTdHxbr8HqPOBRkcFPV7IilSZdOeBsKWPunE7Y-fsbQpaaMyCpwAEfITXICg1cKiQDJ3jYQQF_WbsyDorPzPRlJM9V7_e26kIFmvYxksTxTVReFW7Q8DO09AndzHr5ry_l7xzNsgQ/s400/tov2012-diagram.png
+img: posts/20120520/tov2012-diagram_1.png
 tags: [Planets, Transit of Venus, Education, Astronomy]
 category: Planets
 author: Strakul
@@ -18,7 +18,7 @@ With the upcoming [transit of Venus](http://strakul.blogspot.com/2012/04/transit
 This is best explained with a diagram:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rOeTdHxbr8HqPOBRkcFPV7IilSZdOeBsKWPunE7Y-fsbQpaaMyCpwAEfITXICg1cKiQDJ3jYQQF_WbsyDorPzPRlJM9V7_e26kIFmvYxksTxTVReFW7Q8DO09AndzHr5ry_l7xzNsgQ/s400/tov2012-diagram.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rOeTdHxbr8HqPOBRkcFPV7IilSZdOeBsKWPunE7Y-fsbQpaaMyCpwAEfITXICg1cKiQDJ3jYQQF_WbsyDorPzPRlJM9V7_e26kIFmvYxksTxTVReFW7Q8DO09AndzHr5ry_l7xzNsgQ/s1600/tov2012-diagram.png)
+[![](assets/img/posts/20120520/tov2012-diagram_1.png)](assets/img/posts/20120520/tov2012-diagram.png)
 
   
 
@@ -39,7 +39,7 @@ In order to understand how we go about measuring the distance to the Sun, we nee
 Imagine a giant circle of radius D and a small arc of it (s) along its edge. As can be seen below, this arc subtends an angle θ:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG690VCQSiCIImUq08W33NZ5yU-AgKq_1xhkIeHDuVWkEiEYwiWWFHayyt5dWxGlcwRGufGoteNcBQIQuF9LNuN65dornR9-KYo5MpwD3q1nScfwQ9Glp7V-zaLKTvB8B6cva-eW5KBJI/s320/angle.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG690VCQSiCIImUq08W33NZ5yU-AgKq_1xhkIeHDuVWkEiEYwiWWFHayyt5dWxGlcwRGufGoteNcBQIQuF9LNuN65dornR9-KYo5MpwD3q1nScfwQ9Glp7V-zaLKTvB8B6cva-eW5KBJI/s1600/angle.png)
+[![](assets/img/posts/20120520/angle_1.png)](assets/img/posts/20120520/angle.png)
 
   
 Mathematically, this can be expressed as s = θD. In other words, if you know the length s and the angle θ you can calculate what the distance D is. This works for velocities as well: v = ωD, where ω is an angular speed.  
@@ -66,7 +66,7 @@ Note that in practice the orbits aren't perfect circles, but this is good enough
   
 **A correction factor**  
 The relationship above would be perfect if the Earth enters the shadow of Venus through the center. Alas, it does not and we need to account for this difference. This is done by measuring the 'impact parameter' (p) of the path of the Earth through Venus's shadow:  
-[![](http://www.venus2012.de/venusprojects/contacttimes/details/pictures/geometryk.jpg)](http://www.venus2012.de/venusprojects/contacttimes/details/pictures/geometryk.jpg)  
+[![](assets/img/posts/20120520/geometryk.jpg)](assets/img/posts/20120520/geometryk.jpg)  
 ---  
 Note that in this figure, the small circle is the Earth at the first and second contact times and the large circle is the shadow of Venus at Earth's distance.  
 The figure above has labels for all the quantities of interest. The variable r corresponds to the true separation between the center of the shadow and the center of the Earth while d corresponds to the horizontal projection of this distance. The variable p is the vertical separation between the path of the Earth and the center of Venus's shadow. Since these are right triangles, the following holds:  
@@ -84,13 +84,13 @@ where v is the velocity (v = ωD) and Δt' is the time between event 1 and 2.
 We can combine the relationships as follows:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim4KjED2eh9KQTcMoIfYsLEP0V3JC91PuYjmYE2rudh0mifkblT-MszCK8qTT2qshBepeeYpFCQuuCTFWacimYANYIN1VrKy27LOiWGKu0Gbu8TKhwCKr8CKPdByq7XHfrK1WfsjjmOQE/s1600/math1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim4KjED2eh9KQTcMoIfYsLEP0V3JC91PuYjmYE2rudh0mifkblT-MszCK8qTT2qshBepeeYpFCQuuCTFWacimYANYIN1VrKy27LOiWGKu0Gbu8TKhwCKr8CKPdByq7XHfrK1WfsjjmOQE/s1600/math1.png)
+[![](assets/img/posts/20120520/math1.png)](assets/img/posts/20120520/math1.png)
 
   
 Now we can make use of all of these and place them together:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyFK0ZiuF27JWrQGvBYYSCHP_lICN3RBKPXmF8SX_jkG8oIt_m5ZRoj26P-fBwe2zSXZLY-q8u4tlOh_Y_71cEWLT989VwhMMxwg-jY4drxkYzPEdrtjRhDaKyo7aWQq-HXzrXzCzi-g/s1600/math2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyFK0ZiuF27JWrQGvBYYSCHP_lICN3RBKPXmF8SX_jkG8oIt_m5ZRoj26P-fBwe2zSXZLY-q8u4tlOh_Y_71cEWLT989VwhMMxwg-jY4drxkYzPEdrtjRhDaKyo7aWQq-HXzrXzCzi-g/s1600/math2.png)
+[![](assets/img/posts/20120520/math2.png)](assets/img/posts/20120520/math2.png)
 
   
 That last line should look very familiar as it's the same relationship we had before but with an extra factor thrown in. The value of p depends on the parameters of the event. As mentioned [here](http://www.venus2012.de/venusprojects/contacttimes/details/detailstimes.php), the value for the June 5, 2012 transit of Venus is 0.5904 R_S and thus **the correction factor is 1.23899**.  
@@ -101,20 +101,20 @@ We're now ready for the last part. The gist of it is again very simple: the velo
 Hence, we can rewrite our full expression as:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ6dkRQZ_jbcj9bZiY203sLnZ600oF94AV0gB12f6b-iEzcLG9xTfQiG7BBACz5KO1ttnC4xcsZ4BoSUubi_WDFZEZGwmtAZjj1b5abxFz5o1Gre2GRzvrmbo_CzUcSZRyjk8u5z92OZc/s1600/math3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ6dkRQZ_jbcj9bZiY203sLnZ600oF94AV0gB12f6b-iEzcLG9xTfQiG7BBACz5KO1ttnC4xcsZ4BoSUubi_WDFZEZGwmtAZjj1b5abxFz5o1Gre2GRzvrmbo_CzUcSZRyjk8u5z92OZc/s1600/math3.png)
+[![](assets/img/posts/20120520/math3.png)](assets/img/posts/20120520/math3.png)
 
   
 In this context, x is the horizontal distance separating two points as the shadow moves across them. Unfortunately, this is not just a straightforward comparison of the latitude and longitude. Here's what we're dealing with:  
 
 
-[![](http://www.venus2012.de/venusprojects/contacttimes/details/pictures/Venuseintritt2012gedrk.gif)](http://www.venus2012.de/venusprojects/contacttimes/details/pictures/Venuseintritt2012gedrk.gif)
+[![](assets/img/posts/20120520/Venuseintritt2012gedrk.gif)](assets/img/posts/20120520/Venuseintritt2012gedrk.gif)
 
   
 The shadow of Venus is moving from right to left in this diagram and the vertical grey lines correspond to constant x.  
 Calculating x given latitude and longitude is straightforward, but the derivation behind it is not so I skip that (but you can see a discussion [here](http://www.venus2012.de/venusprojects/contacttimes/details/detailstimes.php)). Here's what you need to use given latitude (ϕ) and longitude (λ):  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEXfFZ5YKeGumd-L-_oKEKuUSeGpLPhGBkBx0VvzX1mu-4Mxt7OsiPtMqrB82gYXhxoKrhqYAaglbwAN2NML0t6AgWZQv6ppfeepqeAsCj_6PyH0yOZNiDEqbhrWTPJlnyN7uRM13RcY/s1600/math4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEXfFZ5YKeGumd-L-_oKEKuUSeGpLPhGBkBx0VvzX1mu-4Mxt7OsiPtMqrB82gYXhxoKrhqYAaglbwAN2NML0t6AgWZQv6ppfeepqeAsCj_6PyH0yOZNiDEqbhrWTPJlnyN7uRM13RcY/s1600/math4.png)
+[![](assets/img/posts/20120520/math4.png)](assets/img/posts/20120520/math4.png)
 
   
 We now have every relationship we need to get the distance, so let's wrap it all up and work out an example.  
@@ -124,18 +124,18 @@ We now have every relationship we need to get the distance, so let's wrap it all
 To calculate the distance to the Sun we use the following relationship:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ6dkRQZ_jbcj9bZiY203sLnZ600oF94AV0gB12f6b-iEzcLG9xTfQiG7BBACz5KO1ttnC4xcsZ4BoSUubi_WDFZEZGwmtAZjj1b5abxFz5o1Gre2GRzvrmbo_CzUcSZRyjk8u5z92OZc/s1600/math3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ6dkRQZ_jbcj9bZiY203sLnZ600oF94AV0gB12f6b-iEzcLG9xTfQiG7BBACz5KO1ttnC4xcsZ4BoSUubi_WDFZEZGwmtAZjj1b5abxFz5o1Gre2GRzvrmbo_CzUcSZRyjk8u5z92OZc/s1600/math3.png)
+[![](assets/img/posts/20120520/math3.png)](assets/img/posts/20120520/math3.png)
 
 We know most of the numbers for this, so I'll just put them in:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkjvXqKeP5RbXWnD202XFrmRwW0ZYOIKttbHBHsHUqXuDf7dl4iEak-1uaiHbbQAUNnlKI91oK7J_Th5WXzUd4eHDPhBLzLNPYD1SOrE7MHTY5PLcG6x7HhutNBe3zhVgWWhXvrcEQaQ/s1600/math5.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkjvXqKeP5RbXWnD202XFrmRwW0ZYOIKttbHBHsHUqXuDf7dl4iEak-1uaiHbbQAUNnlKI91oK7J_Th5WXzUd4eHDPhBLzLNPYD1SOrE7MHTY5PLcG6x7HhutNBe3zhVgWWhXvrcEQaQ/s1600/math5.png)
+[![](assets/img/posts/20120520/math5.png)](assets/img/posts/20120520/math5.png)
 
   
 The separation Δx can be calculated with this relationship using the latitude (ϕ) and longitude (λ) at two sites:  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEXfFZ5YKeGumd-L-_oKEKuUSeGpLPhGBkBx0VvzX1mu-4Mxt7OsiPtMqrB82gYXhxoKrhqYAaglbwAN2NML0t6AgWZQv6ppfeepqeAsCj_6PyH0yOZNiDEqbhrWTPJlnyN7uRM13RcY/s1600/math4.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxEXfFZ5YKeGumd-L-_oKEKuUSeGpLPhGBkBx0VvzX1mu-4Mxt7OsiPtMqrB82gYXhxoKrhqYAaglbwAN2NML0t6AgWZQv6ppfeepqeAsCj_6PyH0yOZNiDEqbhrWTPJlnyN7uRM13RcY/s1600/math4.png)
+[![](assets/img/posts/20120520/math4.png)](assets/img/posts/20120520/math4.png)
 
   
 The time Δt is just the time difference, in seconds, between ingress interior or egress interior measured at two locations.  
@@ -167,7 +167,7 @@ A final note: you can use more than two locations for this. In that instance, yo
 **How YOU can get involved**  
 This procedure is relatively straightforward and we intend to apply it to the contact times that school groups in Easter Island measure. We already have several teams across the globe that will provide additional contact times at separate locations. If your school or a group you know want to get involved, let us know through [this page](http://www.das.uchile.cl/~drodrigu/easter/contact.html). The more measurements of the contact time we get, the better we can do this!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitBIZh5z9NLTmwsPTyS3brnTzTCFTT56UKkaEGoPoGJog5MTU-_KDKKhNGv0O6T3gEg5L0Z3JMdw7pLIf8Jl1rfXDw83HLQuiv8jLhGV61W5qD5j5oL5iDE-rvhiLIpJ7zSgQnFN7bhTs/s320/venustransitlogo_v3.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitBIZh5z9NLTmwsPTyS3brnTzTCFTT56UKkaEGoPoGJog5MTU-_KDKKhNGv0O6T3gEg5L0Z3JMdw7pLIf8Jl1rfXDw83HLQuiv8jLhGV61W5qD5j5oL5iDE-rvhiLIpJ7zSgQnFN7bhTs/s1600/venustransitlogo_v3.png)  
+[![](assets/img/posts/20120520/venustransitlogo_v3.png)](assets/img/posts/20120428/venustransitlogo_v3_1.png)  
 ---  
 More information on the Easter Island Venus Transit event can be found [here](http://www.das.uchile.cl/~drodrigu/easter/index_en.html).  
   
@@ -184,7 +184,7 @@ I wanted to mention 3 things:
 
 **2-** Through complete oversight, I didn't realize or note that 'x' varies as a function of time since the Earth rotates and the position of Venus and the Sun changes. Hence, the 'x' formula I provide above is valid **only for 1st and 2nd contact**. For 3rd or 4th contact, you need to use:
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLxBV6s9Nj-oW2vYLi2Svy-5P-zKJ36_w_Dd8txPnEYEM49lH_EBX8ebNhibi7eqVZKJYrdAsvMC2TG6Nv3sPbK-zBiFaWeUGGJZdX1K86grL2YgJmMI725d1XoO_V9nNV2KCG6vToC9E/s400/xversion2.tiff)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLxBV6s9Nj-oW2vYLi2Svy-5P-zKJ36_w_Dd8txPnEYEM49lH_EBX8ebNhibi7eqVZKJYrdAsvMC2TG6Nv3sPbK-zBiFaWeUGGJZdX1K86grL2YgJmMI725d1XoO_V9nNV2KCG6vToC9E/s1600/xversion2.tiff)
+[![](assets/img/posts/20120520/xversion2_1.tiff)](assets/img/posts/20120520/xversion2.tiff)
 
 **  
 ** **3-** And finally, we have successfully applied this for the 2012 transit of Venus. School and outreach teams from across the world joined us in measuring the contact times and we calculated a value of 151+/-20 million kilometers for the distance to the Sun. The details on what we did are described [here](http://strakul.blogspot.com/2012/06/easter-island-transit-of-venus-23.html). 

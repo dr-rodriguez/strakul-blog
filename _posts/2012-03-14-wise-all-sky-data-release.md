@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "WISE All-Sky Data Release"
 date: 2012-03-14
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8aMu3rWraptCnedta5uRBZ3_rr4Db4XjRRD_S_4HeLXxiLfpEVC05IiFxM452bxq5scikWKbWnnkEk9afNHyk_dF48TTk4wIwJhbRyogd2MRBHxNlWHGRthdN7huV9YG4CFmknCpA_s/s400/wiseall.jpg
+img: posts/20120314/wiseall.jpg
 tags: [Disks, Brown Dwarfs, Planets, Astronomy, Stars]
 category: Disks
 author: Strakul
@@ -16,7 +16,7 @@ Today marks the full data release from the Wide-field Infrared Survey Explorer (
 
 > NASA's [Wide-field Infrared Survey Explorer](http://wise.astro.ucla.edu/) (WISE; [Wright et al. 2010](http://adsabs.harvard.edu/abs/2010AJ....140.1868W)) mapped the sky at 3.4, 4.6, 12, and 22 μm in 2010 with an angular resolution of 6.1" 6.4" 6.5" & 12.0" in the four bands. WISE achieved 5σ point source sensitivities better than 0.08, 0.11, 1 and 6 mJy in unconfused regions on the ecliptic in the four bands. Sensitivity improves toward the ecliptic poles due to denser coverage and lower zodiacal background.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8aMu3rWraptCnedta5uRBZ3_rr4Db4XjRRD_S_4HeLXxiLfpEVC05IiFxM452bxq5scikWKbWnnkEk9afNHyk_dF48TTk4wIwJhbRyogd2MRBHxNlWHGRthdN7huV9YG4CFmknCpA_s/s400/wiseall.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8aMu3rWraptCnedta5uRBZ3_rr4Db4XjRRD_S_4HeLXxiLfpEVC05IiFxM452bxq5scikWKbWnnkEk9afNHyk_dF48TTk4wIwJhbRyogd2MRBHxNlWHGRthdN7huV9YG4CFmknCpA_s/s1600/wiseall.jpg)  
+[![](assets/img/posts/20120314/wiseall.jpg)](assets/img/posts/20120314/wiseall_1.jpg)  
 ---  
 The sky, in Galactic coordinates, according to WISE. The blue band across the image is the Milky Way Galaxy, the yellowish, diffuse band is the ecliptic- the plane of our solar system. The blue-white bands perpendicular to the ecliptic are artifacts as a result of residual Moon glow when the observations were taken.  
   
@@ -35,7 +35,7 @@ That's really cool (pun _intended_)!
 With this data release, the full WISE catalog is available to everyone. Here's a map of the WISE coverage in Equatorial coordinates (right ascension and declination, different from the figure above):  
 
 
-[![](http://wise2.ipac.caltech.edu/docs/release/allsky/figures/4band_cryo-w1-ach_equ-rh_sm.jpg)](http://wise2.ipac.caltech.edu/docs/release/allsky/figures/4band_cryo-w1-ach_equ-rh_sm.jpg)
+[![](assets/img/posts/20120314/4band_cryo-w1-ach_equ-rh_sm.jpg)](assets/img/posts/20120314/4band_cryo-w1-ach_equ-rh_sm.jpg)
 
 The colors indicate how often an area has been observed. The more a particular area is observed, the fainter the objects that can be detected. As you can see from the figure, most of it is green indicating WISE observed most of the sky at least 12 times. UCLA's own [Ned Wright](http://wise.ssl.berkeley.edu/mission_pi.html) is the principle investigator (the lead scientist responsible for the project) of the WISE mission so I'm sure everyone back [there](http://astro.ucla.edu/) must be super excited.  
   

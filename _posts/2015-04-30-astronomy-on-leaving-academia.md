@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Astronomy: On Leaving Academia"
 date: 2015-04-30
-img: http://www.phdcomics.com/comics/archive/phd051208s.gif
+img: posts/20150430/phd051208s.gif
 tags: [Life in Chile, Misc, Education, Astronomy]
 category: Life in Chile
 author: Strakul
@@ -28,7 +28,7 @@ In the end, academia is a personal choice. Some people enjoy it and its quirks; 
   
 
 
-[![](http://www.phdcomics.com/comics/archive/phd051208s.gif)](http://www.phdcomics.com/comics/archive/phd051208s.gif)
+[![](assets/img/posts/20150430/phd051208s.gif)](assets/img/posts/20150430/phd051208s.gif)
 
   
 **The Job Search: Where I Am**  
@@ -48,7 +48,7 @@ Exactly why is hard for me to say. I like astronomy and certain aspects of my re
   
 
 
-[![](http://www.phdcomics.com/comics/archive/phd050611s.gif)](http://www.phdcomics.com/comics/archive/phd050611s.gif)
+[![](assets/img/posts/20150430/phd050611s.gif)](assets/img/posts/20150430/phd050611s.gif)
 
   
 **The Future: Where I Am Going**  
@@ -67,6 +67,6 @@ What does this mean for this blog? Nothing for right now. The title "Strakul's T
 Thanks for reading thus far. Wish me luck and success!  
 If you have advice or comments, feel free to leave them down below. I'm sure they'll benefit not only me, but any other readers who may be going through similar decisions.  
   
-[![](http://www.phdcomics.com/comics/archive/phd022309s.gif)](http://www.phdcomics.com/comics/archive/phd022309s.gif)  
+[![](assets/img/posts/20150430/phd022309s.gif)](assets/img/posts/20150430/phd022309s.gif)  
 ---  
 Image source: www.phdcomics.com 

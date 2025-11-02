@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Mistborn: The Final Empire by Brandon Sanderson"
 date: 2025-06-25
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg
+img: posts/20250625/68428.jpg
 tags: [Books, Cosmere, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617768316i/68428.jpg)
+[![](assets/img/posts/20250625/68428.jpg)](assets/img/posts/20250625/68428.jpg)
 
 I decided to re-read the **Mistborn** series after the epic finale in [Wind and Truth](https://strakul.blogspot.com/2024/12/book-review-wind-and-truth-by-brandon.html). As some folks know, many of Brandon Sanderson's novels are connected via the Cosmere. Events in one are sometimes mentioned in others and sometimes there are even characters that journey between the worlds. The news I hear is that Mistborn Era 3 will be finished before we get Stormlight Archive Era 2 and so it seems like a good time to start brushing up on the story there. Here is the Goodreads blurb for **Mistborn** :
 

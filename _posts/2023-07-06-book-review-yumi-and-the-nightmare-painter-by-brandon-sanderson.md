@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Yumi and the Nightmare Painter by Brandon Sanderson"
 date: 2023-07-06
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCShNCZl2wRPYZwvjOuW_j2bUg6JKYMI_OhLj41DcLuajiCDpwX2NhG1EeAtfsoeUQaF89UhBTv2F76GRmvKDLKek1hF86HZl6RAudVkQgXRa7O03dKwzDNsMoH_Cw5dP8mLuUlCXHzLSJPIkKlgbU0hLKCq75OmztCYq2fsGYe8_rgY56pA48rh9SYMA/s320/Yumi_wallpaper_vertical_v2.jpg
+img: posts/20230706/Yumi_wallpaper_vertical_v2.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCShNCZl2wRPYZwvjOuW_j2bUg6JKYMI_OhLj41DcLuajiCDpwX2NhG1EeAtfsoeUQaF89UhBTv2F76GRmvKDLKek1hF86HZl6RAudVkQgXRa7O03dKwzDNsMoH_Cw5dP8mLuUlCXHzLSJPIkKlgbU0hLKCq75OmztCYq2fsGYe8_rgY56pA48rh9SYMA/s320/Yumi_wallpaper_vertical_v2.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCShNCZl2wRPYZwvjOuW_j2bUg6JKYMI_OhLj41DcLuajiCDpwX2NhG1EeAtfsoeUQaF89UhBTv2F76GRmvKDLKek1hF86HZl6RAudVkQgXRa7O03dKwzDNsMoH_Cw5dP8mLuUlCXHzLSJPIkKlgbU0hLKCq75OmztCYq2fsGYe8_rgY56pA48rh9SYMA/s1920/Yumi_wallpaper_vertical_v2.jpg)
+[![](assets/img/posts/20230706/Yumi_wallpaper_vertical_v2.jpg)](assets/img/posts/20230706/Yumi_wallpaper_vertical_v2_1.jpg)
 
 This is the third of Sanderson's Secret Projects. It's another Cosmere novel, but with a more personal feel as it's about the unique relationship of the two main characters. Drawing from a lot of recognizable influences, this one is quite interesting.  
 
@@ -30,7 +30,7 @@ The plot is a mix of things, it's a bit of a slice of life of how the two charac
 
 #### Characters
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9m5hbzE7txsw58OgeUoZFER-7TPIRN5YlmfSPJqz5rySPbUEWkiXw89cxOUoGC7yrCAaf59uytlIkPueNHKzCIT7QK-k-i4lO6nOnpIZn3X_UpSXiWd2Dfkfm7xQcgGmThRKG_UlIUv_imPrwMPcoH6ibvqY9Qmaj0FTs9--WLvW91SIaAqywIyFSKc/s320/meditation.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9m5hbzE7txsw58OgeUoZFER-7TPIRN5YlmfSPJqz5rySPbUEWkiXw89cxOUoGC7yrCAaf59uytlIkPueNHKzCIT7QK-k-i4lO6nOnpIZn3X_UpSXiWd2Dfkfm7xQcgGmThRKG_UlIUv_imPrwMPcoH6ibvqY9Qmaj0FTs9--WLvW91SIaAqywIyFSKc/s1200/meditation.jpg)
+[![](assets/img/posts/20230706/meditation_1.jpg)](assets/img/posts/20230706/meditation.jpg)
 
 There are two main characters that we alternate with, starting with Yumi, the yoki-hijo of a hot world under a blazing sun. She stacks stones to call the spirits which aid the families there. In contrast is Nikaro aka Painter, the nightmare painter, who lives in a cold world of endless dark under neon lights. He works a lonely shift catching manifestations of nightmares, and paints them in ink to drive them away. Their approach to life, the world, and their art is wholly different, but these differences bring them together in a powerful way as their force to live in each other's world. It's great to see them warm up to each other throughout the story.
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Dawnshard by Brandon Sanderson"
 date: 2024-10-28
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673892527i/54511226.jpg
+img: posts/20241028/54511226.jpg
 tags: [Cosmere, Fantasy, Books, Novella]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673892527i/54511226.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673892527i/54511226.jpg)
+[![](assets/img/posts/20241028/54511226.jpg)](assets/img/posts/20241028/54511226.jpg)
 
 I've been on a bit of a Sanderson binge lately, trying to re-read the **Stormlight Archive** books in time for **Wind and Truth**. Turns out, I had originally missed this novella, set between [Oathbringer](https://strakul.blogspot.com/2017/12/book-review-oathbringer-by-brandon.html) and [Rhythm of War](https://strakul.blogspot.com/2020/12/book-review-rhythm-of-war-by-brandon.html). I'm glad I got the chance to read it, since it offers some very interesting hints about the Cosmere. Here's the official blurb:
 

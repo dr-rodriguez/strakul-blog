@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Left Hand of Darkness by Ursula K. Le Guin"
 date: 2018-04-08
-img: https://images.gr-assets.com/books/1519082793l/118028.jpg
+img: posts/20180408/118028.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1519082793l/118028.jpg)](https://images.gr-assets.com/books/1519082793l/118028.jpg)
+[![](assets/img/posts/20180408/118028.jpg)](assets/img/posts/20180408/118028.jpg)
 
 **The Left Hand of Darkness** has been on my to-read list for a very long time. It's recognized as one of Ursula K. Le Guin's best novels and a hallmark of science fiction literature having won countless awards. With her passing a few months ago, I realized it was past time I get to this book and finally found the time to read it. Here's the official blurb:  
 

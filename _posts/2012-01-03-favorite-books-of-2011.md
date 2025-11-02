@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Favorite Books of 2011"
 date: 2012-01-03
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-3kHQuNiZLlJNEY7O8F3fvbv7SxBswzxBT8e7XkDltY3s6RzzwSVLEYFNvoieJGVMNF8VYi666OUXJQUKwBdGRse8IVM99puVuLJd7u6N4T-6RSzlhKRLL2bWtQHiDLVM1D8cemS7vg/s200/embassytown-china-mieville.jpg
+img: posts/20120103/embassytown-china-mieville.jpg
 tags: [Fantasy, Malazan, Books, Favorite Books, Science Fiction]
 category: Fantasy
 author: Strakul
@@ -28,6 +28,6 @@ This is the first book in the **Malazan Book of the Fallen** and my only regret 
 1\. Embassytown by China Mieville  
 
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-3kHQuNiZLlJNEY7O8F3fvbv7SxBswzxBT8e7XkDltY3s6RzzwSVLEYFNvoieJGVMNF8VYi666OUXJQUKwBdGRse8IVM99puVuLJd7u6N4T-6RSzlhKRLL2bWtQHiDLVM1D8cemS7vg/s200/embassytown-china-mieville.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-3kHQuNiZLlJNEY7O8F3fvbv7SxBswzxBT8e7XkDltY3s6RzzwSVLEYFNvoieJGVMNF8VYi666OUXJQUKwBdGRse8IVM99puVuLJd7u6N4T-6RSzlhKRLL2bWtQHiDLVM1D8cemS7vg/s1600/embassytown-china-mieville.jpg)
+[![](assets/img/posts/20120419/embassytown-china-mieville.jpg)](assets/img/posts/20120103/embassytown-china-mieville.jpg)
 
 When I first heard about this book, I knew it would be good. This is Mieville's first foray into pure science fiction, and he makes it work. Mieville is a master of language and he really shines in this book. It's arguably my favorite Mieville book thus far. The story has 3 arcs: first is the distant past, when the character is young and you learn about the immer, Language, and a bit about the Hosts; following that is an entertaining part where you flip back and forth between the present and the near past; after that is the fast paced section where everything ties together and you get to see the consequences of all actions past. I will be very surprised if I don't see **Embassytown** getting a Hugo nomination this year. 

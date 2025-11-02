@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Long Price Quartet series by Daniel Abraham"
 date: 2024-04-28
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522766679i/37534895.jpg
+img: posts/20240428/37534895.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522766679i/37534895.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522766679i/37534895.jpg)
+[![](assets/img/posts/20240428/37534895.jpg)](assets/img/posts/20240428/37534895.jpg)
 
 Unlike my usual reviews, this one focuses on the entire series of **The Long Price Quartet** by Daniel Abraham, all 4 books, rather than a single one. Basically, I was travelling while I was reading the first one and didn't get a chance to write up something before the second, so decided to just take the whole series as a whole. These include, **A Shadow in Summer, A Betrayal in Winter, An Autumn War,** and **The Price of Spring**. Here is a blurb covering the full series:
 

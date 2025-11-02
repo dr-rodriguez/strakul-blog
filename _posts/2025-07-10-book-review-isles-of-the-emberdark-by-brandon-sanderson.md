@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Isles of the Emberdark by Brandon Sanderson"
 date: 2025-07-10
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Bg07btRoD1mURxX-inAAd4q9UA5tSgwmKp0BBka4AI0n4ICZbR9ym3NiTbrlCWeGsoB3mnuOs6G207gTWGMyLGQrsM1QAtpToTY16M96lm9whPynEZKgVfW2GBA_dEb6hMpx7XCG3JomuN8GWVvdxb9_HQNqKJTjFXBG4mDdLGLDdo4qfTdkwKcn2es/s320/cover.jpg
+img: posts/20250710/cover.jpg
 tags: [Books, Cosmere, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Bg07btRoD1mURxX-inAAd4q9UA5tSgwmKp0BBka4AI0n4ICZbR9ym3NiTbrlCWeGsoB3mnuOs6G207gTWGMyLGQrsM1QAtpToTY16M96lm9whPynEZKgVfW2GBA_dEb6hMpx7XCG3JomuN8GWVvdxb9_HQNqKJTjFXBG4mDdLGLDdo4qfTdkwKcn2es/s320/cover.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Bg07btRoD1mURxX-inAAd4q9UA5tSgwmKp0BBka4AI0n4ICZbR9ym3NiTbrlCWeGsoB3mnuOs6G207gTWGMyLGQrsM1QAtpToTY16M96lm9whPynEZKgVfW2GBA_dEb6hMpx7XCG3JomuN8GWVvdxb9_HQNqKJTjFXBG4mDdLGLDdo4qfTdkwKcn2es/s2200/cover.jpg)Isles of the Emberdark is a Cosmere novel by Brandon Sanderson. This was offered as part of a Kickstarter I backed and I've heard it referred to as the 5th of the Secret Projects, a series of books he wrote during the COVID lockdown years. Here is the Goodreads blurb:
+[![](assets/img/posts/20250710/cover.jpg)](assets/img/posts/20250710/cover_1.jpg)Isles of the Emberdark is a Cosmere novel by Brandon Sanderson. This was offered as part of a Kickstarter I backed and I've heard it referred to as the 5th of the Secret Projects, a series of books he wrote during the COVID lockdown years. Here is the Goodreads blurb:
 
 _The Ones Above are starting to grow impatient and want to build an installation to breed and collect Aviar on one of First of the Sun's islands. Vathi and Dusk are trying to figure out how to delay their progress and are also dealing with people from another world, likely Roshar. Dusk realizes that the people of First of the Sun are hopelessly outmatched and decides to go through Patji's Eye, the perpendicularity on the island Patji, to try to enlist help._
 

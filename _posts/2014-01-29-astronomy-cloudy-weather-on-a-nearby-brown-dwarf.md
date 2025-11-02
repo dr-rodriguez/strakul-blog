@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: Cloudy Weather on a Nearby Brown Dwarf"
 date: 2014-01-29
-img: http://www.eso.org/public/archives/images/screen/eso1404c.jpg
+img: posts/20140129/eso1404c.jpg
 tags: [Planets, Brown Dwarfs, Astronomy]
 category: Planets
 author: Strakul
 description: ""
 ---
 
-[![](http://www.eso.org/public/archives/images/screen/eso1404c.jpg)](http://www.eso.org/public/archives/images/screen/eso1404c.jpg)  
+[![](assets/img/posts/20140129/eso1404c.jpg)](assets/img/posts/20140129/eso1404c.jpg)  
 ---  
 Artistic rendering of clouds in the Luhman 16 system. Credit: ESO/I. Crossfield/N. Risinger  
   
@@ -23,7 +23,7 @@ Luhman 16 is the colloquial name given to WISE J104915.57-531906.1. I think we c
   
 One such study was lead by Dr. Crossfield in order to understand the cloud structure of the B component of this binary. His team used the CRIRES instrument on the Very Large Telescope in northern Chile to observe the system. While a direct map of the surface is, at the moment, impossible, the team used the clever technique of Dopper imaging. This involves monitoring the light of the brown dwarf as it rotated and using that information to reconstruct what the cloud surface looks like.  
 The result is breathtaking:  
-[![](http://www.eso.org/public/archives/images/screen/eso1404b.jpg)](http://www.eso.org/public/archives/images/screen/eso1404b.jpg)  
+[![](assets/img/posts/20140129/eso1404b.jpg)](assets/img/posts/20140129/eso1404b.jpg)  
 ---  
 Map of Luhman 16B. Credit: ESO/I. Crossfield  
 You are seeing above a map of the clouds of a distant world.  

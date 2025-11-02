@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Rune of the Apprentice by Jamison Stone"
 date: 2017-07-13
-img: https://images.gr-assets.com/books/1460908716l/28650517.jpg
+img: posts/20170713/28650517.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1460908716l/28650517.jpg)](https://images.gr-assets.com/books/1460908716l/28650517.jpg)
+[![](assets/img/posts/20170713/28650517.jpg)](assets/img/posts/20170713/28650517.jpg)
 
 I met Jamison Stone at Balticon a few months ago. He was selling his book, **Rune of the Apprentice** , and describing the world and behind it. He also gave me an early version of one of the maps in exchange for a book review. Now, I always review books I read (see: the rest of this blog), so I pretty much got the map for free and that's nice. Stone did warn me this was his first book, so I kept that in mind. While it's clearly not a Sanderson or Rothfuss bestseller and it has some flaws, the book is nevertheless surprisingly good for a first-time author.  
   
@@ -33,7 +33,7 @@ I feel that a significant improvement may have been done by splitting Aleksi int
 **Setting / World Building**  
 
 
-[![](https://inkshares-production.s3.amazonaws.com/images/1469453564/Rune_TerraMap_F_Jamison.jpg)](https://inkshares-production.s3.amazonaws.com/images/1469453564/Rune_TerraMap_F_Jamison.jpg)
+[![](assets/img/posts/20170713/Rune_TerraMap_F_Jamison.jpg)](assets/img/posts/20170713/Rune_TerraMap_F_Jamison.jpg)
 
 The world of Terra is an interesting place. While the start of the novel has plenty of descriptions of Mindra's Haven and some of the politics between the various nations, what's left unsaid is what's really interesting to me. The world has a series of very tall mountains called Zeniths. It has, as far as I understand, no Sun- the Zeniths provide all the light for the world. It pleasantly reminded me of some of the mythology behind Tolkien's Middle-earth. The history of Middle-earth had, at one point,[ two lamps](http://lotr.wikia.com/wiki/Two_Lamps) providing light to the world. Exactly how the Zeniths work, or the moons, are left as mysteries for now. Later on in the book, Stone manages to tease out details of the greater part of the world without overwhelming the reader. For example, I was intrigued by the crater lake and its unique inhabitants as well as the nature of the ocean in the center of the world.  
   

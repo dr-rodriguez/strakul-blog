@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Binti by Nnedi Okorafor"
 date: 2018-03-01
-img: https://images.gr-assets.com/books/1434818801l/25762847.jpg
+img: posts/20180301/25762847.jpg
 tags: [Books, Novella, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images.gr-assets.com/books/1434818801l/25762847.jpg)](https://images.gr-assets.com/books/1434818801l/25762847.jpg)
+[![](assets/img/posts/20180301/25762847.jpg)](assets/img/posts/20180301/25762847.jpg)
 
 I've had **Binti** by Nnedi Okorafor on my to-read list for about a year or so after hearing about how well received it was- it was the winner of both the Hugo and Nebula awards in 2016 for Best Novella. I recently watched Black Panther the other weekend and saw first hand how cool Afrofuturism can be and was later reminded on twitter about how **Binti** is an excellent afrofuturist read. This brought it back to the forefront of my list and I finally gave it a shot. And I'm glad I did.  
   

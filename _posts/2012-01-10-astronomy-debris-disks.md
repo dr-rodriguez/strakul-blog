@@ -29,7 +29,7 @@ The trick to finding them, is to look at systems in infrared light. What we see 
 We humans have a body temperature of about 310 Kelvin (98.6 Farenheit), which means we glow at a wavelength of 12 microns. Visible light, in comparison, has wavelengths of 0.4-0.7 microns or so. Hence we cannot see our own glow without specialized instruments. The peak wavelength an object emits depends on its temperature. A hot object, like a lightbulb's filament or the surface of the Sun and other stars, will emit light near the visible range. Colder objects, like our bodies, emit at longer wavelengths and thus in the infrared and submillimeter range. The dust grains constituting debris disks can be as warm as 300 K, but are generally colder than 100 K. To observe these systems we need to look at light in the 20-500 micron range.  
   
 Here is what the sky looks like at 100 microns:  
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_hPI_WpXJ5yOdgIZa-BTsMqtGgvdD0CTK0ByWCnbJYc9Yn4aYNb2ZjOkmMmfMQQ6Gudvffxq_uXLG6WgwYQ3IthepUYkf5WFx7pGhM2ak4aF3hClJ6L8-bpeXP-nG8ZCF8gts48v3gEM/s400/IRAS-DIRBE-100um.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_hPI_WpXJ5yOdgIZa-BTsMqtGgvdD0CTK0ByWCnbJYc9Yn4aYNb2ZjOkmMmfMQQ6Gudvffxq_uXLG6WgwYQ3IthepUYkf5WFx7pGhM2ak4aF3hClJ6L8-bpeXP-nG8ZCF8gts48v3gEM/s1600/IRAS-DIRBE-100um.jpg)  
+[![](assets/img/posts/20120110/IRAS-DIRBE-100um_1.jpg)](assets/img/posts/20120110/IRAS-DIRBE-100um.jpg)  
 ---  
 _Credit: R. Hurt/IRAS/DIRBE, see[here](http://spider.ipac.caltech.edu/staff/jarrett/irsa/dust.html)_  
 As you can probably tell, the sky looks very different from what you are used to. What we see is the cool dust spread throughout the galaxy; we barely see any stars at all. The Galactic plane runs horizontal across the image and we can see a few nearby star forming regions- Ophiucus is near the center and above the plane, Taurus is at the left, Orion at the right, and some galaxies- the two blobs below the plane midway to the right are the Large and Small Magellanic Clouds, nearby galaxies to our own Milky Way.  
@@ -57,7 +57,7 @@ You need to be in a very dark sky to see this triangular wedge of light. You'll 
   
 **What about planets?**  
 Planets are one of the hottest things in astronomy right now. Everyone is talking about them, especially the public. Debris disks indirectly suggest planets, or at least planetesimals like asteroids, exist or have existed in distant stars. This is encouraging as it's easier to spot debris disks than it is to search for planets. Furthermore, the properties of the disk can suggest a nearby planet. For example, gaps, warps, or offsets in imaged disks or rings can suggest an unseen object (ie, a planet) is tugging the material to produce these features. This was the case for the beta Pictoris star system, where a secondary dust disk was observed in the central regions. A close examination revealed a massive planet in the system:  
-[![](http://www.eso.org/public/archives/images/medium/eso0842b.jpg)](http://www.eso.org/public/archives/images/medium/eso0842b.jpg)  
+[![](assets/img/posts/20120110/eso0842b.jpg)](assets/img/posts/20120110/eso0842b.jpg)  
 ---  
 _Credit: ESO/A.-M. Lagrange et al._  
   

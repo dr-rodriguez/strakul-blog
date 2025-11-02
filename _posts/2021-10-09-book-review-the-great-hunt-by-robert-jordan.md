@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Great Hunt by Robert Jordan"
 date: 2021-10-09
-img: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437870280l/233649._SY475_.jpg
+img: posts/20211009/233649._SY475_.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
 description: ""
 ---
 
-[![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437870280l/233649._SY475_.jpg)](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437870280l/233649._SY475_.jpg)
+[![](assets/img/posts/20211009/233649._SY475_.jpg)](assets/img/posts/20211009/233649._SY475_.jpg)
 
 This is the second book of **The Wheel of Time** by Robert Jordan (and finished by Brandon Sanderson). I'll probably read at least the first 3 to mentally prepare myself for the new TV series. This one follows straight after [The Eye of the World](https://strakul.blogspot.com/2021/09/book-review-eye-of-world-by-robert.html) and continues the adventures of Rand, Perrin, Mat, and the others in their struggle to stay alive and figure out why the Dark One is hunting them.
 

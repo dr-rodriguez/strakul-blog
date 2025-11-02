@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Bands of Mourning by Brandon Sanderson"
 date: 2016-04-27
-img: https://d.gr-assets.com/books/1450134973l/18739426.jpg
+img: posts/20160427/18739426.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1450134973l/18739426.jpg)](https://d.gr-assets.com/books/1450134973l/18739426.jpg)
+[![](assets/img/posts/20160427/18739426.jpg)](assets/img/posts/20160427/18739426.jpg)
 
 **The Bands of Mourning** is the third book in the Wax and Wayne series of books in Brandon Sanderson's **Mistborn** universe. It continues to explore the characters while introducing new things to the world. There is a fascinating mix of allomantic magic and technology presented, which sets the stage for future stories in this world.  
   

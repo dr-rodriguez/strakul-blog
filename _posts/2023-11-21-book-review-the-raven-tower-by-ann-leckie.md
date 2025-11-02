@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Raven Tower by Ann Leckie"
 date: 2023-11-21
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601972697i/55578956.jpg
+img: posts/20231121/55578956.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601972697i/55578956.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601972697i/55578956.jpg)
+[![](assets/img/posts/20231121/55578956.jpg)](assets/img/posts/20231121/55578956.jpg)
 
 I've read several of Ann Leckie's science fiction books, like [Ancillary Justice](https://strakul.blogspot.com/2014/05/book-review-ancillary-justice-by-ann.html) and [Provenance](https://strakul.blogspot.com/2018/01/book-review-provenance-by-ann-leckie.html). The Raven Tower is her newest fantasy novel and I decided to give it a try. Here is the Goodreads blurb:
 

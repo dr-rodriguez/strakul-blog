@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: Cool Stars 18 Meeting"
 date: 2014-06-19
-img: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSNa9AT60NmGl8HknaZsQoQIMJC63KqO4Bh519fcZejpzFMqZaQcWiJgxwmVPKaXeOq3uMwr4Np7X5zZhDk2PJNa9gPQJIXEvEZp2WiBOGwdejziv5UQjOORpYX7__96W1WBe5Ve_Hh8c/s1600/logo.png
+img: posts/20140619/logo.png
 tags: [Travel, Brown Dwarfs, Planets, Astronomy, Stars]
 category: Travel
 author: Strakul
 description: ""
 ---
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSNa9AT60NmGl8HknaZsQoQIMJC63KqO4Bh519fcZejpzFMqZaQcWiJgxwmVPKaXeOq3uMwr4Np7X5zZhDk2PJNa9gPQJIXEvEZp2WiBOGwdejziv5UQjOORpYX7__96W1WBe5Ve_Hh8c/s1600/logo.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSNa9AT60NmGl8HknaZsQoQIMJC63KqO4Bh519fcZejpzFMqZaQcWiJgxwmVPKaXeOq3uMwr4Np7X5zZhDk2PJNa9gPQJIXEvEZp2WiBOGwdejziv5UQjOORpYX7__96W1WBe5Ve_Hh8c/s1600/logo.png)
+[![](assets/img/posts/20140619/logo.png)](assets/img/posts/20140619/logo.png)
 
 Last week, I visited Flagstaff, Arizona to attend the 18th meeting of the "Cambridge Workshop on Cool Stars, Stellar Systems, and the Sun" more commonly known as "[Cool Stars 18](http://www2.lowell.edu/workshops/coolstars18/index.html)." This was an excellent conference and is probably the best I've ever been to. Despite being well focused on the field, there was still so much to see and learn. Furthermore, Flagstaff was a great city and I enjoyed my time there.  
   
@@ -22,19 +22,19 @@ Here I summarize some of my thoughts on the meeting.
   
 Cool Stars 18 was a great conference and I enjoyed it much more than my prior Cool Stars. I think that may be because I now know a lot more people in the field, whereas [last Cool Stars](http://strakul.blogspot.com/2012/07/astronomy-cool-stars-17-meeting.html) was the first time meeting these people. I also liked that breakfast and lunch were provided in the conference center, which facilitated interaction and meant that it was less likely that you would be eating alone or struggling to find a good place to eat. The continued interaction with my peers led to many good conversations and made me feel a valued member of the low mass community. I took it as an opportunity to catch up with people and socialize a lot more than at other conferences.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrA4uQBoeIj7hZdv8wmM9rhVeO_6YU-z7duHoP7GdjP5BW2huNB3tbSMoCbA-QfVlnMrEpo8NhwQJ5oRC5jdxbR5IKx_A6GsujLZqaaaLdweFKES01QtE0UXfilzYeidcDPhMnnZ6B0EQ/s1600/IMG_3678.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrA4uQBoeIj7hZdv8wmM9rhVeO_6YU-z7duHoP7GdjP5BW2huNB3tbSMoCbA-QfVlnMrEpo8NhwQJ5oRC5jdxbR5IKx_A6GsujLZqaaaLdweFKES01QtE0UXfilzYeidcDPhMnnZ6B0EQ/s1600/IMG_3678.JPG)  
+[![](assets/img/posts/20140619/IMG_3678.JPG)](assets/img/posts/20140619/IMG_3678.JPG)  
 ---  
 The conference venue. May not look like much, but it's what's inside that counts.  
   
 Another good aspect of this meeting was how active the chair, Gerard van Belle, was on twitter. This meant we got frequent updates on anything that was going on. While I personally didn't go to the karaoke night(s?), by being advertised this way (and on stage in person) I felt everyone was welcome to attend. The whole conference had a positive vibe of open arms to all.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkRk2oOtiu2nzxDfxAPMKv7SEvxXt2T3F-PuKNs1eLCfToTaScp4CU9lk_cY2IuRS_r_NnNONu1k-v6uxf4CWH6Dr6puk3vs0Kpcx8j51u89akAeHrBusClMADqIhr8jzXYPmO-2YoYLk/s1600/IMG_3906.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkRk2oOtiu2nzxDfxAPMKv7SEvxXt2T3F-PuKNs1eLCfToTaScp4CU9lk_cY2IuRS_r_NnNONu1k-v6uxf4CWH6Dr6puk3vs0Kpcx8j51u89akAeHrBusClMADqIhr8jzXYPmO-2YoYLk/s1600/IMG_3906.JPG)  
+[![](assets/img/posts/20140619/IMG_3906.JPG)](assets/img/posts/20140619/IMG_3906.JPG)  
 ---  
 The main conference hall where we listened to the talks; I sat about halfway in the room. Here Jacqueline Faherty is telling us about young brown dwarfs.  
   
 I participated in Twitter a bit as well, as I usually do on conferences, but not a huge amount. I like to tweet unique things and accurate facts, but since there were plenty of tweeters, I felt we were well covered and didn't contribute all the time. A cool thing is that twitter awards were given based on quantity, quality, and poetry (some people were really good at haikus and limericks for the talks). There was also a special shout-out to Little Brown Dwarf ([@knitted_bd](https://twitter.com/knitted_bd)), and to Eric Mamajek for "Rabble Rouser in Absentia."  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTHnOcRN6_58Zt3pmVwnO7EGiV9LrPOVFI54p7Hhe8zUScHM1JYhHRhVqfGmxM6Hl9vmFZ-8KOl16L5c3bKaWNDGO-kt4VBVjkZO6wVU1XmDlWpHgmlvH0uH_a8jdxjQ1g0BTRI2L_Q/s1600/IMG_3877.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRWTHnOcRN6_58Zt3pmVwnO7EGiV9LrPOVFI54p7Hhe8zUScHM1JYhHRhVqfGmxM6Hl9vmFZ-8KOl16L5c3bKaWNDGO-kt4VBVjkZO6wVU1XmDlWpHgmlvH0uH_a8jdxjQ1g0BTRI2L_Q/s1600/IMG_3877.JPG)  
+[![](assets/img/posts/20140619/IMG_3877.JPG)](assets/img/posts/20140619/IMG_3877.JPG)  
 ---  
 Lil' BD is ready to accrete some food!  
   
@@ -42,7 +42,7 @@ The conference dinner venue was nice and situated at a ski resort (off season, n
   
 Flagstaff was a very nice city. I didn't notice the altitude (7000 ft), but it helped keep the temperature at a warm, yet comfortable level. After the cold week in Chile, this was a welcome change! Wednesday was a half-day and I joined a tour to the Grand Canyon. This was my first visit there and it was amazing. Totally worth the trip. We even saw an elk (couldn't get a good picture, though)!  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNVihEADL7y80nSZAt8u5sl8biavP8dC1WkgUD6Iktn9UMqRy0IMSj_gds8N406Wi62OaR0c6z_j__oj3v-30mKZ0PXLq9nRnZfb57ETM-n79Win8HIw0MPPUvc61BWq8dk7ymyHOVvs/s1600/IMG_3766-3776-1.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxNVihEADL7y80nSZAt8u5sl8biavP8dC1WkgUD6Iktn9UMqRy0IMSj_gds8N406Wi62OaR0c6z_j__oj3v-30mKZ0PXLq9nRnZfb57ETM-n79Win8HIw0MPPUvc61BWq8dk7ymyHOVvs/s1600/IMG_3766-3776-1.jpg)  
+[![](assets/img/posts/20140619/IMG_3766-3776-1.jpg)](assets/img/posts/20140619/IMG_3766-3776-1.jpg)  
 ---  
 (Part of) The Grand Canyon. Click to see it bigger; it's worth it.  
   
@@ -51,7 +51,7 @@ The last day we also got to visit Lowell Observatory for some good barbecue (the
 Science-wise, there were some good talks and posters. The posters were sorted alphabetically, rather than by topic. This made them easy enough to find if you were looking for someone's particular poster,  
 but they were spread throughout several rooms and hallways and I know I missed a few relevant to my field of research. For my own science on young moving groups, there were several posters by people I knew. There was mention of the young moving groups in some talks, but few dedicated talks and no splinters on the topic. Still, thanks to the focused nature of Cool Stars, a lot of the talks are relevant to many of the attendees.  
   
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdr37lzjJ5GwY3Z1dK0dbB0Ni2wXiHjWbMFJ_loo9_d6_PGkrDVsVFY3ggVXtZXpyCrwSE-zLN1Ix0fBZc2LdlF-7WrMksK6RZT2AZcT_JVICnwr7Rlav9DwZed2uldSPWKLqGQqWzSvc/s1600/IMG_3873.JPG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdr37lzjJ5GwY3Z1dK0dbB0Ni2wXiHjWbMFJ_loo9_d6_PGkrDVsVFY3ggVXtZXpyCrwSE-zLN1Ix0fBZc2LdlF-7WrMksK6RZT2AZcT_JVICnwr7Rlav9DwZed2uldSPWKLqGQqWzSvc/s1600/IMG_3873.JPG)  
+[![](assets/img/posts/20140619/IMG_3873.JPG)](assets/img/posts/20140619/IMG_3873.JPG)  
 ---  
 The main poster hallway. A few other rooms also had posters, but this was probably the best place for them.  
   

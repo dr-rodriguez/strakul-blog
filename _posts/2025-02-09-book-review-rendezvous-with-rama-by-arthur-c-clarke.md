@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Rendezvous with Rama by Arthur C. Clarke"
 date: 2025-02-09
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424442956i/774928.jpg
+img: posts/20250209/774928.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424442956i/774928.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1424442956i/774928.jpg)I had read **Rendezvous with Rama** a long time ago, but I've been in a bit of a sci-fi reading phase and wanted to re-read it. Here is the Goodreads blurb:
+[![](assets/img/posts/20250209/774928.jpg)](assets/img/posts/20250209/774928.jpg)I had read **Rendezvous with Rama** a long time ago, but I've been in a bit of a sci-fi reading phase and wanted to re-read it. Here is the Goodreads blurb:
 
 _An all-time science fiction classic, Rendezvous with Rama is also one of Clarke's best novels--it won the Campbell, Hugo, Jupiter, and Nebula Awards. A huge, mysterious, cylindrical object appears in space, swooping in toward the sun. The citizens of the solar system send a ship to investigate before the enigmatic craft, called Rama, disappears. The astronauts given the task of exploring the hollow cylindrical ship are able to decipher some, but definitely not all, of the extraterrestrial vehicle's puzzles. From the ubiquitous trilateral symmetry of its structures to its cylindrical sea and machine-island, Rama's secrets are strange evidence of an advanced civilization. But who, and where, are the Ramans, and what do they want with humans? Perhaps the answer lies with the busily working biots, or the sealed-off buildings, or the inaccessible "southern" half of the enormous cylinder. Rama's unsolved mysteries are tantalizing indeed. Rendezvous with Rama is fast moving, fascinating, and a must-read for science fiction fans. Clarke collaborated with Gentry Lee in writing several Rama sequels, beginning with Rama II._
 

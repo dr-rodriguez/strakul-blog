@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Hundred Thousand Kingdoms by N.K. Jemisin"
 date: 2013-12-28
-img: https://d202m5krfqbpi5.cloudfront.net/books/1303143211l/6437061.jpg
+img: posts/20131228/6437061.jpg
 tags: [Fantasy, Book Club, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://d202m5krfqbpi5.cloudfront.net/books/1303143211l/6437061.jpg)](https://d202m5krfqbpi5.cloudfront.net/books/1303143211l/6437061.jpg)
+[![](assets/img/posts/20131228/6437061.jpg)](assets/img/posts/20131228/6437061.jpg)
 
 **The Hundred Thousand Kingdoms** is the first part of The Inheritance Trilogy by N.K. Jemisin. Despite being a trilogy, the first book stands on its own and can be read without the others. This is my second read through it thanks to selection by our local book club. I sure hope they like it better than my [last recommendation](http://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html)!  
   

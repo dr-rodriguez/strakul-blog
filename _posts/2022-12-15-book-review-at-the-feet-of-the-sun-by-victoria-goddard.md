@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: At the Feet of the Sun by Victoria Goddard"
 date: 2022-12-15
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660066326i/61918023.jpg
+img: posts/20221215/61918023.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660066326i/61918023.jpg)](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660066326i/61918023.jpg)
+[![](assets/img/posts/20221215/61918023.jpg)](assets/img/posts/20221215/61918023.jpg)
 
 This is the highly anticipated sequel to [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html). While it follows a few months after that book, I recommend those interested in this book read first [The Return of Fitzroy Angursell](https://strakul.blogspot.com/2022/05/book-review-return-of-fitzroy-angursell.html) and [The Redoubtable Pali Avramapul](https://strakul.blogspot.com/2022/10/book-review-redoubtable-pali-avramapul.html) at the very least. The stories there happen in tandem and set the stage for what will happen in this particular novel.
 

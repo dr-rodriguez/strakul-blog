@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Infidel by Ayaan Hirsi Ali"
 date: 2014-10-26
-img: https://d.gr-assets.com/books/1376783282l/2052892.jpg
+img: posts/20141026/2052892.jpg
 tags: [Books, Book Club]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](https://d.gr-assets.com/books/1376783282l/2052892.jpg)](https://d.gr-assets.com/books/1376783282l/2052892.jpg)
+[![](assets/img/posts/20141026/2052892.jpg)](assets/img/posts/20141026/2052892.jpg)
 
 This is the latest book we've read for the book club here in Santiago. It is very different from everything else I've read and reviewed here mainly because it is a straight up autobiography. As such, I will not review it in the same fashion as other books and instead give my overall impression as I briefly summarize it.  
   
