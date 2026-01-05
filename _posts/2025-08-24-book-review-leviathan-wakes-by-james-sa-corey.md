@@ -6,7 +6,7 @@ title: "Book Review: Leviathan Wakes by James S.A. Corey"
 date: 2025-08-24
 img: posts/20250824/11483885.jpg
 tags: [Science Fiction, Books]
-category: Science Fiction
+category: Books
 author: Strakul
 description: ""
 ---
