@@ -5,7 +5,7 @@ show_date: true
 title: "Book Review: Spellwright by Blake Charlton"
 date: 2024-08-04
 img: posts/20240804/6703145.jpg
-tags: []
+tags: [Fantasy, Books]
 category: 
 author: Strakul
 description: ""
