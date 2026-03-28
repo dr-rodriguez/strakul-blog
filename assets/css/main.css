@@ -3,18 +3,18 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #988fa8;    /* accent     */
-  --accent-dark:  #464356;    /* accent 2   */
-  --main:         #83974e;    /* main color */
-  --main-dim:     #404925;    /* dimmed version of main color */
-  --text:         #2B323B;
-  --grey1:        #5F5E58;
-  --grey2:        #8D897C;
-  --grey3:        #B4B3A7;
-  --grey4:        #DAD7D2;
-  --grey5:        #F0EFED;
-  --background:   #ffffff;
-  --shadow:       rgba(32,30,30,.3);
+  --accent:       #5C8A36;    /* accent     */
+  --accent-dark:  #6CA332;    /* accent 2   */
+  --main:         #6CA332;    /* main color */
+  --main-dim:     #466B1F;    /* dimmed version of main color */
+  --text:         #22201F;
+  --grey1:        #504E4A;
+  --grey2:        #78756F;
+  --grey3:        #A2A098;
+  --grey4:        #D1CFC7;
+  --grey5:        #EFECE4;
+  --background:   #FCFBF8;
+  --shadow:       rgba(30,28,26,.3);
   --github:       #333;
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
   --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
@@ -27,18 +27,18 @@ html {
 }
 
 html[data-theme="dark"]  {
-  --accent:       #412183;    /* accent   */
-  --accent-dark:  #605770;    /* accent 2    */
-  --main:         #9db168;    /* main color */
-  --main-dim:     #404925;    /* dimmed version of main color */
-  --text:         #CBCCCD;
-  --grey1:        #B1B1AE;
-  --grey2:        #959692;
-  --grey3:        #7C7E7B;
-  --grey4:        #636564;
-  --grey5:        #3B3D40;
-  --background:   #2B323B;
-  --shadow:       rgba(0,0,0,.3);
+  --accent:       #9DCC67;    /* accent   */
+  --accent-dark:  #89BD51;    /* accent 2    */
+  --main:         #89BD51;    /* main color */
+  --main-dim:     #638C3B;    /* dimmed version of main color */
+  --text:         #E6E4DF;
+  --grey1:        #B5B3AD;
+  --grey2:        #8C8B86;
+  --grey3:        #686762;
+  --grey4:        #454440;
+  --grey5:        #292826;
+  --background:   #1A1A1A;
+  --shadow:       rgba(0,0,0,.4);
   --github:       #000;
 }
 
