@@ -17,3 +17,11 @@ _site/
 google*.html
 Gemfile.lock
 .jekyll-metadata
+.jekyll-cache
+
+# AI Agents
+AGENTS.md
+.agents/
+.claude/
+.gemini/
+.cursor/
