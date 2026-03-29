@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Un Lun Dun by China Mieville"
 date: 2012-01-06
-img: posts/20120106/unlundun.jpg
+img: posts/2012/20120106/unlundun.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20120106/unlundun.jpg)](assets/img/posts/20120106/unlundun_1.jpg)
+[![](assets/img/posts/2012/20120106/unlundun.jpg)](assets/img/posts/2012/20120106/unlundun_1.jpg)
 
   
 This is China Mieville's first young adult (YA) book. I dislike the classification of books as 'YA' as it seems to me that the only reason is due to the age of the primary character. Regardless, the reason I read this is in preparation for Mieville's new book **Railsea** , which everyone claims will be YA as well despite the scarcity of information. **Railsea** and **Un Lun Dun** have nothing to do with each other, but I wanted to see how Mieville manages YA.  
@@ -27,7 +27,7 @@ Fast paced action with some very interesting twists on the whole 'quest fanatasy
 Without spoiling too much: this is the story of a city Unlike London: UnLondon. It is being attacked by the evil, sentient Smog, but prophecy says a Chosen one will come from London, go on a quest, and save them. In a clever twist, however, Mieville has the sidekick (the UnChosen one, if you will) actually be the hero. She's smart enough to realize the quest is bogus, skips around the prophecy, and manages to save the day. So much for quests and prophecies...  
   
 **Character:**  
-[![](assets/img/posts/20120106/binja.jpg)](assets/img/posts/20120106/binja.jpg)  
+[![](assets/img/posts/2012/20120106/binja.jpg)](assets/img/posts/2012/20120106/binja.jpg)  
 ---  
 _A binja of Un Lun Dun_  
 Mieville has created some cool and very unusual characters here. The most ordinary ones are the two London girls who visit UnLondon- Zanna and Deeba. The others are UnLondoners of all shapes and sizes ranging from spoken words, half-ghosts, animated rubbish, and monsters of all kinds. One thing I wasn't expecting is that the book is illustrated by China Mieville himself. We get to see how some of the characters and most of the monsters look like (though see below for some fan art). Most of the monsters are neat, but I was terrified at the illustration (and description) of the giraffes. Just like the Londoners I was all like: "_Giraffes? Ha! They don't scare me_ " and then after seeing them: "_RUN!!_ "  

@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Santiago a Mil: Titanic"
 date: 2012-01-22
-img: posts/20120122/IMG_4042_1.JPG
+img: posts/2012/20120122/IMG_4042_1.JPG
 tags: [Life in Chile, Culture]
 category: Life in Chile
 author: Strakul
@@ -18,13 +18,13 @@ Titanic was produced by the German group Theater Titanick and tells the story of
 Here we go, the show hasn't started, but people are gathering at the Plaza for the Santiago a Mil festival.  
 
 
-[![](assets/img/posts/20120122/IMG_4042_1.JPG)](assets/img/posts/20120122/IMG_4042.JPG)
+[![](assets/img/posts/2012/20120122/IMG_4042_1.JPG)](assets/img/posts/2012/20120122/IMG_4042.JPG)
 
   
 My view of the stage:  
 
 
-[![](assets/img/posts/20120122/IMG_4043_1.JPG)](assets/img/posts/20120122/IMG_4043.JPG)
+[![](assets/img/posts/2012/20120122/IMG_4043_1.JPG)](assets/img/posts/2012/20120122/IMG_4043.JPG)
 
 I latter stood up to see better (as everyone was doing), but you can tell I had a good spot. The stage is not built yet, as the first part of the show deals with the construction of the Titanic.
 
@@ -42,7 +42,7 @@ The Titanic is fully built and sailing across the Atlantic. Notice the streams o
 Here is a picture, moments after the hit the iceberg:  
 
 
-[![](assets/img/posts/20120122/IMG_4078_1.JPG)](assets/img/posts/20120122/IMG_4078.JPG)
+[![](assets/img/posts/2012/20120122/IMG_4078_1.JPG)](assets/img/posts/2012/20120122/IMG_4078.JPG)
 
 You can see the engineer at the bow of the ship working to stop the water coming in.  
   
@@ -64,7 +64,7 @@ This are looking really bad on the Titanic. The crew takes these signal fires to
 The fire-net they raise near the bow is over exposed in the video, here's what it actually looked like:  
 
 
-[![](assets/img/posts/20120122/IMG_4093.JPG)](assets/img/posts/20120122/IMG_4093_1.JPG)
+[![](assets/img/posts/2012/20120122/IMG_4093.JPG)](assets/img/posts/2012/20120122/IMG_4093_1.JPG)
 
 I assume this was just another way to signal the ships, though it could represented the fires going on below decks as things have gotten out of control.  
   
@@ -76,7 +76,7 @@ The stage is dismantled before our eyes (with lots of fire and water effects). T
 Here's the ruins of the set, at the end of the show:  
 
 
-[![](assets/img/posts/20120122/IMG_4107.JPG)](assets/img/posts/20120122/IMG_4107_1.JPG)
+[![](assets/img/posts/2012/20120122/IMG_4107.JPG)](assets/img/posts/2012/20120122/IMG_4107_1.JPG)
 
   
   

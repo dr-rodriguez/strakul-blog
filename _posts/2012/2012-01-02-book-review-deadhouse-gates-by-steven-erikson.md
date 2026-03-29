@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Deadhouse Gates by Steven Erikson"
 date: 2012-01-02
-img: posts/20120102/afe4228348a07f5563bce010.L._AA300_.jpg
+img: posts/2012/20120102/afe4228348a07f5563bce010.L._AA300_.jpg
 tags: [Fantasy, Malazan, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20120102/afe4228348a07f5563bce010.L._AA300_.jpg)](assets/img/posts/20120102/afe4228348a07f5563bce010.L._AA300_.jpg)
+[![](assets/img/posts/2012/20120102/afe4228348a07f5563bce010.L._AA300_.jpg)](assets/img/posts/2012/20120102/afe4228348a07f5563bce010.L._AA300_.jpg)
 
   
 This is the 2nd book of the Malazan Book of the Fallen series.  

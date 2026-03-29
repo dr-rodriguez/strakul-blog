@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Chile After the Rain"
 date: 2012-04-28
-img: posts/20120428/IMG_2487.JPG
+img: posts/2012/20120428/IMG_2487.JPG
 tags: [Life in Chile, Pictures]
 category: Life in Chile
 author: Strakul
@@ -14,7 +14,7 @@ description: ""
 Yesterday we had a lot of rain in Santiago. The day started foggy and cold:  
 
 
-[![](assets/img/posts/20120428/IMG_2487.JPG)](assets/img/posts/20120428/IMG_2487_1.JPG)
+[![](assets/img/posts/2012/20120428/IMG_2487.JPG)](assets/img/posts/2012/20120428/IMG_2487_1.JPG)
 
   
 It then started raining, with thunder and lightning, and eventually even hail.  
@@ -29,7 +29,7 @@ Today, however, the day is expected to be clear or partly cloudy.
 I woke up this morning to see a beautiful sunrise over mountains that are now capped with snow:  
 
 
-[![](assets/img/posts/20120428/AfterRain_Apr282012.jpg)](assets/img/posts/20120428/AfterRain_Apr282012_1.jpg)
+[![](assets/img/posts/2012/20120428/AfterRain_Apr282012.jpg)](assets/img/posts/2012/20120428/AfterRain_Apr282012_1.jpg)
 
   
 Winter is truly coming... 
