@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: La Belle Sauvage by Philip Pullman"
 date: 2025-12-14
-img: posts/20251214/34128219.jpg
+img: posts/2025/20251214/34128219.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20251214/34128219.jpg)](assets/img/posts/20251214/34128219.jpg)
+[![](assets/img/posts/2025/20251214/34128219.jpg)](assets/img/posts/2025/20251214/34128219.jpg)
 **La Belle Sauvage** is the first of The Book of Dust, a separate trilogy set in Philip Pullman's **His Dark Materials** universe. I enjoyed the first series so I figured I'd give this one a try. Here is the Goodreads blurb:
 
 *Malcolm Polstead is the kind of boy who notices everything but is not much noticed himself. And so perhaps it was inevitable that he would become a spy...*  

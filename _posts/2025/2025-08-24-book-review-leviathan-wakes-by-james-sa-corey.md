@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Leviathan Wakes by James S.A. Corey"
 date: 2025-08-24
-img: posts/20250824/11483885.jpg
+img: posts/2025/20250824/11483885.jpg
 tags: [Science Fiction, Books]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20250824/11483885.jpg)](assets/img/posts/20250824/11483885.jpg)
+[![](assets/img/posts/2025/20250824/11483885.jpg)](assets/img/posts/2025/20250824/11483885.jpg)
 
 This is the first book of **The Expanse** series, which is very well regarded among sci-fi fans. I recently watched the TV show, which is surprisingly good, and decided to go back and read the series. I had read the first and second novels, but stopped along time ago. With an upcoming RPG videogame by Owlcat Studios, this seemed like a good time to brush up on the books. Here's the Goodreads blurb:
 

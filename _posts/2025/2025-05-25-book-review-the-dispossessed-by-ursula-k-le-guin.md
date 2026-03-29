@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Dispossessed by Ursula K. Le Guin"
 date: 2025-05-25
-img: posts/20250525/218805655.jpg
+img: posts/2025/20250525/218805655.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20250525/218805655.jpg)](assets/img/posts/20250525/218805655.jpg)
+[![](assets/img/posts/2025/20250525/218805655.jpg)](assets/img/posts/2025/20250525/218805655.jpg)
 
 **The Dispossessed** is a major book in the science fiction community, having won multiple awards and being highly regarded. I had, for whatever reason, never actually read it, though I've read other of Ursula Le Guin's books. So after hearing about it recently at work I decided to go ahead and give it a read.
 

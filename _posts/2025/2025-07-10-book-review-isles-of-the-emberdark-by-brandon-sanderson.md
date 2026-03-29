@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Isles of the Emberdark by Brandon Sanderson"
 date: 2025-07-10
-img: posts/20250710/cover.jpg
+img: posts/2025/20250710/cover.jpg
 tags: [Books, Cosmere, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20250710/cover.jpg)](assets/img/posts/20250710/cover_1.jpg)Isles of the Emberdark is a Cosmere novel by Brandon Sanderson. This was offered as part of a Kickstarter I backed and I've heard it referred to as the 5th of the Secret Projects, a series of books he wrote during the COVID lockdown years. Here is the Goodreads blurb:
+[![](assets/img/posts/2025/20250710/cover.jpg)](assets/img/posts/2025/20250710/cover_1.jpg)Isles of the Emberdark is a Cosmere novel by Brandon Sanderson. This was offered as part of a Kickstarter I backed and I've heard it referred to as the 5th of the Secret Projects, a series of books he wrote during the COVID lockdown years. Here is the Goodreads blurb:
 
 _The Ones Above are starting to grow impatient and want to build an installation to breed and collect Aviar on one of First of the Sun's islands. Vathi and Dusk are trying to figure out how to delay their progress and are also dealing with people from another world, likely Roshar. Dusk realizes that the people of First of the Sun are hopelessly outmatched and decides to go through Patji's Eye, the perpendicularity on the island Patji, to try to enlist help._
 
