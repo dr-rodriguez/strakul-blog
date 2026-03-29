@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Second Foundation by Isaac Asimov"
 date: 2021-09-12
-img: posts/20210912/29580.jpg
+img: posts/2021/20210912/29580.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20210912/29580.jpg)](assets/img/posts/20210912/29580.jpg)
+[![](assets/img/posts/2021/20210912/29580.jpg)](assets/img/posts/2021/20210912/29580.jpg)
 
 This is the third book of the original Foundation trilogy. There are actually a few more (**Foundation's Edge** , **Foundation and Earth**) which I've also read before, but my copy was a hardcover containing the first 3 books. This then is the culmination of the main arc of the Foundation story, revolving all around the mysterious Second Foundation.
 

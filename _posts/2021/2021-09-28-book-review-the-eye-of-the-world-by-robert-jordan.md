@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Eye of the World by Robert Jordan"
 date: 2021-09-28
-img: posts/20210928/228665.jpg
+img: posts/2021/20210928/228665.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20210928/228665.jpg)](assets/img/posts/20210928/228665.jpg)
+[![](assets/img/posts/2021/20210928/228665.jpg)](assets/img/posts/2021/20210928/228665.jpg)
 
 I have read **The Eye of the World** , the first book of **The Wheel of Time** , probably 3 times since I first discovered it more than a dozen years ago. It's stayed with me all this time and with the announcement of an actual TV series based on it (not the vague rumors from years ago), I knew I had to at least re-read the first book to re-acquaint myself with the characters and the legend of the Dragon. One of the largest Epic fantasy stories of modern times, it deserves to be read by fans of the genre.
 
