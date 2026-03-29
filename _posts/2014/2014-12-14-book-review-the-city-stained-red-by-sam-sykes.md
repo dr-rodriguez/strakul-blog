@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The City Stained Red by Sam Sykes"
 date: 2014-12-14
-img: posts/20141214/23464181.jpg
+img: posts/2014/20141214/23464181.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20141214/23464181.jpg)](assets/img/posts/20141214/23464181.jpg)
+[![](assets/img/posts/2014/20141214/23464181.jpg)](assets/img/posts/2014/20141214/23464181.jpg)
 
 I bought this book because Sam Sykes told me to on twitter:  
 
