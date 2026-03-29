@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: More and More Planets"
 date: 2013-04-19
-img: posts/20130419/19planets-span-articleLarge.jpg
+img: posts/2013/20130419/19planets-span-articleLarge.jpg
 tags: [Astronomy, Planets]
 category: Astronomy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20130419/19planets-span-articleLarge.jpg)](assets/img/posts/20130419/19planets-span-articleLarge.jpg)  
+[![](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)](assets/img/posts/2013/20130419/19planets-span-articleLarge.jpg)  
 ---  
 Artist depiction of Kepler 62f  
   

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Astronomy: A Video of the Local Universe"
 date: 2013-06-14
-img: posts/20130614/1.jpg
+img: posts/2013/20130614/1.jpg
 tags: [Galaxies, Astronomy]
 category: Galaxies
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20130614/1.jpg)](assets/img/posts/20130614/1.jpg)  
+[![](assets/img/posts/2013/20130614/1.jpg)](assets/img/posts/2013/20130614/1.jpg)  
 ---  
 Cosmic flow near the Local Group of galaxies. Credit: [Courtois et al 2013](http://arxiv.org/abs/1306.0091); [Cosmic Flows conference](http://www.cpt.univ-mrs.fr/~cosmo/CosFlo13/CosFlo13.html).  
   

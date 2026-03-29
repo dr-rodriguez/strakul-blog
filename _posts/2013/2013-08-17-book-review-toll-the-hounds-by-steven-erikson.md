@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Toll the Hounds by Steven Erikson"
 date: 2013-08-17
-img: posts/20130817/8177049.jpg
+img: posts/2013/20130817/8177049.jpg
 tags: [Fantasy, Malazan, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20130817/8177049.jpg)](assets/img/posts/20130817/8177049.jpg)
+[![](assets/img/posts/2013/20130817/8177049.jpg)](assets/img/posts/2013/20130817/8177049.jpg)
 
 **Toll the Hounds** is the 8th book in the Malazan Book of the Fallen series.  
   
