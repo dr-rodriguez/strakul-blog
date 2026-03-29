@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Data Science: The Divided States of America"
 date: 2016-07-29
-img: posts/20160729/map_twitter.png
+img: posts/2016/20160729/map_twitter.png
 tags: [Data Science, Politics, Text Mining, Python]
 category: Data Science
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20160729/map_twitter.png)](assets/img/posts/20160729/map_twitter_1.png)
+[![](assets/img/posts/2016/20160729/map_twitter.png)](assets/img/posts/2016/20160729/map_twitter_1.png)
 
   
   
@@ -30,7 +30,7 @@ I used scikit-learn’s [SVC](http://scikit-learn.org/stable/modules/generated/s
 Given that my data is multi-dimensional (123 columns), I can’t create a figure like the one above. However, I can use a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) to see how accurately I predict values from my test dataset. You can see this below.  
 
 
-[![](assets/img/posts/20160729/confusion_matrix_1.png)](assets/img/posts/20160729/confusion_matrix.png)
+[![](assets/img/posts/2016/20160729/confusion_matrix_1.png)](assets/img/posts/2016/20160729/confusion_matrix.png)
 
   
   
@@ -70,7 +70,7 @@ Above is a [Bokeh](http://bokeh.pydata.org/en/latest/) interactive figure of the
 This map is the figure that’s displayed at the very top of this blog post. Here is a cleaner version without the Twitter data superimposed:  
 
 
-[![](assets/img/posts/20160729/map_1.png)](assets/img/posts/20160729/map.png)
+[![](assets/img/posts/2016/20160729/map_1.png)](assets/img/posts/2016/20160729/map.png)
 
   
   

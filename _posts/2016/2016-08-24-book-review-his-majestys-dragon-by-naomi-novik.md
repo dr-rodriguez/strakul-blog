@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: His Majesty's Dragon by Naomi Novik"
 date: 2016-08-24
-img: posts/20160824/18626894.jpg
+img: posts/2016/20160824/18626894.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20160824/18626894.jpg)](assets/img/posts/20160824/18626894.jpg)
+[![](assets/img/posts/2016/20160824/18626894.jpg)](assets/img/posts/2016/20160824/18626894.jpg)
 
 I've had **His Majesty's Dragon** , the first of the **Temeraire** series, by Naomi Novik on my to-read list for quite some time. Having dragons in the Napoleonic wars sounded like an excellent plot point: fantasy combined with history. After being reminded about the series by a colleague at work, I decided to go ahead and read it and find out what it was all about.  
   
