@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Children of Time by Adrian Tchaikovsky"
 date: 2024-06-02
-img: posts/20240602/40514364.jpg
+img: posts/2024/20240602/40514364.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20240602/40514364.jpg)](assets/img/posts/20240602/40514364.jpg)
+[![](assets/img/posts/2024/20240602/40514364.jpg)](assets/img/posts/2024/20240602/40514364.jpg)
 
 A while back I saw a [BlueSky post](https://bsky.app/profile/reactorsff.bsky.social/post/3kqbjc6liwy2h) from [Reactor magazine](https://reactormag.com/) that asked users what modern sci-fi books or series would likely become classics. **Children of Time** was one of them, and one that I hadn't already read. Coincidentally, I also noticed a friend of mind had recently reviewed it on Goodreads so I decided to give it a shot. Here's the official blurb:
 

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Spellbreaker by Blake Charlton"
 date: 2024-09-24
-img: posts/20240924/7954785.jpg
+img: posts/2024/20240924/7954785.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20240924/7954785.jpg)](assets/img/posts/20240924/7954785.jpg)
+[![](assets/img/posts/2024/20240924/7954785.jpg)](assets/img/posts/2024/20240924/7954785.jpg)
 
 **Spellbreaker** is the third and final novel in the Spellwright series. It's probably my favorite of the three given all that happens alongside the setting. Here is the official blurb:
 
