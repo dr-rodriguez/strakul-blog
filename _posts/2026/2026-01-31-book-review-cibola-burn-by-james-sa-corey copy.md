@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Cibola Burn by James S.A. Corey"
 date: 2026-01-31
-img: posts/20260131/18656030.jpg
+img: posts/2026/20260131/18656030.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: "Book review for Cibola Burn by James S.A. Corey"
 ---
 
-[![](assets/img/posts/20260131/18656030.jpg)](assets/img/posts/20260131/18656030.jpg)
+[![](assets/img/posts/2026/20260131/18656030.jpg)](assets/img/posts/2026/20260131/18656030.jpg)
 This is the 4th book in **The Expanse** series. Just continuing my read of the books and comparing them to the TV series. Here is the Goodreads blurb:
 
 *The gates have opened the way to thousands of habitable planets, and the land rush has begun. Settlers stream out from humanity's home planets in a vast, poorly controlled flood, landing on a new world. Among them, the Rocinante, haunted by the vast, posthuman network of the protomolecule as they investigate what destroyed the great intergalactic society that built the gates and the protomolecule.*  

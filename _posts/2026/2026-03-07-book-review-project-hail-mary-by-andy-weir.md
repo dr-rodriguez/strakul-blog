@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Project Hail Mary by Andy Weir"
 date: 2026-03-07
-img: posts/20260307/222697645.jpg
+img: posts/2026/20260307/222697645.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: "Book review for Project Hail Mary by Andy Weir"
 ---
 
-[![](assets/img/posts/20260307/222697645.jpg)](assets/img/posts/20260307/222697645.jpg)
+[![](assets/img/posts/2026/20260307/222697645.jpg)](assets/img/posts/2026/20260307/222697645.jpg)
 While I haven't read Andy Weir's work before, I was familiar with **The Martian** thanks to the movie and hearing that Project Hail Mary was going to be turned to one I figured I'd read the book before watching it. Here's the Goodreads blurb:
 
 *RYLAND GRACE is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish.*

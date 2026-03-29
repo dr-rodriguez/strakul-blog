@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Well of Ascension by Brandon Sanderson"
 date: 2026-02-22
-img: posts/20260222/123224262.jpg
+img: posts/2026/20260222/123224262.jpg
 tags: [Books, Cosmere, Fantasy]
 category: Books
 author: Strakul
 description: "Book review for The Well of Ascension by Brandon Sanderson"
 ---
 
-[![](assets/img/posts/20260222/123224262.jpg)](assets/img/posts/20260222/123224262.jpg)
+[![](assets/img/posts/2026/20260222/123224262.jpg)](assets/img/posts/2026/20260222/123224262.jpg)
 This is the 2nd book in the original **Mistborn** series by Brandon Sanderson. It's been a long time since I read these, but I'm making my way slowly through them again. Here is the Goodreads blurb:
 
 *Vin, the street urchin who has grown into the most powerful Mistborn in the land, and Elend Venture, the idealistic young nobleman who loves her, must build a healthy new society in the ashes of an empire. Three separate armies attack. As the siege tightens, an ancient legend seems to offer a glimmer of hope. But even if it really exists, no one knows where to find the Well of Ascension or what manner of power it bestows.*

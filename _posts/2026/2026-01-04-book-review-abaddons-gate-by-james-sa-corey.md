@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Abaddon's Gate by James S.A. Corey"
 date: 2026-01-04
-img: posts/20260104/16131032.jpg
+img: posts/2026/20260104/16131032.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: "Book review for Abaddon's Gate by James S.A. Corey"
 ---
 
-[![](assets/img/posts/20260104/16131032.jpg)](assets/img/posts/20260104/16131032.jpg)
+[![](assets/img/posts/2026/20260104/16131032.jpg)](assets/img/posts/2026/20260104/16131032.jpg)
 This is the 3rd book in **The Expanse** series. I watched the TV series first but have been meaning to get through all the books at some point. Here is the Goodreads blurb:
 
 *For generations, the solar system - Mars, the Moon, the Asteroid Belt - was humanity's great frontier. Until now. The alien artefact working through its program under the clouds of Venus has emerged to build a massive structure outside the orbit of Uranus: a gate that leads into a starless dark.*
