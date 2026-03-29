@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Eight Skilled Gentlemen by Barry Hughart"
 date: 2015-08-12
-img: posts/20150812/77206.jpg
+img: posts/2015/20150812/77206.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20150812/77206.jpg)](assets/img/posts/20150812/77206.jpg)
+[![](assets/img/posts/2015/20150812/77206.jpg)](assets/img/posts/2015/20150812/77206.jpg)
 
 **Eight Skilled Gentleman** is the third installment of Barry Hughart's **Chronicles of Master Li and Number Ten Ox**. It follows from the prior books, but an indeterminate amount of time has passed. As before, the novel takes elements of Chinese history and myth and blends them together with a lot of fantasy and a detective-style story.  
   

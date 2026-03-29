@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Scar by China Mieville"
 date: 2015-04-12
-img: posts/20150412/1069345.jpg
+img: posts/2015/20150412/1069345.jpg
 tags: [Books, Fantasy]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20150412/1069345.jpg)](assets/img/posts/20150412/1069345.jpg)
+[![](assets/img/posts/2015/20150412/1069345.jpg)](assets/img/posts/2015/20150412/1069345.jpg)
 
 I had read this previously, but always remembered it as one of my favorite Mieville books. On a second read it didn't disappoint, though I realized there were a lot of things I didn't remember about the book, including the ending! While it is frequently described as the second novel in the Bas-Lag universe, it is important to realize that it does not require reading the prior novel (**Perdido Street Station**) as it is not a strict sequel.  
   

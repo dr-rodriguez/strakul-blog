@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Leaving Chile: The Next Adventure"
 date: 2015-10-04
-img: posts/20151004/nyc-skyline.jpg
+img: posts/2015/20151004/nyc-skyline.jpg
 tags: [Life in Chile, Travel, Astronomy]
 category: Life in Chile
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20151004/nyc-skyline.jpg)](assets/img/posts/20151004/nyc-skyline_1.jpg)
+[![](assets/img/posts/2015/20151004/nyc-skyline.jpg)](assets/img/posts/2015/20151004/nyc-skyline_1.jpg)
 
   
 This is a short post to let you know the latest in my adventures. Over the past few weeks, I've been packing up and getting ready to move out of Chile. My current fellowship has ended and after these four years I'll be returning to the United States. Specifically, I'll be moving to New York to work at the American Museum of Natural History. This next job is a bit of a hybrid job with a variety of tasks to do. I'll be helping out with some of the science carried out by the BDNYC group, mentoring students, producing visualizations, helping manage their brown dwarf database, etc, etc. It's a job that will train me in a variety of ways and can serve as a stepping stone in my future career.  

@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Novella Review: Perfect State by Brandon Sanderson"
 date: 2015-11-25
-img: posts/20151125/25188109.jpg
+img: posts/2015/20151125/25188109.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20151125/25188109.jpg)](assets/img/posts/20151125/25188109.jpg)
+[![](assets/img/posts/2015/20151125/25188109.jpg)](assets/img/posts/2015/20151125/25188109.jpg)
 
 I've been busy of late, but still have wanted to read something in my morning commute to work. As such, I decided to peak a short, light read. Unfortunately, it ended up being so interesting that I finished it super fast! Here you'll find a brief review of the novella **Perfect State** by Brandon Sanderson. As a novella, I just write on my overall impression instead of going through the detailed subsections I usually do. But first, here is the Goodreads blurb to tell you what it's about:  
   
