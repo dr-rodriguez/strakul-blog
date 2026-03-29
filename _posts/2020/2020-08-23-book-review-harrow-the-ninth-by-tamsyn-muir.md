@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Harrow the Ninth by Tamsyn Muir"
 date: 2020-08-23
-img: posts/20200823/harrow_1.jpg
+img: posts/2020/20200823/harrow_1.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20200823/harrow_1.jpg)](assets/img/posts/20200823/harrow.jpg)
+[![](assets/img/posts/2020/20200823/harrow_1.jpg)](assets/img/posts/2020/20200823/harrow.jpg)
 
 **The Locked Tomb Trilogy** by Tamsyn Muir continues with **Harrow the Ninth**. This takes place shortly after the events of [Gideon the Ninth](https://strakul.blogspot.com/2020/03/book-review-gideon-ninth-by-tamsyn-muir.html) and quickly starts tackling some of the loose ends left from that book, all while introducing new things to be excited about. Combining science fiction, fantasy, horror, and who knows what else, this book will surprise you.
 

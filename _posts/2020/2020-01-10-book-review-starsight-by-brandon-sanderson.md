@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Starsight by Brandon Sanderson"
 date: 2020-01-10
-img: posts/20200110/43936287._SY475_.jpg
+img: posts/2020/20200110/43936287._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20200110/43936287._SY475_.jpg)](assets/img/posts/20200110/43936287._SY475_.jpg)
+[![](assets/img/posts/2020/20200110/43936287._SY475_.jpg)](assets/img/posts/2020/20200110/43936287._SY475_.jpg)
 
 **Starsight** is the latest young-adult novel by Brandon Sanderson and is a follow up to [Skyward](https://strakul.blogspot.com/2018/12/book-review-skyward-by-brandon-sanderson.html). It picks up a bit after the prior novel and raises the stakes even higher.  
   

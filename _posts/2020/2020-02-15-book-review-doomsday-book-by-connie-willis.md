@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Doomsday Book by Connie Willis"
 date: 2020-02-15
-img: posts/20200215/1119221.jpg
+img: posts/2020/20200215/1119221.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20200215/1119221.jpg)](assets/img/posts/20200215/1119221.jpg)
+[![](assets/img/posts/2020/20200215/1119221.jpg)](assets/img/posts/2020/20200215/1119221.jpg)
 
 I had first heard about Connie Willis from a Hugo award she won for **Blackout/All Clear**. I knew it was time travel novel but never picked it up. A friend from work, however, strongly recommended her books and lent me her copy of **Doomsday Book** , which won the Hugo and Nebula awards. And what a ride it has been! This book was not what I expected and ended up being a really good read. Here's the blurb:  
 

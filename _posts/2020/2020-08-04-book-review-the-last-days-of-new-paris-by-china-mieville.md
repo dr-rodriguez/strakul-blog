@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Last Days of New Paris by China Mieville"
 date: 2020-08-04
-img: posts/20200804/27833610.jpg
+img: posts/2020/20200804/27833610.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20200804/27833610.jpg)](assets/img/posts/20200804/27833610_1.jpg)
+[![](assets/img/posts/2020/20200804/27833610.jpg)](assets/img/posts/2020/20200804/27833610_1.jpg)
 
 I've had **The Last Days of New Paris** on my to-read list for a while. I'm a fan of China Mieville and enjoyed many of his books, particularly [The City and The City](https://strakul.blogspot.com/2013/06/book-review-city-city-by-china-mieville.html) and [The Scar](https://strakul.blogspot.com/2015/04/book-review-scar-by-china-mieville.html). This is a novella, so it's much shorter than before and I decided to go ahead and just dive right into it.
 
@@ -46,7 +46,7 @@ We mainly follow Thibaut, a young _Main à plume_ , in his resistance of the Naz
 
 **Setting / World Building**
 
-[![](assets/img/posts/20200804/47ae7359019ade05787ddbca8bb5b062.jpg)](assets/img/posts/20200804/47ae7359019ade05787ddbca8bb5b062_1.jpg)  
+[![](assets/img/posts/2020/20200804/47ae7359019ade05787ddbca8bb5b062.jpg)](assets/img/posts/2020/20200804/47ae7359019ade05787ddbca8bb5b062_1.jpg)  
 ---  
   
 ## Exquisite Corpse by André Breton, 
