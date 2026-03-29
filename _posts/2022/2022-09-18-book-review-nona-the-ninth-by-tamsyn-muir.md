@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Nona the Ninth by Tamsyn Muir"
 date: 2022-09-18
-img: posts/20220918/59830943.jpg
+img: posts/2022/20220918/59830943.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20220918/59830943.jpg)](assets/img/posts/20220918/59830943.jpg)
+[![](assets/img/posts/2022/20220918/59830943.jpg)](assets/img/posts/2022/20220918/59830943.jpg)
 
 **Nona the Ninth** by Tamsyn Muir is the third book in **The Locked Tomb** series. This has been highly anticipated by fans all around. The series merges science fiction, fantasy, horror, with a splash of comedy and romance. It is weird and engaging in so many odd ways. The blurb for this one is pretty unusual as well, though it gets the point across:
 

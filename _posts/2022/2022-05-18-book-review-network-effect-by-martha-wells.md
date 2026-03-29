@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Book Review: Network Effect by Martha Wells"
 date: 2022-05-18
-img: posts/20220518/52381770._SY475_.jpg
+img: posts/2022/20220518/52381770._SY475_.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
@@ -13,7 +13,7 @@ description: ""
 
 ****
 
-**[![](assets/img/posts/20220518/52381770._SY475_.jpg)](assets/img/posts/20220518/52381770._SY475_.jpg)**
+**[![](assets/img/posts/2022/20220518/52381770._SY475_.jpg)](assets/img/posts/2022/20220518/52381770._SY475_.jpg)**
 
 **Network Effect** is the 5th book in the Murderbot series and the first full length novel. I've been enjoying the series and reading them on and off between other books. Here's the blurb from Goodreads: 
 

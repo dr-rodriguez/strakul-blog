@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Goblin Emperor by Katherine Addison"
 date: 2023-07-30
-img: posts/20230730/17404280.jpg
+img: posts/2023/20230730/17404280.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20230730/17404280.jpg)](assets/img/posts/20230730/17404280.jpg)
+[![](assets/img/posts/2023/20230730/17404280.jpg)](assets/img/posts/2023/20230730/17404280.jpg)
 
 This book has been on my to-read for a long time and I had heard it was very similar to [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html), which remains one my favorite books to date. I finally decided to give it a try. Here is the Goodreads blurb:
 

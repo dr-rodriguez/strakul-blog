@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: A Master of Djinn by P. Djeli Clark"
 date: 2022-06-19
-img: posts/20220619/52504334._SY475_.jpg
+img: posts/2022/20220619/52504334._SY475_.jpg
 tags: [Fantasy, Books, Science Fiction]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20220619/52504334._SY475_.jpg)](assets/img/posts/20220619/52504334._SY475_.jpg)
+[![](assets/img/posts/2022/20220619/52504334._SY475_.jpg)](assets/img/posts/2022/20220619/52504334._SY475_.jpg)
 
 A Master of Djinn by P. Djeli Clark is a Hugo novel finalist and has gathered a bit of attention lately. I've been curious about it and seeing it so broadly praised decided to give it a read. Here's the Goodreads blurb:
 

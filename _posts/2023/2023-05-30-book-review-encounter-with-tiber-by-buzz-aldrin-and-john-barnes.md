@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Encounter with Tiber by Buzz Aldrin and John Barnes"
 date: 2023-05-30
-img: posts/20230530/Encounter_with_Tiber_1.jpg
+img: posts/2023/20230530/Encounter_with_Tiber_1.jpg
 tags: [Books, Science Fiction]
 category: Books
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20230530/Encounter_with_Tiber_1.jpg)](assets/img/posts/20230530/Encounter_with_Tiber.jpg)
+[![](assets/img/posts/2023/20230530/Encounter_with_Tiber_1.jpg)](assets/img/posts/2023/20230530/Encounter_with_Tiber.jpg)
 
 I was recommended this book because it was about space travel and by a famous astronaut. I hadn't heard about it before, but the premise sounded interesting and figured I'd give it a try. It ended up being pretty good. Here's a short blurb:
 

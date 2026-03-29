@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Night Circus by Erin Morgenstern"
 date: 2023-02-04
-img: posts/20230204/9361589.jpg
+img: posts/2023/20230204/9361589.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20230204/9361589.jpg)](assets/img/posts/20230204/9361589.jpg)
+[![](assets/img/posts/2023/20230204/9361589.jpg)](assets/img/posts/2023/20230204/9361589.jpg)
 
 A friend of mine had recommended several books by Erin Morgenstern and I had read and thoroughly enjoyed [The Starless Sea](https://strakul.blogspot.com/2020/11/book-review-starless-sea-by-erin.html), so I figured it give **The Night Circus** a read. Instead of a magical library we have a magical circus. It seemed intriguing and atmospheric, here's the Goodreads blurb:
 

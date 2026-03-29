@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: The Return of Fitzroy Angursell by Victoria Goddard"
 date: 2022-05-01
-img: posts/20220501/56392665._SY475_.jpg
+img: posts/2022/20220501/56392665._SY475_.jpg
 tags: [Fantasy, Books]
 category: Fantasy
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20220501/56392665._SY475_.jpg)](assets/img/posts/20220501/56392665._SY475_.jpg)
+[![](assets/img/posts/2022/20220501/56392665._SY475_.jpg)](assets/img/posts/2022/20220501/56392665._SY475_.jpg)
 
 This book pretty much immediately follows [The Hands of the Emperor](https://strakul.blogspot.com/2022/04/book-review-hands-of-emperor-by.html) and while it is very different in scope and tone, you can consider it a bit of a sequel and should start with the former.
 

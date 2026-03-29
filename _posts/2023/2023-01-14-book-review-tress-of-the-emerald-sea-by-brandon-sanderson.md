@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Tress of the Emerald Sea by Brandon Sanderson"
 date: 2023-01-14
-img: posts/20230114/cover.jpg
+img: posts/2023/20230114/cover.jpg
 tags: [Cosmere, Fantasy, Books]
 category: Cosmere
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20230114/cover.jpg)](assets/img/posts/20230114/cover_1.jpg)
+[![](assets/img/posts/2023/20230114/cover.jpg)](assets/img/posts/2023/20230114/cover_1.jpg)
 
 Tress of the Emerald Sea is the first of Sanderson's "Secret Project"- a set of four novels written during the height of the covid pandemic and being independently published. As a Sanderson fan I had to sign up for them since I knew they would be fun reads and indeed the first hasn't disappointed. Plus as a Cosmere novel it connects to his grander universe. I look forward to seeing what the other 3 will be.
 
@@ -39,7 +39,7 @@ The plot of this book is fairly straightforward, though it takes some interestin
 
 #### Characters
 
-[![](assets/img/posts/20230114/SippingSaltyTea_1.jpg)](assets/img/posts/20230114/SippingSaltyTea.jpg)
+[![](assets/img/posts/2023/20230114/SippingSaltyTea_1.jpg)](assets/img/posts/2023/20230114/SippingSaltyTea.jpg)
 
 Central to the story is Tress. She starts off as a small town simple girl and initially gave me some Auri vibes with her unusual fascination on cups (from Rothfuss's Name of the Wind); however, she quickly grows to a more standard Sanderson heroine- an adventuring scholar. While she's great, it does seem Sanderson gravitates to that archetype very often so I felt she lost a bit of personality when leaning heavily into that. 
 

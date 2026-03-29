@@ -4,14 +4,14 @@ read_time: true
 show_date: true
 title: "Book Review: Lord of Chaos by Robert Jordan"
 date: 2023-10-14
-img: posts/20231014/35231.jpg
+img: posts/2023/20231014/35231.jpg
 tags: [Wheel of Time, Fantasy, Books]
 category: Wheel of Time
 author: Strakul
 description: ""
 ---
 
-[![](assets/img/posts/20231014/35231.jpg)](assets/img/posts/20231014/35231.jpg)
+[![](assets/img/posts/2023/20231014/35231.jpg)](assets/img/posts/2023/20231014/35231.jpg)
 
 **Lord of Chaos** is the 6th book in **The Wheel of Time** series by Robert Jordan. I revisited my re-read after watching a bit of the new season on Amazon. I'll probably get through a full re-read, but taking my time since I already know the story. Here's the Goodreads blurb:
 
